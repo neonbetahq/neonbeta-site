@@ -44,6 +44,7 @@ select:focus,input:focus{outline:2px solid var(--purple);outline-offset:1px}
 .badge{font-size:12px;font-weight:700;border-radius:6px;padding:2px 7px;background:var(--chip);display:inline-block;margin:0 4px 2px 0}
 .badge.off,.badge.free{color:var(--good)}.badge.low{color:var(--low)}.badge.soon{color:var(--blue)}
 .card .btn{margin-top:auto}
+.row a{font-size:13px;margin-left:auto;color:var(--purple);font-weight:600}
 .empty{color:var(--muted);padding:24px 0}
 .cta{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;margin:28px 0 0;display:flex;gap:12px;justify-content:space-between;align-items:center;flex-wrap:wrap}
 .cta p{margin:0;max-width:560px}
@@ -66,7 +67,7 @@ footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);colo
 
 <section id="v-deals">
  <h1>Game deals actually <em>worth buying</em>.</h1>
- <p class="sub">Not every discount is a good deal. We highlight real historical lows, free games to claim, fresh releases and what everyone is playing. NeonBeta is a small, fun side project, so it keeps growing.</p>
+ <p class="sub">Not every discount is a good deal. We highlight real historical lows, free games to claim, fresh releases and what everyone is playing. NeonBeta is a small, independent project made for fun, and it keeps growing.</p>
  <div class="note">Prices checked 21–22 Oct 2026 and shown in USD or EUR (converted at about 1 USD = 0.87 EUR). Deals change fast, so always confirm the price in the store.</div>
  <div class="tabs" role="tablist" id="tabs"></div>
  <div class="tools">
@@ -78,7 +79,7 @@ footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);colo
  </div>
  <p class="desc" id="desc"></p>
  <div class="grid" id="grid"></div>
- <p class="meta" id="credit" hidden>Deal data from <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>. Deal links on these tabs go through CheapShark.</p>
+ <p class="meta" id="credit" hidden>Price data courtesy of <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>, a free game-deal tracker. Deal links on these tabs go through them, which is how they keep the data free for everyone.</p>
  <div class="cta"><p><strong>Never miss a low.</strong> Our Discord bot pings you when a game hits your price, and a weekly email rounds up the best deals.</p><a class="btn" href="#" data-discord>Get alerts</a></div>
 </section>
 
@@ -86,11 +87,11 @@ footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);colo
  <h1>About <em>NeonBeta</em></h1>
  <p>NeonBeta helps gamers find game deals worth buying. Sales are noisy, so we focus on three things: real historical lows, free games you can claim, and fresh releases.</p>
  <h2>How it works</h2>
- <p>We collect prices from public price trackers such as CheapShark, and store sales and show them in USD or EUR. Each deal gets a short verdict, such as whether it is the lowest price on record, so you can tell a real bargain from an ordinary discount. Prices change fast, so always check the store before you buy.</p>
+ <p>We collect prices from free tools like CheapShark and from store sales, then show them in USD or EUR. Each deal gets a short verdict, such as whether it is the lowest price on record, so you can tell a real bargain from an ordinary discount. Prices change fast, so always check the store before you buy.</p>
  <h2>How we make money</h2>
  <p>Some links on NeonBeta are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. It keeps the site and the Discord running. We aim to list deals based on value, not on commission.</p>
  <h2>Made by gamers, for gamers</h2>
- <p>NeonBeta is a small, fun side project, not a company. It is made by gamers who like a good deal, and it is still growing, so things will change and improve. Tell us what is missing in our Discord.</p>
+ <p>NeonBeta is a small, independent project that we make for fun. It is made by gamers who like a good deal, and it is still growing, so things will change and improve. Tell us what is missing in our Discord.</p>
  <p><a class="btn" href="#" data-discord>Join the Discord</a></p>
 </section>
 <section id="v-contact" class="prose" hidden>
@@ -132,9 +133,9 @@ footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);colo
 </section>
 
 <footer>
- <p>NeonBeta is a small, fun side project, not a company.</p>
+ <p>NeonBeta is a small, independent project made for fun.</p>
  <p><a href="#about">About</a> · <a href="#contact">Contact</a> · <a href="#privacy">Privacy</a> · <a href="#services">Discord setup</a></p>
- Affiliate disclosure: some links on this site are affiliate links. If you buy through them we may earn a commission at no extra cost to you. Prices can change at any time; always check the store before buying. Currency conversion is approximate. Deal data on the Deals tabs comes from <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>.
+ Affiliate disclosure: some links on this site are affiliate links. If you buy through them we may earn a commission at no extra cost to you. Prices can change at any time; always check the store before buying. Currency conversion is approximate. Price data on the deal tabs is courtesy of <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>.
 </footer>
 </div>
 <script>
@@ -210,6 +211,12 @@ function route(id){
 function go(id){route(id)}
 function el(i){return document.getElementById(i)}
 var feedOn=false;
+var STATUS={"lowest-ever":"✅ Lowest price we’ve seen",great:"🔥 Great discount",solid:"👍 Solid discount",small:"⏳ Small discount · worth waiting for",wait:"⏳ Wait for a better price",free:"🎁 Free to keep","must-play":"⭐ Must play","hidden-gem":"💎 Hidden gem","co-op":"🤝 Great with friends",cozy:"🌿 Cozy pick",short:"⏱ Short and sweet"};
+function num(v){var n=parseFloat(v);return isNaN(n)?null:n}
+function sec(u){return u&&String(u).indexOf("https://")===0?String(u):""}
+function mkPick(p){var eds=(p.editions||[]).filter(function(e){return e&&e.name&&num(e.price)!=null}).map(function(e){return{name:e.name,price:num(e.price),regular:num(e.regular)||0,url:sec(e.url)}});var price=num(p.price);if(price==null&&eds.length)price=Math.min.apply(null,eds.map(function(e){return e.price}));var reg=num(p.regular);return{n:p.title,g:p.genre||"",s:p.store||"",p:price,r:reg!=null?reg:price,pick:1,status:p.status||"",note:p.note||"",type:p.type||"",edition:p.edition||"",hours:num(p.hours)||0,u:p.until||"",eds:eds,url:sec(p.url)}}
+function refreshFilters(){var stores=["All stores"].concat(Array.from(new Set(items.map(function(x){return x.s}).filter(Boolean))).sort());st.innerHTML=stores.map(function(s){return "<option>"+esc(s)+"</option>"}).join("");var gs=Array.from(new Set(items.map(function(x){return x.g}).filter(Boolean))).sort();el("genre").innerHTML=["All genres"].concat(gs).map(function(s){return "<option>"+esc(s)+"</option>"}).join("");el("genre").hidden=gs.length<3}
+function pickCard(x){var meta=[];if(x.g)meta.push(esc(x.g));if(x.s)meta.push(esc(x.s));if(x.edition)meta.push(esc(x.edition));if(x.u)meta.push(esc(x.u));var b='<span class="badge">⭐ Pick</span>';if(x.type&&x.type!=="game")b+='<span class="badge">'+esc(String(x.type).toUpperCase())+'</span>';if(x.p>0&&x.r>x.p)b+='<span class="badge off">-'+pct(x)+'%</span>';if(x.p===0)b+='<span class="badge free">FREE</span>';var price=x.p===0?'<span class="price">Free</span>':x.p==null?'<span class="price na">See price in store</span>':'<span class="price">'+(x.eds.length?'From ':'')+money(x.p)+'</span>';var old=(x.p!=null&&x.r>x.p)?'<span class="old">'+money(x.r)+'</span>':"";var lines=(STATUS[x.status]?'<div class="meta">'+STATUS[x.status]+'</div>':"")+(x.note?'<div class="meta">'+esc(x.note)+'</div>':"")+((x.hours&&x.p>0)?'<div class="meta">≈ '+money(x.p/x.hours)+' per hour (about '+esc(x.hours)+' h, our estimate)</div>':"");var eds="";x.eds.forEach(function(e){eds+='<div class="row"><span>'+esc(e.name)+'</span><b>'+money(e.price)+'</b>'+(e.regular>e.price?'<span class="old">'+money(e.regular)+'</span>':"")+(e.url?'<a href="'+esc(e.url)+'" target="_blank" rel="sponsored noopener">View</a>':"")+'</div>'});var btn=x.url?'<a class="btn" href="'+esc(x.url)+'" target="_blank" rel="sponsored noopener">'+(x.p===0?"Claim":"View deal")+'</a>':"";return '<div class="card"><h3>'+esc(x.n)+'</h3><div class="meta">'+meta.join(" · ")+'</div><div class="row">'+price+old+'</div><div>'+b+'</div>'+lines+eds+btn+'</div>'}
 function verdict(x){if(x.p===0)return "Free to claim";if(!isDeal(x))return "";if(x.hl)return "✅ Lowest price on record";var p=pct(x);return p>=70?"👍 Great discount · not its lowest ever":p>=40?"👍 Solid discount · not its lowest ever":"⏳ Small discount · worth waiting for"}
 function render(){
  if(view!=="deals")return;
@@ -222,6 +229,7 @@ function render(){
  if(!list.length){grid.innerHTML='<div class="empty">No games match. Try another store or search.</div>';return}
  var now=new Date().toISOString().slice(0,10);
  grid.innerHTML=list.map(function(x){
+  if(x.pick)return pickCard(x);
   var b="",meta=[];
   if(x.g)meta.push(esc(x.g));if(x.s)meta.push(esc(x.s));if(x.u)meta.push(esc(x.u));
   if(x.d){var dt=new Date(x.d+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short"});meta.push(x.d>now?"Out "+dt:"Released "+dt);if(x.d>now)b+='<span class="badge soon">Coming soon</span>';if(x.k)b+='<span class="badge">#'+x.k+' most popular</span>'}
@@ -245,24 +253,26 @@ route((location.hash||"").slice(1)||"all");
 fetch("data/deals.json").then(function(r){return r.ok?r.json():Promise.reject()}).then(function(d){
  if(!d||!d.deals||!d.deals.length)return;
  feedOn=true;
- items=items.filter(function(x){return x.p===0||x.pick});
+ items=items.filter(function(x){return x.pick});
  var add=function(x,extra){var o={n:x.title,g:"",s:x.store,p:x.price,r:x.regular,hl:x.hl?1:0,url:(x.url&&x.url.indexOf("https://www.cheapshark.com/redirect?dealID=")===0?x.url:"")};for(var k in extra)o[k]=extra[k];items.push(o)};
  d.deals.forEach(function(x){add(x,{})});
  (d.new||[]).forEach(function(x){add(x,{d:x.release})});
  (d.popular||[]).forEach(function(x,i){add(x,{k:i+1})});
  var u=new Date(d.updated);
- document.querySelector(".note").textContent="Prices updated "+u.toLocaleString("en-GB",{dateStyle:"medium",timeStyle:"short"})+". Shown in USD or EUR (about 1 USD = 0.87 EUR). Price data from CheapShark. Deals change fast, so always check the store.";
+ document.querySelector(".note").textContent="Prices updated "+u.toLocaleString("en-GB",{dateStyle:"medium",timeStyle:"short"})+". Shown in USD or EUR (about 1 USD = 0.87 EUR). Price data courtesy of CheapShark. Deals change fast, so always check the store.";
  var stores=["All stores"].concat(Array.from(new Set(items.map(function(x){return x.s}).filter(Boolean))).sort());
  st.innerHTML=stores.map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
  el("genre").innerHTML=["All genres"].concat(Array.from(new Set(items.map(function(x){return x.g}).filter(Boolean))).sort()).map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
+ refreshFilters();
  render();
 }).catch(function(){});
 fetch("data/picks.json").then(function(r){return r.ok?r.json():Promise.reject()}).then(function(d){
- var ps=((d&&d.picks)||[]).filter(function(p){return p.active!==false&&p.title&&p.price!=null});
+ var ps=((d&&d.picks)||[]).filter(function(p){return p.active!==false&&p.title});
  if(!ps.length)return;
- ps.forEach(function(p){items.push({n:p.title,g:"",s:p.store||"",p:p.price,r:p.regular||p.price,pick:1,note:p.note||"",url:(p.url&&p.url.indexOf("https://")===0?p.url:"")})});
+ ps.forEach(function(p){items.push(mkPick(p))});
  Array.prototype.forEach.call(tabs.children,function(b){if(b.dataset.id==="picks")b.hidden=false});
  if(!startHash)cur="picks";
+ refreshFilters();
  render();
 }).catch(function(){});
 </script>

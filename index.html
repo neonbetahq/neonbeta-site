@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NeonBeta Deals – Game deals worth buying</title>
+<style>
+:root{--bg:#f6f5ff;--surface:#fff;--text:#1a1740;--muted:#625f86;--line:#e3e0f7;--blue:#2f6bff;--purple:#7c3aed;--pink:#db2777;--grad:linear-gradient(135deg,#2f6bff,#7c3aed 55%,#db2777);--chip:#efecff;--good:#0a8f55;--low:#c2185b;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e0b26;--surface:#18143a;--text:#efedff;--muted:#a29fcf;--line:#2c2757;--chip:#241f52;--good:#4be3a0;--low:#ff7ab8;--blue:#6f97ff;--purple:#a47bff;--pink:#ff6fb0}}
+:root[data-theme="dark"]{--bg:#0e0b26;--surface:#18143a;--text:#efedff;--muted:#a29fcf;--line:#2c2757;--chip:#241f52;--good:#4be3a0;--low:#ff7ab8;--blue:#6f97ff;--purple:#a47bff;--pink:#ff6fb0}
+html{color-scheme:light dark;scroll-padding-top:env(safe-area-inset-top,0px)}
+:root[data-theme="dark"]{color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);background-image:radial-gradient(900px 380px at 85% -80px,rgba(124,58,237,.22),transparent),radial-gradient(700px 320px at 0 -60px,rgba(47,107,255,.18),transparent);background-repeat:no-repeat;color:var(--text);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;padding:20px 0 6px}
+.logo{font-weight:800;font-size:22px;letter-spacing:-.02em}.logo span{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.nav{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.nav a{color:var(--text);text-decoration:none;font-weight:600;font-size:14px;padding:7px 12px;border-radius:999px}
+.nav a[aria-current="page"]{background:var(--chip);color:var(--purple)}
+.btn{display:inline-block;background:var(--grad);color:#fff;border:0;border-radius:10px;padding:9px 16px;font:600 14px/1.2 inherit;font-family:inherit;text-decoration:none;cursor:pointer;text-align:center}
+.btn.ghost{background:transparent;color:var(--text);border:1px solid var(--line)}
+h1{font-size:clamp(26px,5vw,40px);line-height:1.15;margin:20px 0 8px;letter-spacing:-.02em}
+h1 em{font-style:normal;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+h2{margin:6px 0 4px;font-size:22px}
+.sub{color:var(--muted);max-width:640px;margin:0 0 14px}
+.note{background:var(--chip);border-radius:10px;padding:8px 12px;font-size:13px;color:var(--muted);margin:10px 0 14px}
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:6px 0 10px;scrollbar-width:thin}
+.tab{flex:none;border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:999px;padding:8px 14px;font:600 14px inherit;font-family:inherit;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--grad);color:#fff;border-color:transparent}
+.tools{display:flex;gap:10px;flex-wrap:wrap;margin:4px 0 14px}
+input,select{background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:9px 12px;font:inherit;min-width:0}
+input{flex:1 1 220px}
+select:focus,input:focus{outline:2px solid var(--purple);outline-offset:1px}
+.desc{color:var(--muted);font-size:14px;margin:0 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:12px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:8px}
+.card h3{margin:0;font-size:16px;line-height:1.25}
+.meta{color:var(--muted);font-size:13px}
+.row{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.price{font-size:22px;font-weight:800}.price.na{font-size:15px;font-weight:600;color:var(--muted)}
+.old{color:var(--muted);text-decoration:line-through;font-size:14px}
+.badge{font-size:12px;font-weight:700;border-radius:6px;padding:2px 7px;background:var(--chip);display:inline-block;margin:0 4px 2px 0}
+.badge.off,.badge.free{color:var(--good)}.badge.low{color:var(--low)}.badge.soon{color:var(--blue)}
+.card .btn{margin-top:auto}
+.empty{color:var(--muted);padding:24px 0}
+.cta{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;margin:28px 0 0;display:flex;gap:12px;justify-content:space-between;align-items:center;flex-wrap:wrap}
+.cta p{margin:0;max-width:560px}
+.soonlbl{color:var(--muted);font-size:13px}
+footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+.prose{max-width:720px;line-height:1.65}.prose h2{margin:22px 0 4px;font-size:19px}.prose p{margin:0 0 8px}.prose .meta{margin-bottom:14px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="top">
+ <div class="logo" style="display:flex;align-items:center;gap:9px"><svg width="34" height="34" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="nbg" gradientUnits="userSpaceOnUse" x1="6" y1="58" x2="58" y2="6"><stop offset="0" stop-color="#2f6bff"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff4fa3"/></linearGradient></defs><g fill="none" stroke="url(#nbg)" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="48" height="48" rx="13" stroke-width="4"/><path d="M22 43V21l20 22V21" stroke-width="5"/></g><circle cx="46" cy="17" r="3" fill="#ff4fa3"/></svg><b style="font-weight:800">Neon<span>Beta</span> <small style="color:var(--muted);font-weight:600;font-size:15px">Deals</small></b></div>
+ <nav class="nav" id="nav">
+  <a href="#all" data-v="deals">Deals</a><a href="#about" data-v="about">About</a>
+  <select id="cur" aria-label="Currency"><option>USD</option><option>EUR</option></select>
+  <a class="btn" href="#" data-discord>Join Discord</a>
+ </nav>
+</div>
+
+<section id="v-deals">
+ <h1>Game deals actually <em>worth buying</em>.</h1>
+ <p class="sub">Not every discount is a good deal. We highlight real historical lows, free games to claim, fresh releases and what everyone is playing. NeonBeta is a small, fun side project, so it keeps growing.</p>
+ <div class="note">Prices checked 21–22 Oct 2026 and shown in USD or EUR (converted at about 1 USD = 0.87 EUR). Deals change fast, so always confirm the price in the store.</div>
+ <div class="tabs" role="tablist" id="tabs"></div>
+ <div class="tools">
+  <input id="q" type="search" placeholder="Search games…" aria-label="Search games">
+  <select id="store" aria-label="Filter by store"></select>
+  <select id="genre" aria-label="Filter by genre"></select>
+  <select id="disc" aria-label="Minimum discount"><option value="0">Any discount</option><option value="25">25%+ off</option><option value="50">50%+ off</option><option value="75">75%+ off</option></select>
+  <input id="maxp" type="number" min="0" step="1" placeholder="Max price" aria-label="Maximum price" style="flex:0 1 120px">
+ </div>
+ <p class="desc" id="desc"></p>
+ <div class="grid" id="grid"></div>
+ <p class="meta" id="credit" hidden>Deal data from <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>. Deal links on these tabs go through CheapShark.</p>
+ <div class="cta"><p><strong>Never miss a low.</strong> Our Discord bot pings you when a game hits your price, and a weekly email rounds up the best deals.</p><a class="btn" href="#" data-discord>Get alerts</a></div>
+</section>
+
+<section id="v-about" class="prose" hidden>
+ <h1>About <em>NeonBeta</em></h1>
+ <p>NeonBeta helps gamers find game deals worth buying. Sales are noisy, so we focus on three things: real historical lows, free games you can claim, and fresh releases.</p>
+ <h2>How it works</h2>
+ <p>We collect prices from public price trackers such as CheapShark, and store sales and show them in USD or EUR. Each deal gets a short verdict, such as whether it is the lowest price on record, so you can tell a real bargain from an ordinary discount. Prices change fast, so always check the store before you buy.</p>
+ <h2>How we make money</h2>
+ <p>Some links on NeonBeta are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. It keeps the site and the Discord running. We aim to list deals based on value, not on commission.</p>
+ <h2>Made by gamers, for gamers</h2>
+ <p>NeonBeta is a small, fun side project, not a company. It is made by gamers who like a good deal, and it is still growing, so things will change and improve. Tell us what is missing in our Discord.</p>
+ <p><a class="btn" href="#" data-discord>Join the Discord</a></p>
+</section>
+<section id="v-contact" class="prose" hidden>
+ <h1><em>Contact</em> us</h1>
+ <p>Questions, deal tips, or business enquiries? We are a small project, so replies can take a few days.</p>
+ <h2>Email</h2>
+ <p><a href="mailto:neonbeta.hq@gmail.com">neonbeta.hq@gmail.com</a></p>
+ <h2>Discord</h2>
+ <p>The fastest way to reach us is our Discord server. Use #feedback for ideas or #deal-requests to ask for a price alert.</p>
+ <h2>Social</h2>
+ <p>@neonbetahq on TikTok, YouTube, X, Instagram, Bluesky and Reddit (r/neonbetahq).</p>
+</section>
+<section id="v-privacy" class="prose" hidden>
+ <h1>Privacy <em>policy</em></h1>
+ <p class="meta">Last updated: 25 October 2026</p>
+ <h2>The short version</h2>
+ <p>NeonBeta does not ask you to create an account and does not collect personal information through this site.</p>
+ <h2>What the site stores</h2>
+ <p>Your currency choice (USD or EUR) is saved in your own browser so it is remembered next time. It stays on your device.</p>
+ <h2>Hosting and analytics</h2>
+ <p>Our hosting provider may process technical data such as your IP address and browser type to deliver the site and keep it secure. We do not use advertising cookies. If we add analytics later, we will use a privacy-friendly option and update this page.</p>
+ <h2>Affiliate links</h2>
+ <p>Some links are affiliate links. When you click one, the store or its partner network may set cookies to record the visit so a commission can be paid. Their own privacy policies apply.</p>
+ <h2>Discord and social media</h2>
+ <p>If you join our Discord or follow us on social media, those platforms’ own privacy policies apply to your data there.</p>
+ <h2>Your rights</h2>
+ <p>If you email us, we use your address only to reply, and you can ask us to delete it at any time. If you are in the EU or UK, you also have the right to access, correct and erase personal data held about you.</p>
+</section>
+<section id="v-gear" hidden>
+ <h1>Gaming <em>gear</em></h1>
+ <p class="sub">Simple, honest picks for the hardware that actually matters. Guides are on the way.</p>
+ <div class="grid" id="gearGrid"></div>
+</section>
+
+<section id="v-services" hidden>
+ <h1>Discord <em>setup</em> service</h1>
+ <p class="sub">Running a gaming community? We set up clean, well-organised Discord servers so you can focus on your members.</p>
+ <div class="grid" id="svcGrid"></div>
+</section>
+
+<footer>
+ <p>NeonBeta is a small, fun side project, not a company.</p>
+ <p><a href="#about">About</a> · <a href="#contact">Contact</a> · <a href="#privacy">Privacy</a> · <a href="#services">Discord setup</a></p>
+ Affiliate disclosure: some links on this site are affiliate links. If you buy through them we may earn a commission at no extra cost to you. Prices can change at any time; always check the store before buying. Currency conversion is approximate. Deal data on the Deals tabs comes from <a href="https://www.cheapshark.com" target="_blank" rel="noopener">CheapShark</a>.
+</footer>
+</div>
+<script>
+var RATE={USD:1,EUR:0.87},cc="USD";
+try{var sv=localStorage.getItem("lp_cur");if(sv&&RATE[sv])cc=sv}catch(e){}
+function money(v){return new Intl.NumberFormat("en-US",{style:"currency",currency:cc}).format(v*RATE[cc])}
+var items=[];
+function deal(n,g,s,p,r,hl){items.push({n:n,g:g,s:s,p:p,r:r,hl:hl})}
+deal("The Midnight Walk","Adventure","GOG",13.49,29.99,1);
+deal("Legacy of Kain: Defiance Remastered","Action-adventure","GOG",9.99,24.99,1);
+deal("Total Chaos","Horror","GOG",14.99,24.99,1);
+deal("The Drifter","Adventure","GOG",15.99,19.99,1);
+deal("Pronty","Adventure","GOG",4.49,17.99,1);
+deal("Sector Unknown","","GOG",12.49,24.99,1);
+deal("Mycopunk","Shooter","Steam",7.47,14.99,1);
+deal("Vampyr","Action RPG","GOG",3.99,39.99,0);
+deal("Sherlock Holmes: The Awakened","Adventure","GOG",3.99,39.99,0);
+deal("Sherlock Holmes: The Devil’s Daughter","Adventure","GOG",2.99,29.99,0);
+deal("Echoes of the End: Enhanced Edition","Action-adventure","GOG",7.99,39.99,0);
+deal("Hotline Miami 2: Wrong Number","Action","GOG",2.25,14.99,0);
+deal("SOMA","Horror","GOG",5.99,29.99,0);
+deal("Jade Empire: Special Edition","RPG","GOG",3.75,14.99,0);
+deal("Prince of Persia: The Sands of Time","Action-adventure","GOG",1.99,9.99,0);
+deal("To the Moon","Story-driven","GOG",2.49,9.99,0);
+deal("UNSIGHTED","Action","GOG",7.99,19.99,0);
+deal("Peglin","Roguelike","GOG",11.99,19.99,0);
+deal("Bloodshed","Roguelike","GOG",1.55,12.99,0);
+deal("Eriksholm: The Stolen Dream","Stealth","GOG",23.99,39.99,0);
+items.push({n:"Sker Ritual",g:"Survival shooter",s:"Epic",p:0,r:24.99,u:"Free until 29 Oct"});
+items.push({n:"Home – A Unique Horror Adventure",g:"Horror",s:"Epic",p:0,r:4.99,u:"Free until 29 Oct"});
+items.push({n:"Ad Infinitum",g:"Horror",s:"Prime Gaming",p:0,r:null,u:"With Amazon Prime"});
+function rel(n,g,d,p,k){items.push({n:n,g:g,s:"",p:p,r:p,d:d,k:k})}
+rel("Call of Duty: Modern Warfare 4","Shooter","2026-10-23",69.99,1);
+rel("Castlevania: Belmont’s Curse","Action-adventure","2026-10-15",null,2);
+rel("Planet Zoo 2","Management sim","2026-10-13",null,3);
+rel("Phantom Blade Zero","Action","2026-10-29",null);
+rel("Emberville","Pixel-art","2026-10-27",null);
+rel("Enshrouded 1.0","Survival RPG","2026-10-15",null);
+rel("Clive Barker’s Hellraiser: Revival","Survival horror","2026-10-08",null);
+rel("Gears of War: E-Day","Shooter","2026-10-06",null);
+rel("Star Wars: Galactic Racer","Racing","2026-10-06",null);
+rel("Rayman Legends Retold","Platformer","2026-10-01",null);
+function pct(x){return Math.round((1-x.p/x.r)*100)}
+function isDeal(x){return x.p>0&&x.r>x.p&&!x.d&&!x.k&&!x.pick}
+var T=[
+{id:"picks",t:"NeonBeta Picks",d:"Hand-picked by us. We check every price on the store ourselves.",f:function(x){return !!x.pick},o:function(a,b){return pct(b)-pct(a)}},
+{id:"all",t:"Top deals",d:"The biggest discounts right now.",f:isDeal,o:function(a,b){return pct(b)-pct(a)}},
+{id:"lows",t:"Historical lows",d:"Games at their lowest price on record. These are the discounts worth acting on.",f:function(x){return isDeal(x)&&x.hl},o:function(a,b){return pct(b)-pct(a)}},
+{id:"free",t:"Free games",d:"Free to claim or keep right now.",f:function(x){return x.p===0},o:function(a,b){return a.n<b.n?-1:1}},
+{id:"new",t:"New releases",d:"Fresh and upcoming games, newest first.",f:function(x){return !!x.d},o:function(a,b){return a.d<b.d?1:-1}},
+{id:"popular",t:"Popular",d:"What price trackers show people are watching and buying most.",f:function(x){return !!x.k},o:function(a,b){return a.k-b.k}}
+];
+var view="deals",cur="all",grid=document.getElementById("grid"),q=document.getElementById("q"),st=document.getElementById("store"),tabs=document.getElementById("tabs"),curSel=document.getElementById("cur");
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function mk(){
+ T.forEach(function(t){var b=document.createElement("button");b.className="tab";b.setAttribute("role","tab");b.textContent=t.t;b.dataset.id=t.id;if(t.id==="picks")b.hidden=true;b.onclick=function(){go(t.id)};tabs.appendChild(b)});
+ var stores=["All stores"].concat(Array.from(new Set(items.map(function(x){return x.s}).filter(Boolean))).sort());
+ st.innerHTML=stores.map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
+ el("genre").innerHTML=["All genres"].concat(Array.from(new Set(items.map(function(x){return x.g}).filter(Boolean))).sort()).map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
+ curSel.value=cc;
+ var gear=[["Headsets","Comfort, mic quality and sound for gaming and Discord calls."],["Keyboards","From budget membrane to hot-swappable mechanical."],["Mice","Light, accurate and easy on the wrist."],["Monitors","Refresh rate, panel type and what is worth paying for."],["Controllers","Pads that work well on PC, with or without a console."],["Storage & SSDs","Cheap ways to give your library more room."]];
+ document.getElementById("gearGrid").innerHTML=gear.map(function(g){return '<div class="card"><h3>'+g[0]+'</h3><div class="meta">'+g[1]+'</div><span class="soonlbl">Guide coming soon</span></div>'}).join("");
+ var svc=[["Starter server","A tidy, ready-to-use server: channels, roles, rules and a welcome flow."],["Community server","Everything in Starter plus moderation setup, bots, ticketing and event channels."],["Custom bot","Deal alerts, game-night scheduling or anything your community needs."]];
+ document.getElementById("svcGrid").innerHTML=svc.map(function(s){return '<div class="card"><h3>'+s[0]+'</h3><div class="meta">'+s[1]+'</div><a class="btn" href="#" data-contact>Get a quote</a></div>'}).join("");
+}
+function route(id){
+ if(["about","contact","privacy","services"].indexOf(id)>-1){view=id}else{view="deals";if(T.some(function(t){return t.id===id}))cur=id}
+ try{history.replaceState(null,"","#"+(view==="deals"?cur:view))}catch(e){}
+ ["deals","about","contact","privacy","services"].forEach(function(v){document.getElementById("v-"+v).hidden=v!==view});
+ Array.prototype.forEach.call(document.querySelectorAll("#nav a[data-v]"),function(a){if(a.dataset.v===view)a.setAttribute("aria-current","page");else a.removeAttribute("aria-current")});
+ render();
+}
+function go(id){route(id)}
+function el(i){return document.getElementById(i)}
+var feedOn=false;
+function verdict(x){if(x.p===0)return "Free to claim";if(!isDeal(x))return "";if(x.hl)return "✅ Lowest price on record";var p=pct(x);return p>=70?"👍 Great discount · not its lowest ever":p>=40?"👍 Solid discount · not its lowest ever":"⏳ Small discount · worth waiting for"}
+function render(){
+ if(view!=="deals")return;
+ var t=T.filter(function(x){return x.id===cur})[0];
+ Array.prototype.forEach.call(tabs.children,function(b){b.setAttribute("aria-selected",b.dataset.id===cur)});
+ document.getElementById("desc").textContent=t.d;
+ el("credit").hidden=!(feedOn&&cur!=="picks"&&cur!=="free");
+ var s=q.value.trim().toLowerCase(),sv=st.value;
+ var list=items.filter(t.f).filter(function(x){return(!s||(x.n+" "+x.g).toLowerCase().indexOf(s)>-1)&&(sv==="All stores"||x.s===sv)&&(el("genre").value==="All genres"||x.g===el("genre").value)&&(!+el("disc").value||(x.r>x.p&&pct(x)>=+el("disc").value))&&(!el("maxp").value||(x.p!=null&&x.p*RATE[cc]<=+el("maxp").value))}).sort(t.o);
+ if(!list.length){grid.innerHTML='<div class="empty">No games match. Try another store or search.</div>';return}
+ var now=new Date().toISOString().slice(0,10);
+ grid.innerHTML=list.map(function(x){
+  var b="",meta=[];
+  if(x.g)meta.push(esc(x.g));if(x.s)meta.push(esc(x.s));if(x.u)meta.push(esc(x.u));
+  if(x.d){var dt=new Date(x.d+"T12:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short"});meta.push(x.d>now?"Out "+dt:"Released "+dt);if(x.d>now)b+='<span class="badge soon">Coming soon</span>';if(x.k)b+='<span class="badge">#'+x.k+' most popular</span>'}
+  if(x.pick){b+='<span class="badge">⭐ Pick</span>';if(x.r>x.p)b+='<span class="badge off">-'+pct(x)+'%</span>'}
+  if(x.p===0)b+='<span class="badge free">FREE</span>';
+  else if(isDeal(x)){b+='<span class="badge off">-'+pct(x)+'%</span>';if(x.hl)b+='<span class="badge low">Historical low</span>'}
+  var price=x.p===0?'<span class="price">Free</span>':x.p==null?'<span class="price na">See price in store</span>':'<span class="price">'+money(x.p)+'</span>';
+  var old=(x.r&&x.p!=null&&x.r>x.p)?'<span class="old">'+money(x.r)+'</span>':"";
+  return '<div class="card"><h3>'+esc(x.n)+'</h3><div class="meta">'+meta.join(" · ")+'</div><div class="row">'+price+old+'</div><div>'+b+'</div>'+(x.note?'<div class="meta">'+esc(x.note)+'</div>':verdict(x)?'<div class="meta">'+esc(verdict(x))+'</div>':"")+'<a class="btn" href="'+esc(x.url||"#")+'" target="_blank" rel="sponsored noopener" data-aff="'+esc(x.n)+'">'+(x.p===0?"Claim":"View deal")+'</a></div>';
+ }).join("");
+}
+document.addEventListener("click",function(e){var a=e.target.closest("a[data-aff]");if(a&&a.getAttribute("href")==="#")e.preventDefault()});
+window.addEventListener("hashchange",function(){route((location.hash||"").slice(1))});
+q.oninput=render;st.onchange=render;el("genre").onchange=render;el("disc").onchange=render;el("maxp").oninput=render;
+curSel.onchange=function(){cc=curSel.value;try{localStorage.setItem("lp_cur",cc)}catch(e){}render()};
+mk();
+Array.prototype.forEach.call(document.querySelectorAll("a[data-discord]"),function(a){a.href="https://discord.gg/yWDq86hNTx";a.target="_blank";a.rel="noopener"});
+Array.prototype.forEach.call(document.querySelectorAll("a[data-contact]"),function(a){a.href="mailto:neonbeta.hq@gmail.com?subject=Discord%20setup%20quote"});
+var startHash=location.hash;
+route((location.hash||"").slice(1)||"all");
+fetch("data/deals.json").then(function(r){return r.ok?r.json():Promise.reject()}).then(function(d){
+ if(!d||!d.deals||!d.deals.length)return;
+ feedOn=true;
+ items=items.filter(function(x){return x.p===0||x.pick});
+ var add=function(x,extra){var o={n:x.title,g:"",s:x.store,p:x.price,r:x.regular,hl:x.hl?1:0,url:(x.url&&x.url.indexOf("https://www.cheapshark.com/redirect?dealID=")===0?x.url:"")};for(var k in extra)o[k]=extra[k];items.push(o)};
+ d.deals.forEach(function(x){add(x,{})});
+ (d.new||[]).forEach(function(x){add(x,{d:x.release})});
+ (d.popular||[]).forEach(function(x,i){add(x,{k:i+1})});
+ var u=new Date(d.updated);
+ document.querySelector(".note").textContent="Prices updated "+u.toLocaleString("en-GB",{dateStyle:"medium",timeStyle:"short"})+". Shown in USD or EUR (about 1 USD = 0.87 EUR). Price data from CheapShark. Deals change fast, so always check the store.";
+ var stores=["All stores"].concat(Array.from(new Set(items.map(function(x){return x.s}).filter(Boolean))).sort());
+ st.innerHTML=stores.map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
+ el("genre").innerHTML=["All genres"].concat(Array.from(new Set(items.map(function(x){return x.g}).filter(Boolean))).sort()).map(function(s){return "<option>"+esc(s)+"</option>"}).join("");
+ render();
+}).catch(function(){});
+fetch("data/picks.json").then(function(r){return r.ok?r.json():Promise.reject()}).then(function(d){
+ var ps=((d&&d.picks)||[]).filter(function(p){return p.active!==false&&p.title&&p.price!=null});
+ if(!ps.length)return;
+ ps.forEach(function(p){items.push({n:p.title,g:"",s:p.store||"",p:p.price,r:p.regular||p.price,pick:1,note:p.note||"",url:(p.url&&p.url.indexOf("https://")===0?p.url:"")})});
+ Array.prototype.forEach.call(tabs.children,function(b){if(b.dataset.id==="picks")b.hidden=false});
+ if(!startHash)cur="picks";
+ render();
+}).catch(function(){});
+</script>
+</body>
+</html>

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:59:20+00:00",
+ "updated": "2026-10-26T22:16:01+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -549,6 +549,19 @@
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
   },
   {
+   "id": "%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
+   "title": "Crusader Kings III: By God Alone",
+   "store": "Fanatical",
+   "price": 18.19,
+   "regular": 19.99,
+   "savings": 9,
+   "hl": false,
+   "low": null,
+   "release": "2026-09-30",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/crusader-kings-iii-by-god-alone/cover-180-2a0b16.jpg"
+  },
+  {
    "id": "fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
    "title": "Alaskan Road Truckers",
    "store": "Steam",
@@ -660,7 +673,7 @@
    "regular": 14.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 9.89,
    "release": "2026-06-10",
    "url": "https://www.cheapshark.com/redirect?dealID=RkTrAJxhmOz5egIClBEhXnV3LbC%2Bk0mSeUITMKU6cyE%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-the-flower-the-flame/cover-180-e14ec3.jpg"
@@ -885,19 +898,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=NhEDfpwWLM4dxObGxGq0kHOOS4BZKayvk%2FSSMe2gwq4%3D",
    "thumb": "https://images.gog-statics.com/046dbbcc687de7079a53c2f8871f9ae2e267d73fda396d1007ea130aaa36d40f_product_tile_117h.webp"
-  },
-  {
-   "id": "rvcW34%2B1H8FUL6yjFY2bXCRq9vnUSZrYcr2V6ED2sC4%3D",
-   "title": "Geometric Sniper",
-   "store": "Steam",
-   "price": 2.45,
-   "regular": 2.58,
-   "savings": 5,
-   "hl": false,
-   "low": 0.69,
-   "release": "2020-06-23",
-   "url": "https://www.cheapshark.com/redirect?dealID=rvcW34%2B1H8FUL6yjFY2bXCRq9vnUSZrYcr2V6ED2sC4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1303660/capsule_231x87.jpg?t=1729005327"
   },
   {
    "id": "1Pyohy9GG8%2BXfau0ZeA%2Fmch343bVEQuUXUn3UTI1fXU%3D",
@@ -1189,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
-  },
-  {
    "id": "5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
    "title": "Hidden Flowers",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": "2010-09-10",
    "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
+  },
+  {
+   "id": "TNJ3WdiNAFOLhu7sVjGfvCfDMYEOyhKPBnlNKLS7WqY%3D",
+   "title": "Magic ity Detective: Secret Desire Collectors Edition",
+   "store": "Steam",
+   "price": 3.19,
+   "regular": 7.99,
+   "savings": 60,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=TNJ3WdiNAFOLhu7sVjGfvCfDMYEOyhKPBnlNKLS7WqY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2098860/capsule_231x87.jpg?t=1748360688"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T18:31:53+00:00",
+ "updated": "2026-10-26T21:55:50+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -523,43 +523,30 @@
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
   },
   {
-   "id": "e7DKPQgJdr4bjcdAJ8oh%2BT6cg5OsOyOQwh8MpaZvXSc%3D",
-   "title": "Ecstatica Deluxe",
-   "store": "GOG",
-   "price": 18.48,
-   "regular": 19.98,
-   "savings": 8,
-   "hl": true,
-   "low": 18.48,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=e7DKPQgJdr4bjcdAJ8oh%2BT6cg5OsOyOQwh8MpaZvXSc%3D",
-   "thumb": "https://images.gog-statics.com/91340040ecd36dd9d4da71c086c9931966f8fbb225765778e759fd6013d54ca9_product_tile_117h.webp"
-  },
-  {
-   "id": "d6OGDi2N4eISjOsxEjNrIuBDJ4Wck89QwyF883QtLFM%3D",
-   "title": "Ecstatica II Deluxe",
-   "store": "GOG",
-   "price": 18.48,
-   "regular": 19.98,
-   "savings": 8,
-   "hl": true,
-   "low": 18.48,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=d6OGDi2N4eISjOsxEjNrIuBDJ4Wck89QwyF883QtLFM%3D",
-   "thumb": "https://images.gog-statics.com/5f866682bba934fd07a38cf5dcf2558adb48ac6fada7da631f93a92b02bc14e7_product_tile_117h.webp"
-  },
-  {
-   "id": "ZvHwb9s4yWqSFhQmVLqDmxWB%2BAedDkLMv8bPuCEcFms%3D",
-   "title": "Suicide Guy",
+   "id": "J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
+   "title": "The Day Before You Gone",
    "store": "Steam",
-   "price": 5.9,
-   "regular": 6.38,
-   "savings": 8,
+   "price": 7.39,
+   "regular": 8.08,
+   "savings": 9,
    "hl": false,
-   "low": 0.71,
-   "release": "2017-07-14",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZvHwb9s4yWqSFhQmVLqDmxWB%2BAedDkLMv8bPuCEcFms%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/303610/capsule_231x87.jpg?t=1792742817"
+   "low": null,
+   "release": "2024-01-05",
+   "url": "https://www.cheapshark.com/redirect?dealID=J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2234690/capsule_231x87.jpg?t=1788246023"
+  },
+  {
+   "id": "xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
+   "title": "Age of Wonders 4: Expansion Pass 4",
+   "store": "Fanatical",
+   "price": 45.49,
+   "regular": 49.99,
+   "savings": 9,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
   },
   {
    "id": "fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
@@ -647,7 +634,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 16.95,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=HYhx9NqBVlb5uCG4u1BgiwgklxLdXGNnfan%2FFCCfvDk%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-thrones-of-blood/cover-180-2a55f2.jpg"
@@ -660,7 +647,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 17.79,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=snqqRJRUmat5uDoI4yk6URpsI1%2BfqJNnBbPk8OFwmI4%3D",
    "thumb": "https://images.greenmangaming.com/7e54f3f4ee8e42319d8b5446a983750c/bde8a8bc4ded4443b1152cf604360ad0.jpg"
@@ -744,43 +731,17 @@
    "thumb": "https://images.gog-statics.com/a8e48c4a9077b6e048839db9908154092ccaf33fc934f5c06130e4640ec1b38d_product_tile_117h.webp"
   },
   {
-   "id": "rvScJbsul%2BKw1%2BLxCq3c5rMEypLSvpzor4XoC%2BRWTco%3D",
-   "title": "No Players Online",
+   "id": "qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
+   "title": "Build Lands",
    "store": "Steam",
-   "price": 14.83,
-   "regular": 16.18,
+   "price": 3.83,
+   "regular": 4.18,
    "savings": 8,
    "hl": false,
    "low": null,
-   "release": "2025-11-06",
-   "url": "https://www.cheapshark.com/redirect?dealID=rvScJbsul%2BKw1%2BLxCq3c5rMEypLSvpzor4XoC%2BRWTco%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701800/capsule_231x87.jpg?t=1791951938"
-  },
-  {
-   "id": "pwf3buR9SizaTjqUwcJf0YYtvA%2F%2F4toTe4g7kWJVTsg%3D",
-   "title": "DUSK",
-   "store": "Steam",
-   "price": 19.33,
-   "regular": 20.68,
-   "savings": 7,
-   "hl": false,
-   "low": 5.99,
-   "release": "2018-12-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=pwf3buR9SizaTjqUwcJf0YYtvA%2F%2F4toTe4g7kWJVTsg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519860/52906821e5100d6a0c77b4de4f2ccdd0c8c709dd/capsule_231x87.jpg?t=1767216306"
-  },
-  {
-   "id": "5x80sxULCF12mEigMZ4wmNZTXD1vwG%2BDrwb8%2FdSYOpY%3D",
-   "title": "Inscryption",
-   "store": "Steam",
-   "price": 19.33,
-   "regular": 20.68,
-   "savings": 7,
-   "hl": false,
-   "low": 5.99,
-   "release": "2021-10-19",
-   "url": "https://www.cheapshark.com/redirect?dealID=5x80sxULCF12mEigMZ4wmNZTXD1vwG%2BDrwb8%2FdSYOpY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg?t=1777572925"
+   "release": "2022-05-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1921390/capsule_231x87.jpg?t=1729018600"
   },
   {
    "id": "Z2W4rFXyEuvcGr7QnkKUx13%2FS9mEhJ2Y2E7AO%2FQ62KI%3D",
@@ -835,43 +796,69 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/13ac6002a7cd1c867f8bf2f650101fe9d91ce4f9/capsule_231x87.jpg?t=1791388584"
   },
   {
-   "id": "120xb%2Fh1nloSdWgkIAw%2F05ZReBkT7wD1zVlM53x%2BQJo%3D",
-   "title": "Shiro",
+   "id": "crisznKI8%2B0O4MyqeubAZESf4kq3eC7%2B%2BLm9KMEhYAk%3D",
+   "title": "Cinema Simulator 2025",
    "store": "Steam",
-   "price": 7.88,
-   "regular": 8.48,
+   "price": 11.68,
+   "regular": 12.58,
    "savings": 7,
    "hl": false,
-   "low": 0.77,
-   "release": "2020-11-06",
-   "url": "https://www.cheapshark.com/redirect?dealID=120xb%2Fh1nloSdWgkIAw%2F05ZReBkT7wD1zVlM53x%2BQJo%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1290710/capsule_231x87.jpg?t=1718124912"
-  },
-  {
-   "id": "OdaEbZmI6dVmmQcs5v8UI1bJcFghIxxLZmavGiy2sdg%3D",
-   "title": "Crisol: Theater of Idols",
-   "store": "Steam",
-   "price": 17.53,
-   "regular": 18.88,
-   "savings": 7,
-   "hl": false,
-   "low": 13.49,
-   "release": "2026-02-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=OdaEbZmI6dVmmQcs5v8UI1bJcFghIxxLZmavGiy2sdg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1790930/9d9c93063a266629cc5cb5e806b1deb0b5602839/capsule_231x87.jpg?t=1787153277"
-  },
-  {
-   "id": "ONb6kw2VQsnZ%2BgJKh9%2BBra%2B8JeWO8R4%2FnweP4cOtkqc%3D",
-   "title": "Pink Noise",
-   "store": "Steam",
-   "price": 10.67,
-   "regular": 11.5,
-   "savings": 7,
-   "hl": false,
-   "low": 7.14,
+   "low": 5.99,
    "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=ONb6kw2VQsnZ%2BgJKh9%2BBra%2B8JeWO8R4%2FnweP4cOtkqc%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2885810/capsule_231x87.jpg?t=1791278409"
+   "url": "https://www.cheapshark.com/redirect?dealID=crisznKI8%2B0O4MyqeubAZESf4kq3eC7%2B%2BLm9KMEhYAk%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_231x87.jpg?t=1792485173"
+  },
+  {
+   "id": "wy7rm7khDvGtQGbcDZ4aGI0BDB6sWLUswRks9UUPVu4%3D",
+   "title": "Business Simulator 2026",
+   "store": "Steam",
+   "price": 11.68,
+   "regular": 12.58,
+   "savings": 7,
+   "hl": false,
+   "low": 7.79,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=wy7rm7khDvGtQGbcDZ4aGI0BDB6sWLUswRks9UUPVu4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098060/7ddf56570811b0259aa27d19bb39cbe8bae3d12b/capsule_231x87.jpg?t=1792485183"
+  },
+  {
+   "id": "6hN6Oj83aumxbv47PrGGnM0POIt1BgGo%2BlIQCTj6KKM%3D",
+   "title": "Reventure",
+   "store": "Steam",
+   "price": 12.05,
+   "regular": 12.99,
+   "savings": 7,
+   "hl": false,
+   "low": 0.49,
+   "release": "2019-06-04",
+   "url": "https://www.cheapshark.com/redirect?dealID=6hN6Oj83aumxbv47PrGGnM0POIt1BgGo%2BlIQCTj6KKM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/900270/capsule_231x87.jpg?t=1726659631"
+  },
+  {
+   "id": "bXO2bDmcxKF7ctPB1pIWoYzF2QQicD2TXnEpoMdD%2Bgs%3D",
+   "title": "Crypto Miner Tycoon Simulator",
+   "store": "Steam",
+   "price": 23.74,
+   "regular": 25.18,
+   "savings": 6,
+   "hl": false,
+   "low": 9.59,
+   "release": "2022-04-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=bXO2bDmcxKF7ctPB1pIWoYzF2QQicD2TXnEpoMdD%2Bgs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1859290/capsule_231x87.jpg?t=1780833521"
+  },
+  {
+   "id": "%2F%2B2%2FBbya0NV6pSiuTHMnI0IA5o82QpSX%2FAz9WCezcsk%3D",
+   "title": "The Skin Stapler",
+   "store": "Steam",
+   "price": 14.38,
+   "regular": 15.28,
+   "savings": 6,
+   "hl": false,
+   "low": 9.74,
+   "release": "2026-08-06",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F%2B2%2FBbya0NV6pSiuTHMnI0IA5o82QpSX%2FAz9WCezcsk%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310610/a88405d191c7ce851e8b7c01177ee16936ffe7da/capsule_231x87.jpg?t=1786367666"
   },
   {
    "id": "l%2FsqHg%2BLns6OS%2BlWRvW%2BRGay7eLVmILTYBWc1WWDhHM%3D",
@@ -937,6 +924,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=i%2BP10WLsltdFX3jVNWVAd5XZzJTypE54CdoOyRXQG5w%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124120/939ba19f0fa15e399329ae380b2de0cb15593ea3/capsule_231x87.jpg?t=1792760502"
+  },
+  {
+   "id": "RKuvbXBcfGioTxFBoAYYq2WGak7HHi1Gx4bvEIYp8Jo%3D",
+   "title": "Creepy Redneck Dinosaur Mansion 3",
+   "store": "Steam",
+   "price": 17.98,
+   "regular": 18.73,
+   "savings": 4,
+   "hl": false,
+   "low": 12.73,
+   "release": "2025-04-22",
+   "url": "https://www.cheapshark.com/redirect?dealID=RKuvbXBcfGioTxFBoAYYq2WGak7HHi1Gx4bvEIYp8Jo%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2116510/185d344f7f513de556a253cd30ddffb9b198ec7e/capsule_231x87.jpg?t=1768922426"
   },
   {
    "id": "tAAKry3zO4bL6POv7Trrpm7Ifij6ygDjs3S6tjJzAgU%3D",
@@ -1096,19 +1096,6 @@
    "release": "2011-12-13",
    "url": "https://www.cheapshark.com/redirect?dealID=X%2B01nlucTC48TIK60tDfNFV20HQab5%2FVYA6S1izGpag%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
-  },
-  {
-   "id": "j%2FKciAixGoIQhZrdglNkgcP6D7GQlUV4j81KzbYhmSA%3D",
-   "title": "THE DEAD WE KNEW: Open World Survival",
-   "store": "Steam",
-   "price": 19.12,
-   "regular": 22.5,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2026-10-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=j%2FKciAixGoIQhZrdglNkgcP6D7GQlUV4j81KzbYhmSA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4890760/fb907128802e801189829972334439cbcf3dcaf3/capsule_231x87.jpg?t=1792688504"
   },
   {
    "id": "zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
@@ -1304,6 +1291,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978610/capsule_231x87.jpg?t=1709416236"
+  },
+  {
+   "id": "UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
+   "title": "Prison Tycoon Alcatraz",
+   "store": "Fanatical",
+   "price": 7.48,
+   "regular": 9.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": "2010-09-10",
+   "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
   }
  ]
 }

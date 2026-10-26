@@ -40,6 +40,8 @@ def main():
             errors.append(f"{name}: unknown status \"{p['status']}\". Use one of: {', '.join(STATUSES)}")
         if p.get("type") and p["type"] not in TYPES:
             errors.append(f"{name}: unknown type \"{p['type']}\". Use one of: {', '.join(TYPES)}")
+        if p.get("currency") and str(p["currency"]).upper() not in ("USD", "EUR"):
+            errors.append(f"{name}: currency must be USD or EUR")
         for e in p.get("editions", []) or []:
             en = f"{name} / {e.get('name', 'edition')}"
             if not e.get("name"):

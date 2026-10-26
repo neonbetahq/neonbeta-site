@@ -27,11 +27,12 @@ def key(p):
     return p.get("id") or f"{p.get('title', '')}|{p.get('store', '')}|{p.get('date', '')}"
 
 
-def money(v):
-    return f"${v:,.2f}"
+def money(v, sym="$"):
+    return f"{sym}{v:,.2f}"
 
 
 def build(p):
+    sym = "\u20AC" if str(p.get("currency", "")).upper() == "EUR" else "$"
     lines = []
     if STATUS.get(p.get("status")):
         lines.append(STATUS[p["status"]])
@@ -40,12 +41,12 @@ def build(p):
         if price == 0:
             lines.append("**Free**" + (f" ({p['until']})" if p.get("until") else ""))
         elif isinstance(reg, (int, float)) and reg > price:
-            lines.append(f"**{money(price)}** (was {money(reg)}, -{round((1 - price / reg) * 100)}%)")
+            lines.append(f"**{money(price, sym)}** (was {money(reg, sym)}, -{round((1 - price / reg) * 100)}%)")
         else:
-            lines.append(f"**{money(price)}**")
+            lines.append(f"**{money(price, sym)}**")
     for e in p.get("editions") or []:
         if e.get("name") and isinstance(e.get("price"), (int, float)):
-            lines.append(f"\u2022 {e['name']}: {money(e['price'])}")
+            lines.append(f"\u2022 {e['name']}: {money(e['price'], sym)}")
     meta = " \u00b7 ".join(x for x in [p.get("store"), p.get("edition"),
                                          (p.get("type") or "").upper() if p.get("type") not in (None, "", "game") else ""] if x)
     if meta:

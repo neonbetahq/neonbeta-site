@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:31:51+00:00",
+ "updated": "2026-10-26T18:31:53+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -523,17 +523,30 @@
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
   },
   {
-   "id": "J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
-   "title": "The Day Before You Gone",
-   "store": "Steam",
-   "price": 7.39,
-   "regular": 8.08,
-   "savings": 9,
-   "hl": false,
-   "low": null,
-   "release": "2024-01-05",
-   "url": "https://www.cheapshark.com/redirect?dealID=J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2234690/capsule_231x87.jpg?t=1788246023"
+   "id": "e7DKPQgJdr4bjcdAJ8oh%2BT6cg5OsOyOQwh8MpaZvXSc%3D",
+   "title": "Ecstatica Deluxe",
+   "store": "GOG",
+   "price": 18.48,
+   "regular": 19.98,
+   "savings": 8,
+   "hl": true,
+   "low": 18.48,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=e7DKPQgJdr4bjcdAJ8oh%2BT6cg5OsOyOQwh8MpaZvXSc%3D",
+   "thumb": "https://images.gog-statics.com/91340040ecd36dd9d4da71c086c9931966f8fbb225765778e759fd6013d54ca9_product_tile_117h.webp"
+  },
+  {
+   "id": "d6OGDi2N4eISjOsxEjNrIuBDJ4Wck89QwyF883QtLFM%3D",
+   "title": "Ecstatica II Deluxe",
+   "store": "GOG",
+   "price": 18.48,
+   "regular": 19.98,
+   "savings": 8,
+   "hl": true,
+   "low": 18.48,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=d6OGDi2N4eISjOsxEjNrIuBDJ4Wck89QwyF883QtLFM%3D",
+   "thumb": "https://images.gog-statics.com/5f866682bba934fd07a38cf5dcf2558adb48ac6fada7da631f93a92b02bc14e7_product_tile_117h.webp"
   },
   {
    "id": "ZvHwb9s4yWqSFhQmVLqDmxWB%2BAedDkLMv8bPuCEcFms%3D",
@@ -601,6 +614,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1792637475"
   },
   {
+   "id": "yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
+   "title": "Phantom Blade Zero",
+   "store": "Fanatical",
+   "price": 55.19,
+   "regular": 59.99,
+   "savings": 8,
+   "hl": true,
+   "low": 55.19,
+   "release": "2026-10-29",
+   "url": "https://www.cheapshark.com/redirect?dealID=yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1792637475"
+  },
+  {
    "id": "8TZbo5ft%2F%2B9hxttN93e0T12TinMKUJgz6ZwXSkZoBJE%3D",
    "title": "Cities: Skylines II - Expansion Pass 2",
    "store": "Fanatical",
@@ -621,7 +647,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": 16.95,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=HYhx9NqBVlb5uCG4u1BgiwgklxLdXGNnfan%2FFCCfvDk%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-thrones-of-blood/cover-180-2a55f2.jpg"
@@ -634,7 +660,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": 17.79,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=snqqRJRUmat5uDoI4yk6URpsI1%2BfqJNnBbPk8OFwmI4%3D",
    "thumb": "https://images.greenmangaming.com/7e54f3f4ee8e42319d8b5446a983750c/bde8a8bc4ded4443b1152cf604360ad0.jpg"
@@ -731,19 +757,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701800/capsule_231x87.jpg?t=1791951938"
   },
   {
-   "id": "qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
-   "title": "Build Lands",
-   "store": "Steam",
-   "price": 3.83,
-   "regular": 4.18,
-   "savings": 8,
-   "hl": false,
-   "low": null,
-   "release": "2022-05-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1921390/capsule_231x87.jpg?t=1729018600"
-  },
-  {
    "id": "pwf3buR9SizaTjqUwcJf0YYtvA%2F%2F4toTe4g7kWJVTsg%3D",
    "title": "DUSK",
    "store": "Steam",
@@ -820,19 +833,6 @@
    "release": "2026-10-06",
    "url": "https://www.cheapshark.com/redirect?dealID=m0BtMtTa6SCXluWWfYmoZbZJXwl1L12j8W9yy0u%2F%2Fbk%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/13ac6002a7cd1c867f8bf2f650101fe9d91ce4f9/capsule_231x87.jpg?t=1791388584"
-  },
-  {
-   "id": "yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
-   "title": "Phantom Blade Zero",
-   "store": "Fanatical",
-   "price": 55.79,
-   "regular": 59.99,
-   "savings": 7,
-   "hl": false,
-   "low": 55.19,
-   "release": "2026-10-29",
-   "url": "https://www.cheapshark.com/redirect?dealID=yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1792637475"
   },
   {
    "id": "120xb%2Fh1nloSdWgkIAw%2F05ZReBkT7wD1zVlM53x%2BQJo%3D",
@@ -1059,6 +1059,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563130/capsule_231x87.jpg?t=1725014617"
   },
   {
+   "id": "RcVp393SG8YXyAMMiVl5FGsTfzPh%2BRDrY2x7WBqZjO4%3D",
+   "title": "Escape: Malice",
+   "store": "Steam",
+   "price": 2.39,
+   "regular": 7.99,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=RcVp393SG8YXyAMMiVl5FGsTfzPh%2BRDrY2x7WBqZjO4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1799220/ceffae7b1def99dcbcb1f9019ea75c7e97eb7e8e/capsule_231x87.jpg?t=1788233257"
+  },
+  {
    "id": "NkCzQpun16Bi2I5blC0ylvUj9TmdomjcqQgOy%2Fozg6M%3D",
    "title": "Flatout 3: Chaos and Destruction",
    "store": "Steam",
@@ -1124,19 +1137,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260510/capsule_231x87.jpg?t=1775396127"
   },
   {
-   "id": "s4yuZUAEJ3Ikb9O1PccIIETcvMMUapB%2Fe4riAWwa%2B7Y%3D",
-   "title": "Citadels",
-   "store": "Steam",
-   "price": 2.99,
-   "regular": 14.99,
-   "savings": 80,
-   "hl": false,
-   "low": null,
-   "release": "2013-07-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=s4yuZUAEJ3Ikb9O1PccIIETcvMMUapB%2Fe4riAWwa%2B7Y%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238870/f559a4f95563f3bcc1f72a0b52e9c2ebab5ba1b6/capsule_231x87.jpg?t=1791459697"
-  },
-  {
    "id": "3osEXBFlwDrELLYjEr3QJzt7EG3wNyWtqjPqLHAyzM8%3D",
    "title": "World Ship Simulator",
    "store": "Green Man Gaming",
@@ -1176,19 +1176,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
-   "id": "nxbNfDUu5fP9n1ekb7dktw4SF5dInxGXXSPLZI4ZhwI%3D",
-   "title": "Lords of the Black Sun",
-   "store": "Steam",
-   "price": 2.49,
-   "regular": 24.99,
-   "savings": 90,
-   "hl": false,
-   "low": null,
-   "release": "2014-09-12",
-   "url": "https://www.cheapshark.com/redirect?dealID=nxbNfDUu5fP9n1ekb7dktw4SF5dInxGXXSPLZI4ZhwI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246940/capsule_231x87.jpg?t=1772805684"
-  },
-  {
    "id": "D1GatC93fWZQpWS1e8lUFrFT1hRYQpBIyend4sfz550%3D",
    "title": "Lords of the Black Sun",
    "store": "Fanatical",
@@ -1213,6 +1200,19 @@
    "release": "2014-09-18",
    "url": "https://www.cheapshark.com/redirect?dealID=EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
+  },
+  {
+   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
+   "title": "Vessel",
+   "store": "Steam",
+   "price": 5.94,
+   "regular": 6.99,
+   "savings": 15,
+   "hl": false,
+   "low": null,
+   "release": "2025-08-02",
+   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
   },
   {
    "id": "5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
@@ -1280,6 +1280,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173340/capsule_231x87.jpg?t=1709417576"
   },
   {
+   "id": "dx02oobsqmWd1nBkePdtIr9nSYAfWyHifqWCNa8ahT0%3D",
+   "title": "CornField",
+   "store": "Steam",
+   "price": 2.49,
+   "regular": 4.99,
+   "savings": 50,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=dx02oobsqmWd1nBkePdtIr9nSYAfWyHifqWCNa8ahT0%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3127480/84020992857f7d38456c6ef6aef50aec722664f7/capsule_231x87.jpg?t=1792328820"
+  },
+  {
    "id": "rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
    "title": "Fallalypse  Disconnect",
    "store": "Steam",
@@ -1291,19 +1304,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978610/capsule_231x87.jpg?t=1709416236"
-  },
-  {
-   "id": "UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
-   "title": "Prison Tycoon Alcatraz",
-   "store": "Fanatical",
-   "price": 7.48,
-   "regular": 9.99,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": "2010-09-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
   }
  ]
 }

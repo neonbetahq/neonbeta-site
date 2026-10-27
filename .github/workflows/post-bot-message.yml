@@ -1,0 +1,27 @@
+name: Post bot message
+on:
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: "Which message to post"
+        required: true
+        type: choice
+        options:
+          - verify
+          - ticket
+      channel_id:
+        description: "Numeric ID of the channel to post in"
+        required: true
+permissions:
+  contents: read
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post the message
+        run: python bot/post_bot_message.py
+        env:
+          KIND: ${{ inputs.kind }}
+          CHANNEL_ID: ${{ inputs.channel_id }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}

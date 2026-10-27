@@ -1,0 +1,36 @@
+name: Send or edit message
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: "Template name from bot/messages.json (verify, ticket, welcome, alerts-help, announcement) or custom"
+        required: true
+        default: "custom"
+      channel_id:
+        description: "Numeric ID of the channel"
+        required: true
+      message_id:
+        description: "Optional: ID of an earlier bot message to edit instead of posting a new one"
+        required: false
+      title:
+        description: "Only for custom: the title"
+        required: false
+      description:
+        description: "Only for custom: the text (type \\n for a new line)"
+        required: false
+permissions:
+  contents: read
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send the message
+        run: python bot/send_message.py
+        env:
+          MESSAGE_NAME: ${{ inputs.message }}
+          CHANNEL_ID: ${{ inputs.channel_id }}
+          MESSAGE_ID: ${{ inputs.message_id }}
+          TITLE: ${{ inputs.title }}
+          DESCRIPTION: ${{ inputs.description }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}

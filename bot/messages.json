@@ -1,0 +1,26 @@
+{
+ "verify": {
+  "embeds": [{"title": "Verify", "color": 8141549,
+   "description": "Press the button below to confirm that you have read, understand and will follow the server rules. You will get the **Verified** role."}],
+  "components": [{"type": 1, "components": [{"type": 2, "style": 3, "label": "I agree, verify me", "custom_id": "verify"}]}]
+ },
+ "ticket": {
+  "embeds": [{"title": "Need help?", "color": 8141549,
+   "description": "Press the button to open a private ticket. Only you and the NeonBeta team can see it. Please don’t share passwords or private details."}],
+  "components": [{"type": 1, "components": [{"type": 2, "style": 1, "label": "Open a ticket", "custom_id": "ticket_open"}]}]
+ },
+ "welcome": {
+  "embeds": [{"title": "Welcome to NeonBeta 🎮", "color": 8141549,
+   "description": "We find game deals worth buying: free games, real historical lows and new releases, so you don’t have to dig through every sale.\n\n**Start here**\n1. Read #rules\n2. Pick your alerts in #roles\n3. Say hi in #general",
+   "footer": {"text": "NeonBeta · Game deals worth buying"}}]
+ },
+ "alerts-help": {
+  "embeds": [{"title": "Price alerts 🔔", "color": 8141549,
+   "description": "Want a ping when a game gets cheap?\n\n**/alert add** game and the highest price you’d pay\n**/alert list** to see your alerts\n**/alert remove** to delete one\n\nYou can have up to 5 alerts. Use the full game name for the best match."}]
+ },
+ "announcement": {
+  "embeds": [{"title": "Your title here", "color": 8141549,
+   "description": "Write your announcement here.\n\nUse a blank line for a new paragraph.",
+   "footer": {"text": "NeonBeta"}}]
+ }
+}

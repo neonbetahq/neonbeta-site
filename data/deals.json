@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:28:49+00:00",
+ "updated": "2026-10-27T12:31:17+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -562,17 +562,17 @@
    "thumb": "https://sttc.gamersgate.com/images/product/crusader-kings-iii-by-god-alone/cover-180-2a0b16.jpg"
   },
   {
-   "id": "5qPXziN7smng%2Fyo7ZyAAEjMHit1GJSlnLp1xMZcQBA4%3D",
-   "title": "KARMA: The Dark World Digital Deluxe Bundle",
+   "id": "smLPKLOYxfLdl6ZHuaUalCX9jw%2BgraOx%2FcfqRCYpvXU%3D",
+   "title": "Dataminers - Artbook and Making-of",
    "store": "GOG",
-   "price": 34.35,
-   "regular": 37.76,
+   "price": 1.35,
+   "regular": 1.49,
    "savings": 9,
    "hl": false,
    "low": null,
    "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=5qPXziN7smng%2Fyo7ZyAAEjMHit1GJSlnLp1xMZcQBA4%3D",
-   "thumb": "https://images.gog-statics.com/1f07d3bba3403fa7c5dd8783c2f19d5f2a342ca4875a9e4567af984ccb8decbb_product_tile_117h.webp"
+   "url": "https://www.cheapshark.com/redirect?dealID=smLPKLOYxfLdl6ZHuaUalCX9jw%2BgraOx%2FcfqRCYpvXU%3D",
+   "thumb": "https://images.gog-statics.com/afbb8fc93f988540368596b06ced279581a3d91b91d4ba6128b9b4dbc6910ff1_product_tile_117h.webp"
   },
   {
    "id": "bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
@@ -699,7 +699,7 @@
    "regular": 14.99,
    "savings": 8,
    "hl": false,
-   "low": 9.89,
+   "low": null,
    "release": "2026-06-10",
    "url": "https://www.cheapshark.com/redirect?dealID=RkTrAJxhmOz5egIClBEhXnV3LbC%2Bk0mSeUITMKU6cyE%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-the-flower-the-flame/cover-180-e14ec3.jpg"
@@ -755,19 +755,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=dPcNVjliOHwfOR6sWoUO%2FTmo%2BArjCckX8b2c04n0XXk%3D",
    "thumb": "https://images.gog-statics.com/6e8add2e1bc87b9f4b28e837b54516e67053b6f4d5f98a61b72627ab01dd373f_product_tile_117h.webp"
-  },
-  {
-   "id": "9OsQXq7cSvLgPpulouGIUM7E2f6rd%2BFZtdd4T3ZFtmE%3D",
-   "title": "Regions of Ruin: Runegate Deluxe Edition",
-   "store": "GOG",
-   "price": 23.89,
-   "regular": 25.99,
-   "savings": 8,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=9OsQXq7cSvLgPpulouGIUM7E2f6rd%2BFZtdd4T3ZFtmE%3D",
-   "thumb": "https://images.gog-statics.com/a8e48c4a9077b6e048839db9908154092ccaf33fc934f5c06130e4640ec1b38d_product_tile_117h.webp"
   },
   {
    "id": "Z2W4rFXyEuvcGr7QnkKUx13%2FS9mEhJ2Y2E7AO%2FQ62KI%3D",
@@ -1041,6 +1028,19 @@
    "release": "2021-06-25",
    "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
+  },
+  {
+   "id": "rZaLrShPlZjRxxoiX%2FjXYnbXNohRQ2jFX0MTRxx2fF4%3D",
+   "title": "Lost in Random",
+   "store": "Green Man Gaming",
+   "price": 48.49,
+   "regular": 49.99,
+   "savings": 3,
+   "hl": false,
+   "low": 2.99,
+   "release": "2021-09-10",
+   "url": "https://www.cheapshark.com/redirect?dealID=rZaLrShPlZjRxxoiX%2FjXYnbXNohRQ2jFX0MTRxx2fF4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462570/capsule_231x87.jpg?t=1777395303"
   }
  ],
  "new": [],

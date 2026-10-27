@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:24:06+00:00",
+ "updated": "2026-10-27T06:28:49+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -549,6 +549,45 @@
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
   },
   {
+   "id": "%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
+   "title": "Crusader Kings III: By God Alone",
+   "store": "Fanatical",
+   "price": 18.19,
+   "regular": 19.99,
+   "savings": 9,
+   "hl": false,
+   "low": null,
+   "release": "2026-09-30",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/crusader-kings-iii-by-god-alone/cover-180-2a0b16.jpg"
+  },
+  {
+   "id": "5qPXziN7smng%2Fyo7ZyAAEjMHit1GJSlnLp1xMZcQBA4%3D",
+   "title": "KARMA: The Dark World Digital Deluxe Bundle",
+   "store": "GOG",
+   "price": 34.35,
+   "regular": 37.76,
+   "savings": 9,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=5qPXziN7smng%2Fyo7ZyAAEjMHit1GJSlnLp1xMZcQBA4%3D",
+   "thumb": "https://images.gog-statics.com/1f07d3bba3403fa7c5dd8783c2f19d5f2a342ca4875a9e4567af984ccb8decbb_product_tile_117h.webp"
+  },
+  {
+   "id": "bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
+   "title": "Darkness Maze Cube - Hardcore Puzzle Game",
+   "store": "Steam",
+   "price": 2.94,
+   "regular": 3.18,
+   "savings": 8,
+   "hl": false,
+   "low": 1.0,
+   "release": "2020-01-28",
+   "url": "https://www.cheapshark.com/redirect?dealID=bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1153980/capsule_231x87.jpg?t=1729004159"
+  },
+  {
    "id": "fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
    "title": "Alaskan Road Truckers",
    "store": "Steam",
@@ -598,7 +637,7 @@
    "low": 55.19,
    "release": "2026-10-29",
    "url": "https://www.cheapshark.com/redirect?dealID=i3ghfCUtEime6yThMWfXBM2FAoAJIO5yvl4hLGd9jLE%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1792637475"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1793044660"
   },
   {
    "id": "yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
@@ -611,7 +650,7 @@
    "low": 55.19,
    "release": "2026-10-29",
    "url": "https://www.cheapshark.com/redirect?dealID=yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1792637475"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1793044660"
   },
   {
    "id": "8TZbo5ft%2F%2B9hxttN93e0T12TinMKUJgz6ZwXSkZoBJE%3D",
@@ -647,7 +686,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 17.79,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=snqqRJRUmat5uDoI4yk6URpsI1%2BfqJNnBbPk8OFwmI4%3D",
    "thumb": "https://images.greenmangaming.com/7e54f3f4ee8e42319d8b5446a983750c/bde8a8bc4ded4443b1152cf604360ad0.jpg"
@@ -660,7 +699,7 @@
    "regular": 14.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 9.89,
    "release": "2026-06-10",
    "url": "https://www.cheapshark.com/redirect?dealID=RkTrAJxhmOz5egIClBEhXnV3LbC%2Bk0mSeUITMKU6cyE%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-the-flower-the-flame/cover-180-e14ec3.jpg"
@@ -887,6 +926,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2055050/capsule_231x87.jpg?t=1790240367"
   },
   {
+   "id": "21xGD8TmfufycvtZaJtdzNT%2BPoeSprOhNkhQC7B8yXg%3D",
+   "title": "Geometric Sniper - Blood in Paris",
+   "store": "Steam",
+   "price": 2.35,
+   "regular": 2.47,
+   "savings": 5,
+   "hl": false,
+   "low": 0.99,
+   "release": "2021-09-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=21xGD8TmfufycvtZaJtdzNT%2BPoeSprOhNkhQC7B8yXg%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1499800/capsule_231x87.jpg?t=1729016151"
+  },
+  {
    "id": "NhEDfpwWLM4dxObGxGq0kHOOS4BZKayvk%2FSSMe2gwq4%3D",
    "title": "Glowing Stones : Heroes Awakening Bonus Pack",
    "store": "GOG",
@@ -952,19 +1004,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/676730/capsule_231x87.jpg?t=1502869450"
   },
   {
-   "id": "18KTzZBPuwD9PPJwcr95wuvDTqK255YneyoIlI%2BhsBs%3D",
-   "title": "Survivor Cells",
-   "store": "Steam",
-   "price": 9.49,
-   "regular": 9.77,
-   "savings": 3,
-   "hl": false,
-   "low": 1.74,
-   "release": "2024-05-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=18KTzZBPuwD9PPJwcr95wuvDTqK255YneyoIlI%2BhsBs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1976100/capsule_231x87.jpg?t=1729019488"
-  },
-  {
    "id": "KOaRK7taO4N97MrjDqYASXG4ZKh6lCRbTj07OCXtTTA%3D",
    "title": "25 Xbox Gift Card  Digital Code",
    "store": "Green Man Gaming",
@@ -1002,45 +1041,6 @@
    "release": "2021-06-25",
    "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
-  },
-  {
-   "id": "YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
-   "title": "Madden NFL 22: Standard Edition",
-   "store": "Green Man Gaming",
-   "price": 58.19,
-   "regular": 59.99,
-   "savings": 3,
-   "hl": false,
-   "low": 56.39,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
-   "thumb": "https://images.greenmangaming.com/77357bb7f2614e969e5a3ea0f509a0c0/935b2770bd7d49789ad3737664991fbe.jpg"
-  },
-  {
-   "id": "rZaLrShPlZjRxxoiX%2FjXYnbXNohRQ2jFX0MTRxx2fF4%3D",
-   "title": "Lost in Random",
-   "store": "Green Man Gaming",
-   "price": 48.49,
-   "regular": 49.99,
-   "savings": 3,
-   "hl": false,
-   "low": 2.99,
-   "release": "2021-09-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=rZaLrShPlZjRxxoiX%2FjXYnbXNohRQ2jFX0MTRxx2fF4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462570/capsule_231x87.jpg?t=1777395303"
-  },
-  {
-   "id": "LzHT1JpyyLPgA%2FxjGKNHh6Dx2i9U7lp3Whuro2pHjog%3D",
-   "title": "Madden NFL 22: 5850 Madden Points",
-   "store": "Green Man Gaming",
-   "price": 48.49,
-   "regular": 49.99,
-   "savings": 3,
-   "hl": true,
-   "low": 48.49,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=LzHT1JpyyLPgA%2FxjGKNHh6Dx2i9U7lp3Whuro2pHjog%3D",
-   "thumb": "https://images.greenmangaming.com/e84850e1ccac45dfb6db7f37cc8cf9a3/c4bd527588f74320b3c060733b095787.jpg"
   }
  ],
  "new": [],
@@ -1202,19 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1752830/capsule_231x87.jpg?t=1741907588"
   },
   {
-   "id": "IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
-   "title": "Legends of Persia",
-   "store": "Green Man Gaming",
-   "price": 2.0,
-   "regular": 19.99,
-   "savings": 90,
-   "hl": false,
-   "low": null,
-   "release": "2014-06-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
-  },
-  {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
    "title": "Legends of Persia",
    "store": "Humble",
@@ -1303,6 +1290,19 @@
    "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=TNJ3WdiNAFOLhu7sVjGfvCfDMYEOyhKPBnlNKLS7WqY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2098860/capsule_231x87.jpg?t=1748360688"
+  },
+  {
+   "id": "EfUZ0Nojaf4eYioIX7RLKZclI7MF2lBc2GEK65JyX%2F8%3D",
+   "title": "Magic ity Detective: Secret Desire Collectors Edition",
+   "store": "Steam",
+   "price": 3.19,
+   "regular": 7.99,
+   "savings": 60,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=EfUZ0Nojaf4eYioIX7RLKZclI7MF2lBc2GEK65JyX%2F8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2098860/capsule_231x87.jpg?t=1748360688"
   }
  ]

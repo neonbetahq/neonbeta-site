@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T22:16:01+00:00",
+ "updated": "2026-10-27T00:24:06+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -549,19 +549,6 @@
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
   },
   {
-   "id": "%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
-   "title": "Crusader Kings III: By God Alone",
-   "store": "Fanatical",
-   "price": 18.19,
-   "regular": 19.99,
-   "savings": 9,
-   "hl": false,
-   "low": null,
-   "release": "2026-09-30",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/crusader-kings-iii-by-god-alone/cover-180-2a0b16.jpg"
-  },
-  {
    "id": "fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
    "title": "Alaskan Road Truckers",
    "store": "Steam",
@@ -660,7 +647,7 @@
    "regular": 19.99,
    "savings": 8,
    "hl": false,
-   "low": 17.79,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=snqqRJRUmat5uDoI4yk6URpsI1%2BfqJNnBbPk8OFwmI4%3D",
    "thumb": "https://images.greenmangaming.com/7e54f3f4ee8e42319d8b5446a983750c/bde8a8bc4ded4443b1152cf604360ad0.jpg"
@@ -673,7 +660,7 @@
    "regular": 14.99,
    "savings": 8,
    "hl": false,
-   "low": 9.89,
+   "low": null,
    "release": "2026-06-10",
    "url": "https://www.cheapshark.com/redirect?dealID=RkTrAJxhmOz5egIClBEhXnV3LbC%2Bk0mSeUITMKU6cyE%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-the-flower-the-flame/cover-180-e14ec3.jpg"
@@ -744,19 +731,6 @@
    "thumb": "https://images.gog-statics.com/a8e48c4a9077b6e048839db9908154092ccaf33fc934f5c06130e4640ec1b38d_product_tile_117h.webp"
   },
   {
-   "id": "qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
-   "title": "Build Lands",
-   "store": "Steam",
-   "price": 3.83,
-   "regular": 4.18,
-   "savings": 8,
-   "hl": false,
-   "low": null,
-   "release": "2022-05-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=qkFACcsqA5O8ZL8rzKvF2sy9ntmLOSaSGQpFr%2B8Xj5k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1921390/capsule_231x87.jpg?t=1729018600"
-  },
-  {
    "id": "Z2W4rFXyEuvcGr7QnkKUx13%2FS9mEhJ2Y2E7AO%2FQ62KI%3D",
    "title": "MISERY",
    "store": "Steam",
@@ -794,6 +768,19 @@
    "release": "2022-02-18",
    "url": "https://www.cheapshark.com/redirect?dealID=qV0r7DO1zP2kB%2FWdXOlz8k7QVz0dvVAh1i3pRRRfpZQ%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1843730/3d291a855a8ead87d71f59bdaf5ebc909d3443e4/capsule_231x87.jpg?t=1788902630"
+  },
+  {
+   "id": "eVYr%2Fph%2F9xQ8YnxkMLr5Dx%2FdhA0rze9Y2hVRYKoki1I%3D",
+   "title": "Lord of Rigel",
+   "store": "Steam",
+   "price": 11.61,
+   "regular": 12.48,
+   "savings": 7,
+   "hl": false,
+   "low": 2.99,
+   "release": "2024-08-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=eVYr%2Fph%2F9xQ8YnxkMLr5Dx%2FdhA0rze9Y2hVRYKoki1I%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437440/35545b8726bac920b2c4e19bdd664766a06f14c4/capsule_231x87.jpg?t=1790576094"
   },
   {
    "id": "m0BtMtTa6SCXluWWfYmoZbZJXwl1L12j8W9yy0u%2F%2Fbk%3D",
@@ -872,6 +859,19 @@
    "release": "2026-08-06",
    "url": "https://www.cheapshark.com/redirect?dealID=%2F%2B2%2FBbya0NV6pSiuTHMnI0IA5o82QpSX%2FAz9WCezcsk%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310610/a88405d191c7ce851e8b7c01177ee16936ffe7da/capsule_231x87.jpg?t=1786367666"
+  },
+  {
+   "id": "PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
+   "title": "Climber: Sky is the Limit",
+   "store": "Steam",
+   "price": 21.94,
+   "regular": 23.38,
+   "savings": 6,
+   "hl": false,
+   "low": 5.49,
+   "release": "2022-11-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1231840/capsule_231x87.jpg?t=1788294220"
   },
   {
    "id": "l%2FsqHg%2BLns6OS%2BlWRvW%2BRGay7eLVmILTYBWc1WWDhHM%3D",

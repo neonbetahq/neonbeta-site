@@ -128,8 +128,9 @@ footer{margin:36px 0 24px;padding-top:16px;border-top:1px solid var(--line);colo
 
 <section id="v-services" hidden>
  <h1>Discord <em>setup</em> service</h1>
- <p class="sub">Running a gaming community? We set up clean, well-organised Discord servers so you can focus on your members.</p>
+ <p class="sub">Running a gaming community? We set up clean, well-organised Discord servers so you can spend your time on your members, not on settings.</p>
  <div class="grid" id="svcGrid"></div>
+ <div class="prose"><h2>How it works</h2><p>Email us a few details about your community. We agree on what you need and a price before any work starts, build it, and hand it over for you to check. Prices depend on the size of the server, so ask for a quote. NeonBeta is a small project, so we take on only a few setups at a time.</p></div>
 </section>
 
 <footer>
@@ -198,7 +199,7 @@ function mk(){
  curSel.value=cc;
  var gear=[["Headsets","Comfort, mic quality and sound for gaming and Discord calls."],["Keyboards","From budget membrane to hot-swappable mechanical."],["Mice","Light, accurate and easy on the wrist."],["Monitors","Refresh rate, panel type and what is worth paying for."],["Controllers","Pads that work well on PC, with or without a console."],["Storage & SSDs","Cheap ways to give your library more room."]];
  document.getElementById("gearGrid").innerHTML=gear.map(function(g){return '<div class="card"><h3>'+g[0]+'</h3><div class="meta">'+g[1]+'</div><span class="soonlbl">Guide coming soon</span></div>'}).join("");
- var svc=[["Starter server","A tidy, ready-to-use server: channels, roles, rules and a welcome flow."],["Community server","Everything in Starter plus moderation setup, bots, ticketing and event channels."],["Custom bot","Deal alerts, game-night scheduling or anything your community needs."]];
+ var svc=[["Starter server","Categories and channels, roles, rules and a welcome message, set up cleanly and ready to use."],["Community server","Everything in Starter plus onboarding, moderation setup, a feedback channel and a simple bot or two."],["Custom bot","A bot for something specific, like deal alerts or event reminders. Quoted case by case."]];
  document.getElementById("svcGrid").innerHTML=svc.map(function(s){return '<div class="card"><h3>'+s[0]+'</h3><div class="meta">'+s[1]+'</div><a class="btn" href="#" data-contact>Get a quote</a></div>'}).join("");
 }
 function route(id){

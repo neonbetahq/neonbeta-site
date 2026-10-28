@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T18:33:38+00:00",
+ "updated": "2026-10-28T00:31:45+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -14,19 +14,6 @@
    "release": "2022-02-11",
    "url": "https://www.cheapshark.com/redirect?dealID=ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1891230/capsule_231x87.jpg?t=1709425848"
-  },
-  {
-   "id": "IYFIxPCY9v9vA9s0rfADXfAXV1clw6rHNxMyoFrY4Cw%3D",
-   "title": "How Much Items - Vehicles",
-   "store": "Steam",
-   "price": 9.99,
-   "regular": 199.99,
-   "savings": 95,
-   "hl": false,
-   "low": null,
-   "release": "2025-03-12",
-   "url": "https://www.cheapshark.com/redirect?dealID=IYFIxPCY9v9vA9s0rfADXfAXV1clw6rHNxMyoFrY4Cw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3525880/8520680d63e0a67c4ab6997a7588235712c4fe71/capsule_231x87.jpg?t=1741826676"
   },
   {
    "id": "u0y0Mu26FV%2BLjprNW0l3yyoiqtsGs4ZY%2FJI7HQrpuL8%3D",
@@ -393,6 +380,19 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/18a56101-e5e5-466b-bd65-c53d4c8950fa.jpeg"
   },
   {
+   "id": "G%2B8sS8GTlZyUZ69ljVc%2FFXKOB67C%2BqzXQHtFi8qPPyk%3D",
+   "title": "RPG Maker MZ - Time Fantasy: Monsters",
+   "store": "Fanatical",
+   "price": 5.98,
+   "regular": 7.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=G%2B8sS8GTlZyUZ69ljVc%2FFXKOB67C%2BqzXQHtFi8qPPyk%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/e3a5b679-aa5b-4be2-9945-6d8911385d93.jpeg"
+  },
+  {
    "id": "fHqK3MHLsBSGdGo1b2f9e5MWiUsKYpGmG69j8COaLtY%3D",
    "title": "Axis Game Factory's AGFPRO - Voxel Sculpt",
    "store": "Fanatical",
@@ -491,10 +491,166 @@
    "regular": 49.99,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 43.95,
    "release": "2026-09-29",
    "url": "https://www.cheapshark.com/redirect?dealID=CkN9ALNPyVEpKW7pD3koIuT7vvtMD2sJFeuxAI308tU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3493540/c7e55c21b933d7960ab0400fc0f905c4e00ec6ac/capsule_231x87_alt_assets_0.jpg?t=1791359026"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1791359026"
+  },
+  {
+   "id": "UlJ74RYGw3rkNJhq0oU11UgwRNVlMYRBJYME7l4ZDUA%3D",
+   "title": "Transport Fever 3: Deluxe Edition",
+   "store": "Fanatical",
+   "price": 58.81,
+   "regular": 64.99,
+   "savings": 10,
+   "hl": false,
+   "low": 57.17,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=UlJ74RYGw3rkNJhq0oU11UgwRNVlMYRBJYME7l4ZDUA%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/transport-fever-3-deluxe-edition/cover-180-39c67a.jpg"
+  },
+  {
+   "id": "DHQJSRMz7rqpZbjD0i9xVc1mVthg8dfvkJaen6WOxUw%3D",
+   "title": "BONEREADER Collectors Edition Bundle",
+   "store": "GOG",
+   "price": 6.29,
+   "regular": 6.98,
+   "savings": 10,
+   "hl": false,
+   "low": 4.45,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=DHQJSRMz7rqpZbjD0i9xVc1mVthg8dfvkJaen6WOxUw%3D",
+   "thumb": "https://images.gog-statics.com/f0534c20ade81b387de67cdaaeb1e0c071816b083f2b697d3178d7a55f357134_product_tile_117h.webp"
+  },
+  {
+   "id": "h9qSlXBXgHhSKqz%2FQwJGzA7jdX%2FIIyJdAHXrKI6nEGA%3D",
+   "title": "Imperium Galactica Bundle",
+   "store": "GOG",
+   "price": 13.49,
+   "regular": 14.98,
+   "savings": 10,
+   "hl": false,
+   "low": 3.35,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=h9qSlXBXgHhSKqz%2FQwJGzA7jdX%2FIIyJdAHXrKI6nEGA%3D",
+   "thumb": "https://images.gog-statics.com/b5d2bdf162f50ab69e611230ec91b750da814da63146b79751ab2a7bcf0a54aa_product_tile_117h.webp"
+  },
+  {
+   "id": "BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
+   "title": "Chicken Journey and Bocks and Clucks Bundle",
+   "store": "GOG",
+   "price": 14.39,
+   "regular": 15.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
+   "thumb": "https://images.gog-statics.com/d6b7d4f0fc43aa9b45803e3d0d3930c5217e48b8b2dc53e202aad493af84da62_product_tile_117h.webp"
+  },
+  {
+   "id": "IY4wol2N5yHyAB6oq5y2ktyicy9ZjtudVoRlvn23yqs%3D",
+   "title": "Sigilfarer Bundle",
+   "store": "GOG",
+   "price": 15.29,
+   "regular": 16.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=IY4wol2N5yHyAB6oq5y2ktyicy9ZjtudVoRlvn23yqs%3D",
+   "thumb": "https://images.gog-statics.com/099da01c05014d3cbf73c508e5e6fe93fdcd12aafaa867f53e1b86a19236cdff_product_tile_117h.webp"
+  },
+  {
+   "id": "C0rxVTAWGV1kgOHLglPUnYsSjWjkt6PT%2F6e41GUvUkE%3D",
+   "title": "Blood Nova and OST",
+   "store": "GOG",
+   "price": 15.29,
+   "regular": 16.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=C0rxVTAWGV1kgOHLglPUnYsSjWjkt6PT%2F6e41GUvUkE%3D",
+   "thumb": "https://images.gog-statics.com/f0fcf0848c8e70e544b4b6fae638c6d08525392db8553c2586a0b7625dd40ad6_product_tile_117h.webp"
+  },
+  {
+   "id": "ka8xXjC9N82mEXZtX7BfLmK02cBZFr7GtW%2FBV4W%2FEKo%3D",
+   "title": "Koira - Support The Devs Bundle",
+   "store": "GOG",
+   "price": 16.19,
+   "regular": 17.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=ka8xXjC9N82mEXZtX7BfLmK02cBZFr7GtW%2FBV4W%2FEKo%3D",
+   "thumb": "https://images.gog-statics.com/49dd5e460dd20b82f75b16d73f3b763a7f6e36e97301a85bc7874eef6f22a994_product_tile_117h.webp"
+  },
+  {
+   "id": "NzN6i3m%2BVsXucHN2mg2GIcmdOs4HQ%2FI8cxFLbT5RKfI%3D",
+   "title": "Pathogenic - Supporter Edition",
+   "store": "GOG",
+   "price": 17.99,
+   "regular": 19.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=NzN6i3m%2BVsXucHN2mg2GIcmdOs4HQ%2FI8cxFLbT5RKfI%3D",
+   "thumb": "https://images.gog-statics.com/46d4c75d4636b997cd8064f823e0727c91b94c127f945b1d59a6cb2bc11ca902_product_tile_117h.webp"
+  },
+  {
+   "id": "ef0Ut4HWjGGdQ9Vm1ZM4W8GhjIvBHZkphydhq1RNM24%3D",
+   "title": "IN HEAT - Soundtrack Bundle",
+   "store": "GOG",
+   "price": 17.99,
+   "regular": 19.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=ef0Ut4HWjGGdQ9Vm1ZM4W8GhjIvBHZkphydhq1RNM24%3D",
+   "thumb": "https://images.gog-statics.com/74df03b7cd08f1fe9f0873f7f96e77b8870895f69a9ee9e2f2a8b4a4c439c654_product_tile_117h.webp"
+  },
+  {
+   "id": "9zgVk7vd0pYU2fvU8JIMJ2ebRiqk4PFIUCdkq0W6Ahw%3D",
+   "title": "Sky Force Bundle",
+   "store": "GOG",
+   "price": 17.99,
+   "regular": 19.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=9zgVk7vd0pYU2fvU8JIMJ2ebRiqk4PFIUCdkq0W6Ahw%3D",
+   "thumb": "https://images.gog-statics.com/6bb46892691bb38e694ec1e686e556ed857af0ce5fecf10aeeb73093c561d7bb_product_tile_117h.webp"
+  },
+  {
+   "id": "uWRQAK8LrfxaWnhWQXBLqSFa%2F4BTXzY0KFBwE1bIHFI%3D",
+   "title": "FOUNTAINS: Extended Edition",
+   "store": "GOG",
+   "price": 18.89,
+   "regular": 20.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=uWRQAK8LrfxaWnhWQXBLqSFa%2F4BTXzY0KFBwE1bIHFI%3D",
+   "thumb": "https://images.gog-statics.com/250debed6c9a8aa62643d591d75202dbc771a9c2085583c984835c4b13d48772_product_tile_117h.webp"
+  },
+  {
+   "id": "CfH9iRWG1PCFTkusK%2B00h64HcOT3ROrXPlR0rO0s%2BYI%3D",
+   "title": "Snow Plowing Simulator: Ski Resort Edition",
+   "store": "GOG",
+   "price": 19.79,
+   "regular": 21.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=CfH9iRWG1PCFTkusK%2B00h64HcOT3ROrXPlR0rO0s%2BYI%3D",
+   "thumb": "https://images.gog-statics.com/052785b79832b94213fe8785522fb84ece30a4a73e215dac8ccaf6da2b89e04d_product_tile_117h.webp"
   },
   {
    "id": "fiu%2BTTiwf%2Fs0LBgCxsRppgVb554XaLYYIuthkJ5nIMg%3D",
@@ -543,7 +699,7 @@
    "regular": 8.08,
    "savings": 9,
    "hl": false,
-   "low": null,
+   "low": 2.24,
    "release": "2024-01-05",
    "url": "https://www.cheapshark.com/redirect?dealID=J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2234690/capsule_231x87.jpg?t=1788246023"
@@ -556,7 +712,7 @@
    "regular": 49.99,
    "savings": 9,
    "hl": false,
-   "low": null,
+   "low": 43.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
@@ -569,7 +725,7 @@
    "regular": 19.99,
    "savings": 9,
    "hl": false,
-   "low": null,
+   "low": 17.59,
    "release": "2026-09-30",
    "url": "https://www.cheapshark.com/redirect?dealID=%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/crusader-kings-iii-by-god-alone/cover-180-2a0b16.jpg"
@@ -581,8 +737,8 @@
    "price": 1.35,
    "regular": 1.49,
    "savings": 9,
-   "hl": false,
-   "low": null,
+   "hl": true,
+   "low": 1.35,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=smLPKLOYxfLdl6ZHuaUalCX9jw%2BgraOx%2FcfqRCYpvXU%3D",
    "thumb": "https://images.gog-statics.com/afbb8fc93f988540368596b06ced279581a3d91b91d4ba6128b9b4dbc6910ff1_product_tile_117h.webp"
@@ -599,19 +755,6 @@
    "release": "2020-01-28",
    "url": "https://www.cheapshark.com/redirect?dealID=bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1153980/capsule_231x87.jpg?t=1729004159"
-  },
-  {
-   "id": "fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
-   "title": "Alaskan Road Truckers",
-   "store": "Steam",
-   "price": 20.73,
-   "regular": 22.48,
-   "savings": 8,
-   "hl": false,
-   "low": 4.39,
-   "release": "2023-10-18",
-   "url": "https://www.cheapshark.com/redirect?dealID=fcFOQqb8dz1i3kBOQqaDibO2zfjjGAw1xlkfQB8iiUs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/849100/73f0d3319b28925112a8e2c5733299ba9b7a71f9/capsule_231x87.jpg?t=1781895573"
   },
   {
    "id": "NB8wmq0xK66Uhs26LOG7OP1H%2BTJ42WBvDIFe1E18rl4%3D",
@@ -725,7 +868,7 @@
    "regular": 12.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 10.39,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ssonjpidwBaM%2BnB4rHxMcYBp0G9HScYX83P8yET5BpY%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/stellaris-infernals-species-pack/cover-180-df8313.jpg"
@@ -738,23 +881,10 @@
    "regular": 11.99,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 8.39,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=IaYKiR56aqYFXVUEWJiHElgDJUDwlfdjD9nswx22qqc%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-santa-monica-memories/cover-180-ceac29.jpg"
-  },
-  {
-   "id": "CfUZo5hB5rWVdfjTg8mHkHlhZFX8W5nGZ9xz3bZmuJ8%3D",
-   "title": "Mostroscopy",
-   "store": "Steam",
-   "price": 19.53,
-   "regular": 21.23,
-   "savings": 8,
-   "hl": false,
-   "low": null,
-   "release": "2023-10-30",
-   "url": "https://www.cheapshark.com/redirect?dealID=CfUZo5hB5rWVdfjTg8mHkHlhZFX8W5nGZ9xz3bZmuJ8%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2615290/capsule_231x87.jpg?t=1742184630"
   },
   {
    "id": "dPcNVjliOHwfOR6sWoUO%2FTmo%2BArjCckX8b2c04n0XXk%3D",
@@ -764,49 +894,10 @@
    "regular": 47.96,
    "savings": 8,
    "hl": false,
-   "low": null,
+   "low": 39.49,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=dPcNVjliOHwfOR6sWoUO%2FTmo%2BArjCckX8b2c04n0XXk%3D",
    "thumb": "https://images.gog-statics.com/6e8add2e1bc87b9f4b28e837b54516e67053b6f4d5f98a61b72627ab01dd373f_product_tile_117h.webp"
-  },
-  {
-   "id": "Z2W4rFXyEuvcGr7QnkKUx13%2FS9mEhJ2Y2E7AO%2FQ62KI%3D",
-   "title": "MISERY",
-   "store": "Steam",
-   "price": 19.33,
-   "regular": 20.68,
-   "savings": 7,
-   "hl": false,
-   "low": 7.49,
-   "release": "2025-10-23",
-   "url": "https://www.cheapshark.com/redirect?dealID=Z2W4rFXyEuvcGr7QnkKUx13%2FS9mEhJ2Y2E7AO%2FQ62KI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2119830/9ac5fcd5ec0de485a101d31385aeb4c7ca6fdbd5/capsule_231x87.jpg?t=1788449842"
-  },
-  {
-   "id": "KD7wMLEeEEVq%2BqqF4bmXs8LzZlzFLKsW6JCa4XBmJj0%3D",
-   "title": "PAPERHEAD",
-   "store": "Steam",
-   "price": 19.33,
-   "regular": 20.68,
-   "savings": 7,
-   "hl": false,
-   "low": 12.45,
-   "release": "2026-10-09",
-   "url": "https://www.cheapshark.com/redirect?dealID=KD7wMLEeEEVq%2BqqF4bmXs8LzZlzFLKsW6JCa4XBmJj0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2680280/4a08d4a6600124188c5f34e261cfb71905beaa0f/capsule_231x87.jpg?t=1792771242"
-  },
-  {
-   "id": "qV0r7DO1zP2kB%2FWdXOlz8k7QVz0dvVAh1i3pRRRfpZQ%3D",
-   "title": "Last Group Out",
-   "store": "Steam",
-   "price": 9.78,
-   "regular": 10.48,
-   "savings": 7,
-   "hl": false,
-   "low": 4.99,
-   "release": "2022-02-18",
-   "url": "https://www.cheapshark.com/redirect?dealID=qV0r7DO1zP2kB%2FWdXOlz8k7QVz0dvVAh1i3pRRRfpZQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1843730/3d291a855a8ead87d71f59bdaf5ebc909d3443e4/capsule_231x87.jpg?t=1788902630"
   },
   {
    "id": "eVYr%2Fph%2F9xQ8YnxkMLr5Dx%2FdhA0rze9Y2hVRYKoki1I%3D",
@@ -835,69 +926,17 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/13ac6002a7cd1c867f8bf2f650101fe9d91ce4f9/capsule_231x87.jpg?t=1791388584"
   },
   {
-   "id": "crisznKI8%2B0O4MyqeubAZESf4kq3eC7%2B%2BLm9KMEhYAk%3D",
-   "title": "Cinema Simulator 2025",
+   "id": "y%2FZH9jelyuVDCoF0mnIpL4FdxjVwOjrrhN3a7tpVxx4%3D",
+   "title": "Island Off Outer Darkness",
    "store": "Steam",
-   "price": 11.68,
-   "regular": 12.58,
+   "price": 13.93,
+   "regular": 14.98,
    "savings": 7,
    "hl": false,
-   "low": 5.99,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=crisznKI8%2B0O4MyqeubAZESf4kq3eC7%2B%2BLm9KMEhYAk%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098070/capsule_231x87.jpg?t=1793096295"
-  },
-  {
-   "id": "wy7rm7khDvGtQGbcDZ4aGI0BDB6sWLUswRks9UUPVu4%3D",
-   "title": "Business Simulator 2026",
-   "store": "Steam",
-   "price": 11.68,
-   "regular": 12.58,
-   "savings": 7,
-   "hl": false,
-   "low": 7.79,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=wy7rm7khDvGtQGbcDZ4aGI0BDB6sWLUswRks9UUPVu4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3098060/7ddf56570811b0259aa27d19bb39cbe8bae3d12b/capsule_231x87.jpg?t=1793096082"
-  },
-  {
-   "id": "6hN6Oj83aumxbv47PrGGnM0POIt1BgGo%2BlIQCTj6KKM%3D",
-   "title": "Reventure",
-   "store": "Steam",
-   "price": 12.05,
-   "regular": 12.99,
-   "savings": 7,
-   "hl": false,
-   "low": 0.49,
-   "release": "2019-06-04",
-   "url": "https://www.cheapshark.com/redirect?dealID=6hN6Oj83aumxbv47PrGGnM0POIt1BgGo%2BlIQCTj6KKM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/900270/capsule_231x87.jpg?t=1726659631"
-  },
-  {
-   "id": "bXO2bDmcxKF7ctPB1pIWoYzF2QQicD2TXnEpoMdD%2Bgs%3D",
-   "title": "Crypto Miner Tycoon Simulator",
-   "store": "Steam",
-   "price": 23.74,
-   "regular": 25.18,
-   "savings": 6,
-   "hl": false,
-   "low": 9.59,
-   "release": "2022-04-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=bXO2bDmcxKF7ctPB1pIWoYzF2QQicD2TXnEpoMdD%2Bgs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1859290/capsule_231x87.jpg?t=1780833521"
-  },
-  {
-   "id": "%2F%2B2%2FBbya0NV6pSiuTHMnI0IA5o82QpSX%2FAz9WCezcsk%3D",
-   "title": "The Skin Stapler",
-   "store": "Steam",
-   "price": 14.38,
-   "regular": 15.28,
-   "savings": 6,
-   "hl": false,
-   "low": 9.74,
-   "release": "2026-08-06",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2F%2B2%2FBbya0NV6pSiuTHMnI0IA5o82QpSX%2FAz9WCezcsk%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4310610/a88405d191c7ce851e8b7c01177ee16936ffe7da/capsule_231x87.jpg?t=1786367666"
+   "low": 6.99,
+   "release": "2025-07-24",
+   "url": "https://www.cheapshark.com/redirect?dealID=y%2FZH9jelyuVDCoF0mnIpL4FdxjVwOjrrhN3a7tpVxx4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3661790/54a976e95440d5b80677bfdeb01d9db4609dc3e7/capsule_231x87.jpg?t=1769744872"
   },
   {
    "id": "PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
@@ -911,19 +950,6 @@
    "release": "2022-11-21",
    "url": "https://www.cheapshark.com/redirect?dealID=PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1231840/capsule_231x87.jpg?t=1788294220"
-  },
-  {
-   "id": "l%2FsqHg%2BLns6OS%2BlWRvW%2BRGay7eLVmILTYBWc1WWDhHM%3D",
-   "title": "Cavalry Girls",
-   "store": "Steam",
-   "price": 15.98,
-   "regular": 16.78,
-   "savings": 5,
-   "hl": false,
-   "low": 7.49,
-   "release": "2023-10-20",
-   "url": "https://www.cheapshark.com/redirect?dealID=l%2FsqHg%2BLns6OS%2BlWRvW%2BRGay7eLVmILTYBWc1WWDhHM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2055050/capsule_231x87.jpg?t=1790240367"
   },
   {
    "id": "21xGD8TmfufycvtZaJtdzNT%2BPoeSprOhNkhQC7B8yXg%3D",
@@ -963,32 +989,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=1Pyohy9GG8%2BXfau0ZeA%2Fmch343bVEQuUXUn3UTI1fXU%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/66a27d44-5ee5-4817-ba76-d3d91be100b6.jpeg"
-  },
-  {
-   "id": "i%2BP10WLsltdFX3jVNWVAd5XZzJTypE54CdoOyRXQG5w%3D",
-   "title": "SULFUR",
-   "store": "Steam",
-   "price": 23.83,
-   "regular": 25.18,
-   "savings": 5,
-   "hl": false,
-   "low": 9.99,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=i%2BP10WLsltdFX3jVNWVAd5XZzJTypE54CdoOyRXQG5w%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124120/939ba19f0fa15e399329ae380b2de0cb15593ea3/capsule_231x87.jpg?t=1793113939"
-  },
-  {
-   "id": "RKuvbXBcfGioTxFBoAYYq2WGak7HHi1Gx4bvEIYp8Jo%3D",
-   "title": "Creepy Redneck Dinosaur Mansion 3",
-   "store": "Steam",
-   "price": 17.98,
-   "regular": 18.73,
-   "savings": 4,
-   "hl": false,
-   "low": 12.73,
-   "release": "2025-04-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=RKuvbXBcfGioTxFBoAYYq2WGak7HHi1Gx4bvEIYp8Jo%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2116510/185d344f7f513de556a253cd30ddffb9b198ec7e/capsule_231x87.jpg?t=1768922426"
   },
   {
    "id": "tAAKry3zO4bL6POv7Trrpm7Ifij6ygDjs3S6tjJzAgU%3D",
@@ -1189,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
-  },
-  {
    "id": "5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
    "title": "Hidden Flowers",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": "2011-06-21",
    "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
+  },
+  {
+   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "title": "BloodLight",
+   "store": "Steam",
+   "price": 4.99,
+   "regular": 9.99,
+   "savings": 50,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
   }
  ]
 }

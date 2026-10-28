@@ -1,20 +1,7 @@
 {
- "updated": "2026-10-28T00:31:45+00:00",
+ "updated": "2026-10-28T06:33:05+00:00",
  "source": "CheapShark",
  "deals": [
-  {
-   "id": "ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
-   "title": "Hidden Tavern Top-Down 3D",
-   "store": "Steam",
-   "price": 9.99,
-   "regular": 199.99,
-   "savings": 95,
-   "hl": false,
-   "low": null,
-   "release": "2022-02-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1891230/capsule_231x87.jpg?t=1709425848"
-  },
   {
    "id": "u0y0Mu26FV%2BLjprNW0l3yyoiqtsGs4ZY%2FJI7HQrpuL8%3D",
    "title": "NeverSynth",
@@ -393,6 +380,19 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/e3a5b679-aa5b-4be2-9945-6d8911385d93.jpeg"
   },
   {
+   "id": "ymS8xjm66aheeRs5o5TjCX2zx2o0Tc2CZJ6fD54vdP4%3D",
+   "title": "RPG Maker MZ - POP! Horror City Character Pack 1",
+   "store": "Fanatical",
+   "price": 5.23,
+   "regular": 6.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=ymS8xjm66aheeRs5o5TjCX2zx2o0Tc2CZJ6fD54vdP4%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/a06cc5e7-2459-4826-b2df-e46318bf287c.jpeg"
+  },
+  {
    "id": "fHqK3MHLsBSGdGo1b2f9e5MWiUsKYpGmG69j8COaLtY%3D",
    "title": "Axis Game Factory's AGFPRO - Voxel Sculpt",
    "store": "Fanatical",
@@ -543,7 +543,7 @@
    "regular": 15.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 7.19,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
    "thumb": "https://images.gog-statics.com/d6b7d4f0fc43aa9b45803e3d0d3930c5217e48b8b2dc53e202aad493af84da62_product_tile_117h.webp"
@@ -556,7 +556,7 @@
    "regular": 16.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 13.09,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=IY4wol2N5yHyAB6oq5y2ktyicy9ZjtudVoRlvn23yqs%3D",
    "thumb": "https://images.gog-statics.com/099da01c05014d3cbf73c508e5e6fe93fdcd12aafaa867f53e1b86a19236cdff_product_tile_117h.webp"
@@ -569,7 +569,7 @@
    "regular": 16.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 3.79,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=C0rxVTAWGV1kgOHLglPUnYsSjWjkt6PT%2F6e41GUvUkE%3D",
    "thumb": "https://images.gog-statics.com/f0fcf0848c8e70e544b4b6fae638c6d08525392db8553c2586a0b7625dd40ad6_product_tile_117h.webp"
@@ -581,8 +581,8 @@
    "price": 16.19,
    "regular": 17.98,
    "savings": 10,
-   "hl": false,
-   "low": null,
+   "hl": true,
+   "low": 16.19,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ka8xXjC9N82mEXZtX7BfLmK02cBZFr7GtW%2FBV4W%2FEKo%3D",
    "thumb": "https://images.gog-statics.com/49dd5e460dd20b82f75b16d73f3b763a7f6e36e97301a85bc7874eef6f22a994_product_tile_117h.webp"
@@ -595,7 +595,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 14.39,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=NzN6i3m%2BVsXucHN2mg2GIcmdOs4HQ%2FI8cxFLbT5RKfI%3D",
    "thumb": "https://images.gog-statics.com/46d4c75d4636b997cd8064f823e0727c91b94c127f945b1d59a6cb2bc11ca902_product_tile_117h.webp"
@@ -608,7 +608,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 16.65,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ef0Ut4HWjGGdQ9Vm1ZM4W8GhjIvBHZkphydhq1RNM24%3D",
    "thumb": "https://images.gog-statics.com/74df03b7cd08f1fe9f0873f7f96e77b8870895f69a9ee9e2f2a8b4a4c439c654_product_tile_117h.webp"
@@ -621,7 +621,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 13.49,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=9zgVk7vd0pYU2fvU8JIMJ2ebRiqk4PFIUCdkq0W6Ahw%3D",
    "thumb": "https://images.gog-statics.com/6bb46892691bb38e694ec1e686e556ed857af0ce5fecf10aeeb73093c561d7bb_product_tile_117h.webp"
@@ -651,6 +651,97 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=CfH9iRWG1PCFTkusK%2B00h64HcOT3ROrXPlR0rO0s%2BYI%3D",
    "thumb": "https://images.gog-statics.com/052785b79832b94213fe8785522fb84ece30a4a73e215dac8ccaf6da2b89e04d_product_tile_117h.webp"
+  },
+  {
+   "id": "yjLuGH%2FAbOP0pcSInwWAXKiJDQCvJ8jbMC6lbspE22I%3D",
+   "title": "The Hand of Glory - Soundtrack Edition",
+   "store": "GOG",
+   "price": 19.79,
+   "regular": 21.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=yjLuGH%2FAbOP0pcSInwWAXKiJDQCvJ8jbMC6lbspE22I%3D",
+   "thumb": "https://images.gog-statics.com/4301952b8b2fbe4acf0f1a032dd4954ea9469a9fb60803da4c50288d4af45a10_product_tile_117h.webp"
+  },
+  {
+   "id": "IoiVYmb%2ByDimAt3sWYij75w37GUzsckNS9XQQIJ%2FQR4%3D",
+   "title": "Primal Planet - Soundtrack Pack",
+   "store": "GOG",
+   "price": 22.95,
+   "regular": 25.49,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=IoiVYmb%2ByDimAt3sWYij75w37GUzsckNS9XQQIJ%2FQR4%3D",
+   "thumb": "https://images.gog-statics.com/459d82dee093b3932ef22821a6cc1a010eca8c04767f80de31668dc6b278835c_product_tile_117h.webp"
+  },
+  {
+   "id": "OP8vgNDxbOIjrfn63qlzDawSsxqIUNCaUVSOmP9gIUs%3D",
+   "title": "inKONBINI: One Store. Many Stories Digital Deluxe Edition",
+   "store": "GOG",
+   "price": 22.49,
+   "regular": 24.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=OP8vgNDxbOIjrfn63qlzDawSsxqIUNCaUVSOmP9gIUs%3D",
+   "thumb": "https://images.gog-statics.com/4c75ea2c2226f529cbc359ee695b247c0949a3c6ad3c88dfd868d9566db0e915_product_tile_117h.webp"
+  },
+  {
+   "id": "oLr%2FCCKev2aonkNWNSUtBijpZzM0d%2FJ0%2Bx7rxHp8zNk%3D",
+   "title": "WW2 Rebuilder: Gold Edition",
+   "store": "GOG",
+   "price": 22.49,
+   "regular": 24.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=oLr%2FCCKev2aonkNWNSUtBijpZzM0d%2FJ0%2Bx7rxHp8zNk%3D",
+   "thumb": "https://images.gog-statics.com/53c180ddd58d2d589f0f374c4463d54a69229e440de7a773d4b3af5498861aef_product_tile_117h.webp"
+  },
+  {
+   "id": "%2BcoMkKUpWaWn5dP5TO0AvX8gTPGZAlJfuSnUEA%2Fcma8%3D",
+   "title": "Mystic Courtesan Stories: Trainee Maria Soundtrack Edition",
+   "store": "GOG",
+   "price": 26.99,
+   "regular": 29.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2BcoMkKUpWaWn5dP5TO0AvX8gTPGZAlJfuSnUEA%2Fcma8%3D",
+   "thumb": "https://images.gog-statics.com/035bf567ddbf9d2f002b101791594b002fc45df54aaf25c8973c02b31b6aef0d_product_tile_117h.webp"
+  },
+  {
+   "id": "SKYGHQaajaYQPZQPqUF6VIVr%2ByzJZI7x9tcqpPhHCbg%3D",
+   "title": "The imaginarylab Collection",
+   "store": "GOG",
+   "price": 35.99,
+   "regular": 39.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=SKYGHQaajaYQPZQPqUF6VIVr%2ByzJZI7x9tcqpPhHCbg%3D",
+   "thumb": "https://images.gog-statics.com/9940dccd5bd1887bab578889800c241cdf8cba40ea15aef7be40e76a3df99d6a_product_tile_117h.webp"
+  },
+  {
+   "id": "EBg8hFP%2Bo97qUtu8QhJWexM5LbL3nO7SIfBZbXcozjY%3D",
+   "title": "Maneater Apex Edition",
+   "store": "GOG",
+   "price": 49.49,
+   "regular": 54.98,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=EBg8hFP%2Bo97qUtu8QhJWexM5LbL3nO7SIfBZbXcozjY%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/maneater-apex-edition-steam/cover-180-093b12.jpg"
   },
   {
    "id": "fiu%2BTTiwf%2Fs0LBgCxsRppgVb554XaLYYIuthkJ5nIMg%3D",
@@ -692,19 +783,6 @@
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
   },
   {
-   "id": "J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
-   "title": "The Day Before You Gone",
-   "store": "Steam",
-   "price": 7.39,
-   "regular": 8.08,
-   "savings": 9,
-   "hl": false,
-   "low": 2.24,
-   "release": "2024-01-05",
-   "url": "https://www.cheapshark.com/redirect?dealID=J8BUgk9QDHbizZtuEJfuDVM2DDJVyoZZ8x3N8zbtSYw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2234690/capsule_231x87.jpg?t=1788246023"
-  },
-  {
    "id": "xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
    "title": "Age of Wonders 4: Expansion Pass 4",
    "store": "Fanatical",
@@ -742,19 +820,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=smLPKLOYxfLdl6ZHuaUalCX9jw%2BgraOx%2FcfqRCYpvXU%3D",
    "thumb": "https://images.gog-statics.com/afbb8fc93f988540368596b06ced279581a3d91b91d4ba6128b9b4dbc6910ff1_product_tile_117h.webp"
-  },
-  {
-   "id": "bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
-   "title": "Darkness Maze Cube - Hardcore Puzzle Game",
-   "store": "Steam",
-   "price": 2.94,
-   "regular": 3.18,
-   "savings": 8,
-   "hl": false,
-   "low": 1.0,
-   "release": "2020-01-28",
-   "url": "https://www.cheapshark.com/redirect?dealID=bqUpxM4LH90WzSZwcXD89r32HHgk21%2Fego6Q2ZTUAZw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1153980/capsule_231x87.jpg?t=1729004159"
   },
   {
    "id": "NB8wmq0xK66Uhs26LOG7OP1H%2BTJ42WBvDIFe1E18rl4%3D",
@@ -900,19 +965,6 @@
    "thumb": "https://images.gog-statics.com/6e8add2e1bc87b9f4b28e837b54516e67053b6f4d5f98a61b72627ab01dd373f_product_tile_117h.webp"
   },
   {
-   "id": "eVYr%2Fph%2F9xQ8YnxkMLr5Dx%2FdhA0rze9Y2hVRYKoki1I%3D",
-   "title": "Lord of Rigel",
-   "store": "Steam",
-   "price": 11.61,
-   "regular": 12.48,
-   "savings": 7,
-   "hl": false,
-   "low": 2.99,
-   "release": "2024-08-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=eVYr%2Fph%2F9xQ8YnxkMLr5Dx%2FdhA0rze9Y2hVRYKoki1I%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437440/35545b8726bac920b2c4e19bdd664766a06f14c4/capsule_231x87.jpg?t=1790576094"
-  },
-  {
    "id": "m0BtMtTa6SCXluWWfYmoZbZJXwl1L12j8W9yy0u%2F%2Fbk%3D",
    "title": "STAR WARS: Galactic Racer",
    "store": "Fanatical",
@@ -937,32 +989,6 @@
    "release": "2025-07-24",
    "url": "https://www.cheapshark.com/redirect?dealID=y%2FZH9jelyuVDCoF0mnIpL4FdxjVwOjrrhN3a7tpVxx4%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3661790/54a976e95440d5b80677bfdeb01d9db4609dc3e7/capsule_231x87.jpg?t=1769744872"
-  },
-  {
-   "id": "PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
-   "title": "Climber: Sky is the Limit",
-   "store": "Steam",
-   "price": 21.94,
-   "regular": 23.38,
-   "savings": 6,
-   "hl": false,
-   "low": 5.49,
-   "release": "2022-11-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=PNPIp1Yb%2FDK%2F7U8UB6%2FZitkgOrZJR0jlf3cTv1rN9TY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1231840/capsule_231x87.jpg?t=1788294220"
-  },
-  {
-   "id": "21xGD8TmfufycvtZaJtdzNT%2BPoeSprOhNkhQC7B8yXg%3D",
-   "title": "Geometric Sniper - Blood in Paris",
-   "store": "Steam",
-   "price": 2.35,
-   "regular": 2.47,
-   "savings": 5,
-   "hl": false,
-   "low": 0.99,
-   "release": "2021-09-09",
-   "url": "https://www.cheapshark.com/redirect?dealID=21xGD8TmfufycvtZaJtdzNT%2BPoeSprOhNkhQC7B8yXg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1499800/capsule_231x87.jpg?t=1729016151"
   },
   {
    "id": "NhEDfpwWLM4dxObGxGq0kHOOS4BZKayvk%2FSSMe2gwq4%3D",
@@ -991,19 +1017,6 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/66a27d44-5ee5-4817-ba76-d3d91be100b6.jpeg"
   },
   {
-   "id": "tAAKry3zO4bL6POv7Trrpm7Ifij6ygDjs3S6tjJzAgU%3D",
-   "title": "Behind The Door",
-   "store": "Steam",
-   "price": 3.82,
-   "regular": 3.98,
-   "savings": 4,
-   "hl": false,
-   "low": 0.49,
-   "release": "2017-08-16",
-   "url": "https://www.cheapshark.com/redirect?dealID=tAAKry3zO4bL6POv7Trrpm7Ifij6ygDjs3S6tjJzAgU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/676730/capsule_231x87.jpg?t=1502869450"
-  },
-  {
    "id": "KOaRK7taO4N97MrjDqYASXG4ZKh6lCRbTj07OCXtTTA%3D",
    "title": "25 Xbox Gift Card  Digital Code",
    "store": "Green Man Gaming",
@@ -1028,19 +1041,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=N2ullxHrBnPhoq%2Fi17868Yf%2BBhzFD8vSZVG%2FeFPajvo%3D",
    "thumb": "https://images.greenmangaming.com/f7a163f54c7d40dd88f5d1d7712bd0e8/0da2ded3b7b34980938aefbeaa6231a3.jpg"
-  },
-  {
-   "id": "Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
-   "title": "SCARLET NEXUS",
-   "store": "Green Man Gaming",
-   "price": 58.19,
-   "regular": 59.99,
-   "savings": 3,
-   "hl": false,
-   "low": 6.95,
-   "release": "2021-06-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
   }
  ],
  "new": [],
@@ -1189,17 +1189,17 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
-   "title": "Hidden Flowers",
+   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
+   "title": "Vessel",
    "store": "Steam",
-   "price": 9.99,
-   "regular": 199.99,
-   "savings": 95,
+   "price": 5.94,
+   "regular": 6.99,
+   "savings": 15,
    "hl": false,
    "low": null,
-   "release": "2021-09-23",
-   "url": "https://www.cheapshark.com/redirect?dealID=5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1752830/capsule_231x87.jpg?t=1741907588"
+   "release": "2025-08-02",
+   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
   },
   {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
@@ -1280,6 +1280,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
   },
   {
+   "id": "JJIVB3%2FG67oIf2fny%2F0xvsqr8Hrcf0vyPLvbiDcPNho%3D",
+   "title": "Magic ity Detective: Secret Desire Collectors Edition",
+   "store": "Steam",
+   "price": 3.19,
+   "regular": 7.99,
+   "savings": 60,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=JJIVB3%2FG67oIf2fny%2F0xvsqr8Hrcf0vyPLvbiDcPNho%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2098860/capsule_231x87.jpg?t=1748360688"
+  },
+  {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
    "store": "Fanatical",
@@ -1291,19 +1304,6 @@
    "release": "2011-06-21",
    "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
-  },
-  {
-   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
-   "title": "BloodLight",
-   "store": "Steam",
-   "price": 4.99,
-   "regular": 9.99,
-   "savings": 50,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
   }
  ]
 }

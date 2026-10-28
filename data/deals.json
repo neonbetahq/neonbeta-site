@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T06:33:05+00:00",
+ "updated": "2026-10-28T12:34:04+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -393,6 +393,19 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/a06cc5e7-2459-4826-b2df-e46318bf287c.jpeg"
   },
   {
+   "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
+   "title": "RPG Maker MZ - Mystic Voices Sound Pack",
+   "store": "Fanatical",
+   "price": 4.48,
+   "regular": 5.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/d01febb4-15e9-4ca6-b848-05928a5d9077.jpeg"
+  },
+  {
    "id": "fHqK3MHLsBSGdGo1b2f9e5MWiUsKYpGmG69j8COaLtY%3D",
    "title": "Axis Game Factory's AGFPRO - Voxel Sculpt",
    "store": "Fanatical",
@@ -621,7 +634,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": 13.49,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=9zgVk7vd0pYU2fvU8JIMJ2ebRiqk4PFIUCdkq0W6Ahw%3D",
    "thumb": "https://images.gog-statics.com/6bb46892691bb38e694ec1e686e556ed857af0ce5fecf10aeeb73093c561d7bb_product_tile_117h.webp"
@@ -744,19 +757,6 @@
    "thumb": "https://sttc.gamersgate.com/images/product/maneater-apex-edition-steam/cover-180-093b12.jpg"
   },
   {
-   "id": "fiu%2BTTiwf%2Fs0LBgCxsRppgVb554XaLYYIuthkJ5nIMg%3D",
-   "title": "Axis Game Factory's AGFPRO v3",
-   "store": "Fanatical",
-   "price": 8.99,
-   "regular": 9.99,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=fiu%2BTTiwf%2Fs0LBgCxsRppgVb554XaLYYIuthkJ5nIMg%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/axis-game-factorys-agfpro-v3/cover-180-7b9591.jpg"
-  },
-  {
    "id": "HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
    "title": "Bad Dream: Coma",
    "store": "Fanatical",
@@ -848,27 +848,14 @@
    "thumb": "https://sttc.gamersgate.com/images/product/cities-skylines-ii-starter-edition/cover-180-b83cf0.jpg"
   },
   {
-   "id": "i3ghfCUtEime6yThMWfXBM2FAoAJIO5yvl4hLGd9jLE%3D",
-   "title": "Phantom Blade Zero",
-   "store": "Green Man Gaming",
-   "price": 55.19,
-   "regular": 59.99,
-   "savings": 8,
-   "hl": true,
-   "low": 55.19,
-   "release": "2026-10-29",
-   "url": "https://www.cheapshark.com/redirect?dealID=i3ghfCUtEime6yThMWfXBM2FAoAJIO5yvl4hLGd9jLE%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1793104881"
-  },
-  {
    "id": "yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
    "title": "Phantom Blade Zero",
    "store": "Fanatical",
    "price": 55.19,
    "regular": 59.99,
    "savings": 8,
-   "hl": true,
-   "low": 55.19,
+   "hl": false,
+   "low": 52.79,
    "release": "2026-10-29",
    "url": "https://www.cheapshark.com/redirect?dealID=yWENReD5Pwf%2BXfDZ%2B%2B6Vsa6d6HSQGzQ7d%2Byj3DDSMiY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/aef06490c9a4ad912142fe3b766ee08a2b38ef80/capsule_231x87.jpg?t=1793104881"
@@ -1041,6 +1028,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=N2ullxHrBnPhoq%2Fi17868Yf%2BBhzFD8vSZVG%2FeFPajvo%3D",
    "thumb": "https://images.greenmangaming.com/f7a163f54c7d40dd88f5d1d7712bd0e8/0da2ded3b7b34980938aefbeaa6231a3.jpg"
+  },
+  {
+   "id": "Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
+   "title": "SCARLET NEXUS",
+   "store": "Green Man Gaming",
+   "price": 58.19,
+   "regular": 59.99,
+   "savings": 3,
+   "hl": false,
+   "low": 6.95,
+   "release": "2021-06-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
   }
  ],
  "new": [],
@@ -1114,9 +1114,9 @@
    "id": "QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
    "title": "World Basketball Tycoon",
    "store": "Fanatical",
-   "price": 2.69,
+   "price": 2.23,
    "regular": 2.99,
-   "savings": 10,
+   "savings": 25,
    "hl": false,
    "low": null,
    "release": null,

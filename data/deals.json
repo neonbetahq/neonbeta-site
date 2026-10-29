@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:32:57+00:00",
+ "updated": "2026-10-29T00:32:02+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -543,7 +543,7 @@
    "regular": 14.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 3.35,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=h9qSlXBXgHhSKqz%2FQwJGzA7jdX%2FIIyJdAHXrKI6nEGA%3D",
    "thumb": "https://images.gog-statics.com/b5d2bdf162f50ab69e611230ec91b750da814da63146b79751ab2a7bcf0a54aa_product_tile_117h.webp"
@@ -556,7 +556,7 @@
    "regular": 15.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 7.19,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
    "thumb": "https://images.gog-statics.com/d6b7d4f0fc43aa9b45803e3d0d3930c5217e48b8b2dc53e202aad493af84da62_product_tile_117h.webp"
@@ -664,6 +664,32 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=oLr%2FCCKev2aonkNWNSUtBijpZzM0d%2FJ0%2Bx7rxHp8zNk%3D",
    "thumb": "https://images.gog-statics.com/53c180ddd58d2d589f0f374c4463d54a69229e440de7a773d4b3af5498861aef_product_tile_117h.webp"
+  },
+  {
+   "id": "mxLtOVugDSlVg%2FqFi67kNBPCciLqjEkcaMOTiv1TQ98%3D",
+   "title": "Demonschool - Deluxe Edition",
+   "store": "GOG",
+   "price": 31.35,
+   "regular": 34.83,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=mxLtOVugDSlVg%2FqFi67kNBPCciLqjEkcaMOTiv1TQ98%3D",
+   "thumb": "https://images.gog-statics.com/2bcab269b6b90d990e486a5f4d7b56ccf38b3dde6b5d8793991d1d3b91eab186_product_tile_117h.webp"
+  },
+  {
+   "id": "n6y%2FVIVVnMSZK5A9d0wDD0Z3CzapIx63HbLAVBoTKU0%3D",
+   "title": "Three Kingdoms:Yi",
+   "store": "Steam",
+   "price": 8.37,
+   "regular": 9.3,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2026-10-22",
+   "url": "https://www.cheapshark.com/redirect?dealID=n6y%2FVIVVnMSZK5A9d0wDD0Z3CzapIx63HbLAVBoTKU0%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771880/6d012cc5b0ae348f84b959e83c4b920362e8a06e/capsule_231x87.jpg?t=1792884503"
   },
   {
    "id": "HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
@@ -887,19 +913,6 @@
    "thumb": "https://sttc.gamersgate.com/images/product/vampire-the-masquerade-bloodlinestm-2-santa-monica-memories/cover-180-ceac29.jpg"
   },
   {
-   "id": "dPcNVjliOHwfOR6sWoUO%2FTmo%2BArjCckX8b2c04n0XXk%3D",
-   "title": "Solid Gold Bundle",
-   "store": "GOG",
-   "price": 44.09,
-   "regular": 47.96,
-   "savings": 8,
-   "hl": false,
-   "low": 39.49,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=dPcNVjliOHwfOR6sWoUO%2FTmo%2BArjCckX8b2c04n0XXk%3D",
-   "thumb": "https://images.gog-statics.com/6e8add2e1bc87b9f4b28e837b54516e67053b6f4d5f98a61b72627ab01dd373f_product_tile_117h.webp"
-  },
-  {
    "id": "9OsQXq7cSvLgPpulouGIUM7E2f6rd%2BFZtdd4T3ZFtmE%3D",
    "title": "Regions of Ruin: Runegate Deluxe Edition",
    "store": "GOG",
@@ -1028,19 +1041,6 @@
    "release": "2021-06-25",
    "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
-  },
-  {
-   "id": "YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
-   "title": "Madden NFL 22: Standard Edition",
-   "store": "Green Man Gaming",
-   "price": 58.19,
-   "regular": 59.99,
-   "savings": 3,
-   "hl": false,
-   "low": 56.39,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
-   "thumb": "https://images.greenmangaming.com/77357bb7f2614e969e5a3ea0f509a0c0/935b2770bd7d49789ad3737664991fbe.jpg"
   }
  ],
  "new": [],
@@ -1096,19 +1096,6 @@
    "release": "2011-12-13",
    "url": "https://www.cheapshark.com/redirect?dealID=X%2B01nlucTC48TIK60tDfNFV20HQab5%2FVYA6S1izGpag%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
-  },
-  {
-   "id": "zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
-   "title": "Only Up!",
-   "store": "Steam",
-   "price": 6.29,
-   "regular": 6.99,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2024-03-04",
-   "url": "https://www.cheapshark.com/redirect?dealID=zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2842590/d2e7612312d1d0d72201936e1370adf73163631b/capsule_231x87.jpg?t=1790981740"
   },
   {
    "id": "QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
@@ -1187,19 +1174,6 @@
    "release": "2014-09-18",
    "url": "https://www.cheapshark.com/redirect?dealID=EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
-  },
-  {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
   },
   {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
@@ -1304,6 +1278,32 @@
    "release": "2011-06-21",
    "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
+  },
+  {
+   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "title": "BloodLight",
+   "store": "Steam",
+   "price": 4.99,
+   "regular": 9.99,
+   "savings": 50,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
+  },
+  {
+   "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "title": "Recovery Search and Rescue Simulation",
+   "store": "Fanatical",
+   "price": 3.73,
+   "regular": 4.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": "2014-01-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   }
  ]
 }

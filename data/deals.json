@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:32:02+00:00",
+ "updated": "2026-10-29T06:35:50+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -869,7 +869,7 @@
    "savings": 8,
    "hl": false,
    "low": 17.79,
-   "release": null,
+   "release": "2026-10-28",
    "url": "https://www.cheapshark.com/redirect?dealID=LmJUBv7R3kiYlP%2FcCTga%2Bsvv4SFIdJreCVj48yLCQxg%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/europa-universalis-v-across-the-pillars/cover-180-53ed9f.jpg"
   },
@@ -1098,6 +1098,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
   },
   {
+   "id": "zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
+   "title": "Only Up!",
+   "store": "Steam",
+   "price": 6.29,
+   "regular": 6.99,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2024-03-04",
+   "url": "https://www.cheapshark.com/redirect?dealID=zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2842590/d2e7612312d1d0d72201936e1370adf73163631b/capsule_231x87.jpg?t=1790981740"
+  },
+  {
    "id": "QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
    "title": "World Basketball Tycoon",
    "store": "Fanatical",
@@ -1291,19 +1304,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
-  },
-  {
-   "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
-   "title": "Recovery Search and Rescue Simulation",
-   "store": "Fanatical",
-   "price": 3.73,
-   "regular": 4.99,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": "2014-01-09",
-   "url": "https://www.cheapshark.com/redirect?dealID=ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   }
  ]
 }

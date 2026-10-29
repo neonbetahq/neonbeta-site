@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T12:35:15+00:00",
+ "updated": "2026-10-29T18:36:12+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1189,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
-  },
-  {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
    "title": "Legends of Persia",
    "store": "Humble",
@@ -1304,6 +1291,19 @@
    "release": "2011-06-21",
    "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
+  },
+  {
+   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "title": "BloodLight",
+   "store": "Steam",
+   "price": 4.99,
+   "regular": 9.99,
+   "savings": 50,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
   }
  ]
 }

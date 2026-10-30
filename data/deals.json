@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:36:12+00:00",
+ "updated": "2026-10-30T00:32:37+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -679,19 +679,6 @@
    "thumb": "https://images.gog-statics.com/2bcab269b6b90d990e486a5f4d7b56ccf38b3dde6b5d8793991d1d3b91eab186_product_tile_117h.webp"
   },
   {
-   "id": "n6y%2FVIVVnMSZK5A9d0wDD0Z3CzapIx63HbLAVBoTKU0%3D",
-   "title": "Three Kingdoms:Yi",
-   "store": "Steam",
-   "price": 8.37,
-   "regular": 9.3,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2026-10-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=n6y%2FVIVVnMSZK5A9d0wDD0Z3CzapIx63HbLAVBoTKU0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4771880/6d012cc5b0ae348f84b959e83c4b920362e8a06e/capsule_231x87.jpg?t=1792884503"
-  },
-  {
    "id": "WRo00VwIvO3F7%2FZonStwBVRWMMuiIY1r%2FcztoxNRMu0%3D",
    "title": "Inearth",
    "store": "Epic",
@@ -703,6 +690,19 @@
    "release": "2026-10-27",
    "url": "https://www.cheapshark.com/redirect?dealID=WRo00VwIvO3F7%2FZonStwBVRWMMuiIY1r%2FcztoxNRMu0%3D",
    "thumb": "https://cdn1.epicgames.com/spt-assets/22a6333be35e451e9f88c793a3967eb8/inearth-2riiy.png"
+  },
+  {
+   "id": "rdEwNXux%2ByMYv35CWtRcmB%2FuWjeO%2FIzcsHTRkHKQpWs%3D",
+   "title": "FreeSurf",
+   "store": "Steam",
+   "price": 17.91,
+   "regular": 19.9,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=rdEwNXux%2ByMYv35CWtRcmB%2FuWjeO%2FIzcsHTRkHKQpWs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228830/647ebaa6a2cc5986847240a8e690d65b7433bd6b/capsule_231x87.jpg?t=1793302647"
   },
   {
    "id": "HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
@@ -1059,6 +1059,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563130/capsule_231x87.jpg?t=1725014617"
   },
   {
+   "id": "7S6gznf22645p8GysXKX3ZM%2BIoquz9dP4hM4OSSIXBY%3D",
+   "title": "Spacebase DF-9",
+   "store": "Steam",
+   "price": 1.49,
+   "regular": 9.99,
+   "savings": 85,
+   "hl": false,
+   "low": null,
+   "release": "2014-10-27",
+   "url": "https://www.cheapshark.com/redirect?dealID=7S6gznf22645p8GysXKX3ZM%2BIoquz9dP4hM4OSSIXBY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246090/capsule_231x87.jpg?t=1793102322"
+  },
+  {
    "id": "RcVp393SG8YXyAMMiVl5FGsTfzPh%2BRDrY2x7WBqZjO4%3D",
    "title": "Escape: Malice",
    "store": "Steam",
@@ -1265,19 +1278,6 @@
    "release": "2010-09-10",
    "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
-  },
-  {
-   "id": "JJIVB3%2FG67oIf2fny%2F0xvsqr8Hrcf0vyPLvbiDcPNho%3D",
-   "title": "Magic ity Detective: Secret Desire Collectors Edition",
-   "store": "Steam",
-   "price": 3.19,
-   "regular": 7.99,
-   "savings": 60,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=JJIVB3%2FG67oIf2fny%2F0xvsqr8Hrcf0vyPLvbiDcPNho%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2098860/capsule_231x87.jpg?t=1748360688"
   },
   {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",

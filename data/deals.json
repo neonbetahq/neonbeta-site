@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:31:29+00:00",
+ "updated": "2026-10-31T18:29:20+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -484,6 +484,19 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/d01febb4-15e9-4ca6-b848-05928a5d9077.jpeg"
   },
   {
+   "id": "B3J2KKxbx6K3GYCG0If552sEY4%2FE%2FjUWSVLO%2FpQJRnM%3D",
+   "title": "XCOM: Ultimate Collection",
+   "store": "Fanatical",
+   "price": 48.89,
+   "regular": 57.12,
+   "savings": 14,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=B3J2KKxbx6K3GYCG0If552sEY4%2FE%2FjUWSVLO%2FpQJRnM%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/xcom-ultimate-collection/cover-180-beba12.jpg"
+  },
+  {
    "id": "3XDsag5tJG4RhKkz9k8dTR670qrEsDxEuL7iKMhlZLI%3D",
    "title": "nail'd",
    "store": "Fanatical",
@@ -495,32 +508,6 @@
    "release": "2010-11-30",
    "url": "https://www.cheapshark.com/redirect?dealID=3XDsag5tJG4RhKkz9k8dTR670qrEsDxEuL7iKMhlZLI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40380/capsule_231x87.jpg?t=1570019041"
-  },
-  {
-   "id": "CkN9ALNPyVEpKW7pD3koIuT7vvtMD2sJFeuxAI308tU%3D",
-   "title": "Transport Fever 3",
-   "store": "Fanatical",
-   "price": 45.24,
-   "regular": 49.99,
-   "savings": 10,
-   "hl": false,
-   "low": 43.95,
-   "release": "2026-09-29",
-   "url": "https://www.cheapshark.com/redirect?dealID=CkN9ALNPyVEpKW7pD3koIuT7vvtMD2sJFeuxAI308tU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3493540/e67abf270c1db285387ef9787e783dcb3dd89823/capsule_231x87.jpg?t=1791359026"
-  },
-  {
-   "id": "UlJ74RYGw3rkNJhq0oU11UgwRNVlMYRBJYME7l4ZDUA%3D",
-   "title": "Transport Fever 3: Deluxe Edition",
-   "store": "Fanatical",
-   "price": 58.81,
-   "regular": 64.99,
-   "savings": 10,
-   "hl": false,
-   "low": 57.17,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=UlJ74RYGw3rkNJhq0oU11UgwRNVlMYRBJYME7l4ZDUA%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/transport-fever-3-deluxe-edition/cover-180-39c67a.jpg"
   },
   {
    "id": "K2ZJzFYWeYoAfGulS4010WAI7Qq4SbREkHklwYx0nT0%3D",
@@ -581,8 +568,8 @@
    "price": 16.19,
    "regular": 17.98,
    "savings": 10,
-   "hl": false,
-   "low": null,
+   "hl": true,
+   "low": 16.19,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ka8xXjC9N82mEXZtX7BfLmK02cBZFr7GtW%2FBV4W%2FEKo%3D",
    "thumb": "https://images.gog-statics.com/49dd5e460dd20b82f75b16d73f3b763a7f6e36e97301a85bc7874eef6f22a994_product_tile_117h.webp"
@@ -595,7 +582,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 16.65,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ef0Ut4HWjGGdQ9Vm1ZM4W8GhjIvBHZkphydhq1RNM24%3D",
    "thumb": "https://images.gog-statics.com/74df03b7cd08f1fe9f0873f7f96e77b8870895f69a9ee9e2f2a8b4a4c439c654_product_tile_117h.webp"
@@ -608,7 +595,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": null,
+   "low": 13.49,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=9zgVk7vd0pYU2fvU8JIMJ2ebRiqk4PFIUCdkq0W6Ahw%3D",
    "thumb": "https://images.gog-statics.com/6bb46892691bb38e694ec1e686e556ed857af0ce5fecf10aeeb73093c561d7bb_product_tile_117h.webp"
@@ -705,17 +692,43 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228830/647ebaa6a2cc5986847240a8e690d65b7433bd6b/capsule_231x87.jpg?t=1793302647"
   },
   {
-   "id": "HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
-   "title": "Bad Dream: Coma",
-   "store": "Fanatical",
-   "price": 8.09,
-   "regular": 8.99,
+   "id": "n7HoSjJNNLGDkQlCM6Xalx13S5ynxSJQdZhz5FrXUeM%3D",
+   "title": "Copperfell",
+   "store": "Steam",
+   "price": 6.21,
+   "regular": 6.9,
    "savings": 10,
    "hl": false,
    "low": null,
-   "release": "2017-03-09",
-   "url": "https://www.cheapshark.com/redirect?dealID=HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/538070/837a6f9eee0e3238cb67a374473238781cd6685f/capsule_231x87.jpg?t=1784815205"
+   "release": "2026-10-28",
+   "url": "https://www.cheapshark.com/redirect?dealID=n7HoSjJNNLGDkQlCM6Xalx13S5ynxSJQdZhz5FrXUeM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3708630/8e7441f5c606ddb787dea9d3a4a33fd6a8b2a77c/capsule_231x87_alt_assets_0.jpg?t=1793199625"
+  },
+  {
+   "id": "EpcWAjX6wHiZ2vAWTcgtzZv0PaNbueR6Xci5ELesJbM%3D",
+   "title": "Total War: WARHAMMER",
+   "store": "Fanatical",
+   "price": 53.99,
+   "regular": 59.99,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2016-05-24",
+   "url": "https://www.cheapshark.com/redirect?dealID=EpcWAjX6wHiZ2vAWTcgtzZv0PaNbueR6Xci5ELesJbM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/capsule_231x87.jpg?t=1780389642"
+  },
+  {
+   "id": "VX0dfc5g%2FK%2BMrzqth6sBETzGK%2B2o%2BANkvtW%2BQfhRDPY%3D",
+   "title": "Total War: WARHAMMER II",
+   "store": "Fanatical",
+   "price": 53.99,
+   "regular": 59.99,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2017-09-28",
+   "url": "https://www.cheapshark.com/redirect?dealID=VX0dfc5g%2FK%2BMrzqth6sBETzGK%2B2o%2BANkvtW%2BQfhRDPY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/capsule_231x87.jpg?t=1780389571"
   },
   {
    "id": "G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
@@ -1028,19 +1041,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=N2ullxHrBnPhoq%2Fi17868Yf%2BBhzFD8vSZVG%2FeFPajvo%3D",
    "thumb": "https://images.greenmangaming.com/f7a163f54c7d40dd88f5d1d7712bd0e8/0da2ded3b7b34980938aefbeaa6231a3.jpg"
-  },
-  {
-   "id": "Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
-   "title": "SCARLET NEXUS",
-   "store": "Green Man Gaming",
-   "price": 58.19,
-   "regular": 59.99,
-   "savings": 3,
-   "hl": false,
-   "low": 6.95,
-   "release": "2021-06-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
   }
  ],
  "new": [],
@@ -1109,6 +1109,19 @@
    "release": "2011-12-13",
    "url": "https://www.cheapshark.com/redirect?dealID=X%2B01nlucTC48TIK60tDfNFV20HQab5%2FVYA6S1izGpag%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
+  },
+  {
+   "id": "KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
+   "title": "Construction Machines 2014",
+   "store": "Steam",
+   "price": 0.83,
+   "regular": 6.99,
+   "savings": 88,
+   "hl": false,
+   "low": null,
+   "release": "2014-03-28",
+   "url": "https://www.cheapshark.com/redirect?dealID=KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252050/capsule_231x87.jpg?t=1558092198"
   },
   {
    "id": "zRozbkVjYhZ8Ccsqscaf8NKQymgVudqnYOMNdAZdoW0%3D",
@@ -1291,19 +1304,6 @@
    "release": "2010-09-10",
    "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
-  },
-  {
-   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
-   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
-   "store": "Fanatical",
-   "price": 3.73,
-   "regular": 4.99,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": "2011-06-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   }
  ]
 }

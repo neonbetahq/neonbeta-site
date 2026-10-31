@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T06:34:53+00:00",
+ "updated": "2026-10-31T12:31:29+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -731,19 +731,6 @@
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
   },
   {
-   "id": "xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
-   "title": "Age of Wonders 4: Expansion Pass 4",
-   "store": "Fanatical",
-   "price": 45.49,
-   "regular": 49.99,
-   "savings": 9,
-   "hl": false,
-   "low": 43.99,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
-  },
-  {
    "id": "%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",
    "title": "Crusader Kings III: By God Alone",
    "store": "Fanatical",
@@ -1041,6 +1028,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=N2ullxHrBnPhoq%2Fi17868Yf%2BBhzFD8vSZVG%2FeFPajvo%3D",
    "thumb": "https://images.greenmangaming.com/f7a163f54c7d40dd88f5d1d7712bd0e8/0da2ded3b7b34980938aefbeaa6231a3.jpg"
+  },
+  {
+   "id": "Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
+   "title": "SCARLET NEXUS",
+   "store": "Green Man Gaming",
+   "price": 58.19,
+   "regular": 59.99,
+   "savings": 3,
+   "hl": false,
+   "low": 6.95,
+   "release": "2021-06-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
   }
  ],
  "new": [],
@@ -1153,9 +1153,9 @@
    "id": "qxr8HnuXt%2B6Ixr6M1oT%2FzTlfYGYbU2PlFSlizv4kN3w%3D",
    "title": "World Ship Simulator",
    "store": "Fanatical",
-   "price": 16.88,
+   "price": 14.97,
    "regular": 19.99,
-   "savings": 16,
+   "savings": 25,
    "hl": false,
    "low": null,
    "release": "2015-11-17",
@@ -1179,9 +1179,9 @@
    "id": "D1GatC93fWZQpWS1e8lUFrFT1hRYQpBIyend4sfz550%3D",
    "title": "Lords of the Black Sun",
    "store": "Fanatical",
-   "price": 22.49,
+   "price": 21.13,
    "regular": 24.99,
-   "savings": 10,
+   "savings": 15,
    "hl": false,
    "low": null,
    "release": "2014-09-12",

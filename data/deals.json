@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:32:36+00:00",
+ "updated": "2026-10-31T00:37:45+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -556,7 +556,7 @@
    "regular": 15.98,
    "savings": 10,
    "hl": false,
-   "low": 7.19,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
    "thumb": "https://images.gog-statics.com/d6b7d4f0fc43aa9b45803e3d0d3930c5217e48b8b2dc53e202aad493af84da62_product_tile_117h.webp"
@@ -677,19 +677,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=mxLtOVugDSlVg%2FqFi67kNBPCciLqjEkcaMOTiv1TQ98%3D",
    "thumb": "https://images.gog-statics.com/2bcab269b6b90d990e486a5f4d7b56ccf38b3dde6b5d8793991d1d3b91eab186_product_tile_117h.webp"
-  },
-  {
-   "id": "WRo00VwIvO3F7%2FZonStwBVRWMMuiIY1r%2FcztoxNRMu0%3D",
-   "title": "Inearth",
-   "store": "Epic",
-   "price": 10.8,
-   "regular": 12.0,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2026-10-27",
-   "url": "https://www.cheapshark.com/redirect?dealID=WRo00VwIvO3F7%2FZonStwBVRWMMuiIY1r%2FcztoxNRMu0%3D",
-   "thumb": "https://cdn1.epicgames.com/spt-assets/22a6333be35e451e9f88c793a3967eb8/inearth-2riiy.png"
   },
   {
    "id": "HyevwhOg8LEqdXKnn%2FgLVdVHesmDwvhcb57AA8dwQSY%3D",
@@ -1041,6 +1028,19 @@
    "release": "2021-06-25",
    "url": "https://www.cheapshark.com/redirect?dealID=Y8jysau82QxkKtpofyQbdT%2FzrI0KhKt9rrXSidL8Tbo%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/775500/capsule_231x87.jpg?t=1703662938"
+  },
+  {
+   "id": "YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
+   "title": "Madden NFL 22: Standard Edition",
+   "store": "Green Man Gaming",
+   "price": 58.19,
+   "regular": 59.99,
+   "savings": 3,
+   "hl": false,
+   "low": 56.39,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=YgtDcUPJdmMonwz%2BQbSxywGj2444uch5nwP%2BZ17dyJM%3D",
+   "thumb": "https://images.greenmangaming.com/77357bb7f2614e969e5a3ea0f509a0c0/935b2770bd7d49789ad3737664991fbe.jpg"
   }
  ],
  "new": [],

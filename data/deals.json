@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:36:17+00:00",
+ "updated": "2026-11-01T06:39:55+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -705,17 +705,17 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3708630/8e7441f5c606ddb787dea9d3a4a33fd6a8b2a77c/capsule_231x87_alt_assets_0.jpg?t=1793199625"
   },
   {
-   "id": "EpcWAjX6wHiZ2vAWTcgtzZv0PaNbueR6Xci5ELesJbM%3D",
-   "title": "Total War: WARHAMMER",
-   "store": "Fanatical",
-   "price": 53.99,
-   "regular": 59.99,
+   "id": "s2BhPpQx9ghTakxh9QHRIhijhFS2%2F%2FhI4oAYzedzcNY%3D",
+   "title": "AUTOMATE DEATH",
+   "store": "Steam",
+   "price": 4.5,
+   "regular": 5.0,
    "savings": 10,
    "hl": false,
    "low": null,
-   "release": "2016-05-24",
-   "url": "https://www.cheapshark.com/redirect?dealID=EpcWAjX6wHiZ2vAWTcgtzZv0PaNbueR6Xci5ELesJbM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/capsule_231x87.jpg?t=1780389642"
+   "release": "2026-10-30",
+   "url": "https://www.cheapshark.com/redirect?dealID=s2BhPpQx9ghTakxh9QHRIhijhFS2%2F%2FhI4oAYzedzcNY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5304530/def35fa7d1bb050c1c4da8a96583cc1dbe3a38e1/capsule_231x87.jpg?t=1793348509"
   },
   {
    "id": "G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
@@ -1202,19 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
-  },
-  {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
    "title": "Legends of Persia",
    "store": "Humble",
@@ -1304,6 +1291,19 @@
    "release": "2023-03-06",
    "url": "https://www.cheapshark.com/redirect?dealID=4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052760/capsule_231x87.jpg?t=1791744402"
+  },
+  {
+   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
+   "store": "Fanatical",
+   "price": 3.73,
+   "regular": 4.99,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": "2011-06-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   }
  ]
 }

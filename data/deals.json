@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:39:55+00:00",
+ "updated": "2026-11-01T12:32:57+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -582,7 +582,7 @@
    "regular": 19.98,
    "savings": 10,
    "hl": false,
-   "low": 16.65,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ef0Ut4HWjGGdQ9Vm1ZM4W8GhjIvBHZkphydhq1RNM24%3D",
    "thumb": "https://images.gog-statics.com/74df03b7cd08f1fe9f0873f7f96e77b8870895f69a9ee9e2f2a8b4a4c439c654_product_tile_117h.webp"
@@ -705,19 +705,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3708630/8e7441f5c606ddb787dea9d3a4a33fd6a8b2a77c/capsule_231x87_alt_assets_0.jpg?t=1793199625"
   },
   {
-   "id": "s2BhPpQx9ghTakxh9QHRIhijhFS2%2F%2FhI4oAYzedzcNY%3D",
-   "title": "AUTOMATE DEATH",
-   "store": "Steam",
-   "price": 4.5,
-   "regular": 5.0,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2026-10-30",
-   "url": "https://www.cheapshark.com/redirect?dealID=s2BhPpQx9ghTakxh9QHRIhijhFS2%2F%2FhI4oAYzedzcNY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5304530/def35fa7d1bb050c1c4da8a96583cc1dbe3a38e1/capsule_231x87.jpg?t=1793348509"
-  },
-  {
    "id": "G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
    "title": "Animation Arts Collection",
    "store": "Fanatical",
@@ -729,6 +716,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
+  },
+  {
+   "id": "xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
+   "title": "Age of Wonders 4: Expansion Pass 4",
+   "store": "Fanatical",
+   "price": 45.49,
+   "regular": 49.99,
+   "savings": 9,
+   "hl": false,
+   "low": 43.99,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=xLBmZdGi6FDfWt0j6zTXr1%2F9vBCw6O8O06QnSwsS2C8%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/age-of-wonders-4-expansion-pass-4/cover-180-5d773f.jpg"
   },
   {
    "id": "%2F65BHX7ahQkVRcEXMc%2B%2FsjgMT8%2BSdx%2B9SE%2BLNfEFang%3D",

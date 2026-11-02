@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:49:17+00:00",
+ "updated": "2026-11-02T18:45:36+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -536,6 +536,19 @@
    "thumb": "https://images.gog-statics.com/b5d2bdf162f50ab69e611230ec91b750da814da63146b79751ab2a7bcf0a54aa_product_tile_117h.webp"
   },
   {
+   "id": "5bRnRH3fgOAS92geugO3CitFhOR2rs7Nw%2FulecSdVZ0%3D",
+   "title": "DRAGON RUINS II: AFTERMATH and SOUNDTRACK",
+   "store": "GOG",
+   "price": 13.49,
+   "regular": 14.98,
+   "savings": 10,
+   "hl": false,
+   "low": 12.59,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=5bRnRH3fgOAS92geugO3CitFhOR2rs7Nw%2FulecSdVZ0%3D",
+   "thumb": "https://images.gog-statics.com/5bb1a2b9e4903ceeab9f2e43a76d3d320ee0c8074429ed4aaec905d773597c5f_product_tile_117h.webp"
+  },
+  {
    "id": "BNv0gkIhl%2BHKRhGjv6RbdLULNUKX5LZndpVZF1X1458%3D",
    "title": "Chicken Journey and Bocks and Clucks Bundle",
    "store": "GOG",
@@ -568,8 +581,8 @@
    "price": 16.19,
    "regular": 17.98,
    "savings": 10,
-   "hl": true,
-   "low": 16.19,
+   "hl": false,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=ka8xXjC9N82mEXZtX7BfLmK02cBZFr7GtW%2FBV4W%2FEKo%3D",
    "thumb": "https://images.gog-statics.com/49dd5e460dd20b82f75b16d73f3b763a7f6e36e97301a85bc7874eef6f22a994_product_tile_117h.webp"
@@ -690,19 +703,6 @@
    "release": "2026-10-29",
    "url": "https://www.cheapshark.com/redirect?dealID=rdEwNXux%2ByMYv35CWtRcmB%2FuWjeO%2FIzcsHTRkHKQpWs%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5228830/647ebaa6a2cc5986847240a8e690d65b7433bd6b/capsule_231x87.jpg?t=1793541535"
-  },
-  {
-   "id": "n7HoSjJNNLGDkQlCM6Xalx13S5ynxSJQdZhz5FrXUeM%3D",
-   "title": "Copperfell",
-   "store": "Steam",
-   "price": 6.21,
-   "regular": 6.9,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2026-10-28",
-   "url": "https://www.cheapshark.com/redirect?dealID=n7HoSjJNNLGDkQlCM6Xalx13S5ynxSJQdZhz5FrXUeM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3708630/8e7441f5c606ddb787dea9d3a4a33fd6a8b2a77c/capsule_231x87_alt_assets_0.jpg?t=1793199625"
   },
   {
    "id": "G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
@@ -1046,19 +1046,6 @@
  "new": [],
  "popular": [
   {
-   "id": "ucVq8aHj1bTM5q5I%2Fhy4YS3VE6nY183uf%2Bw%2BlHgbveU%3D",
-   "title": "SuperPower 3",
-   "store": "Epic",
-   "price": 7.49,
-   "regular": 29.99,
-   "savings": 75,
-   "hl": false,
-   "low": null,
-   "release": "2022-10-07",
-   "url": "https://www.cheapshark.com/redirect?dealID=ucVq8aHj1bTM5q5I%2Fhy4YS3VE6nY183uf%2Bw%2BlHgbveU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563130/capsule_231x87.jpg?t=1725014617"
-  },
-  {
    "id": "7S6gznf22645p8GysXKX3ZM%2BIoquz9dP4hM4OSSIXBY%3D",
    "title": "Spacebase DF-9",
    "store": "Steam",
@@ -1202,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "title": "Vessel",
-   "store": "Steam",
-   "price": 5.94,
-   "regular": 6.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2025-08-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZG54TcrNvzkW%2FZj3ydvStn4lK6EkRZBBd1L6I%2Ff12BQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3855650/d0bbc029ccc8acd1d8f81743d5ffd853c2b100dd/capsule_231x87.jpg?t=1786347128"
-  },
-  {
    "id": "1dPOvLv9fM6u9w5JpCp0%2F6sop4127O7Ndcii7AVtTtk%3D",
    "title": "Legends of Persia",
    "store": "Humble",
@@ -1304,6 +1278,32 @@
    "release": "2023-03-06",
    "url": "https://www.cheapshark.com/redirect?dealID=4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052760/capsule_231x87.jpg?t=1791744402"
+  },
+  {
+   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
+   "store": "Fanatical",
+   "price": 0.74,
+   "regular": 4.99,
+   "savings": 85,
+   "hl": false,
+   "low": null,
+   "release": "2011-06-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
+  },
+  {
+   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "title": "BloodLight",
+   "store": "Steam",
+   "price": 4.99,
+   "regular": 9.99,
+   "savings": 50,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
   }
  ]
 }

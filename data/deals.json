@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:50:27+00:00",
+ "updated": "2026-11-03T18:39:30+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1072,19 +1072,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
   },
   {
-   "id": "X%2B01nlucTC48TIK60tDfNFV20HQab5%2FVYA6S1izGpag%3D",
-   "title": "Flatout 3: Chaos and Destruction",
-   "store": "Fanatical",
-   "price": 8.89,
-   "regular": 9.99,
-   "savings": 11,
-   "hl": false,
-   "low": null,
-   "release": "2011-12-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=X%2B01nlucTC48TIK60tDfNFV20HQab5%2FVYA6S1izGpag%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201510/capsule_231x87.jpg?t=1750135069"
-  },
-  {
    "id": "KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
    "title": "Construction Machines 2014",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": "2014-01-09",
    "url": "https://www.cheapshark.com/redirect?dealID=ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
+  },
+  {
+   "id": "9bQOfjelohXDJyJaMFB4uYXBruZ%2B%2Bn9dpxBrOg9vrb8%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=9bQOfjelohXDJyJaMFB4uYXBruZ%2B%2Bn9dpxBrOg9vrb8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

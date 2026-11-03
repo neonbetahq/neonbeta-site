@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:45:36+00:00",
+ "updated": "2026-11-03T00:39:45+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1059,19 +1059,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246090/capsule_231x87.jpg?t=1793102322"
   },
   {
-   "id": "RcVp393SG8YXyAMMiVl5FGsTfzPh%2BRDrY2x7WBqZjO4%3D",
-   "title": "Escape: Malice",
-   "store": "Steam",
-   "price": 2.39,
-   "regular": 7.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=RcVp393SG8YXyAMMiVl5FGsTfzPh%2BRDrY2x7WBqZjO4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1799220/ceffae7b1def99dcbcb1f9019ea75c7e97eb7e8e/capsule_231x87.jpg?t=1788233257"
-  },
-  {
    "id": "NkCzQpun16Bi2I5blC0ylvUj9TmdomjcqQgOy%2Fozg6M%3D",
    "title": "Flatout 3: Chaos and Destruction",
    "store": "Steam",
@@ -1109,6 +1096,19 @@
    "release": "2014-03-28",
    "url": "https://www.cheapshark.com/redirect?dealID=KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252050/capsule_231x87.jpg?t=1558092198"
+  },
+  {
+   "id": "gdW%2BtEbJ7BskDdo67k9K%2F%2Feng5ov%2FK5zTJ5UaVo1IKg%3D",
+   "title": "Game Tycoon 1.5",
+   "store": "Steam",
+   "price": 0.49,
+   "regular": 0.99,
+   "savings": 51,
+   "hl": false,
+   "low": null,
+   "release": "2014-02-11",
+   "url": "https://www.cheapshark.com/redirect?dealID=gdW%2BtEbJ7BskDdo67k9K%2F%2Feng5ov%2FK5zTJ5UaVo1IKg%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273770/capsule_231x87.jpg?t=1693943634"
   },
   {
    "id": "QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
@@ -1228,19 +1228,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173340/capsule_231x87.jpg?t=1709417576"
   },
   {
-   "id": "dx02oobsqmWd1nBkePdtIr9nSYAfWyHifqWCNa8ahT0%3D",
-   "title": "CornField",
-   "store": "Steam",
-   "price": 2.49,
-   "regular": 4.99,
-   "savings": 50,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=dx02oobsqmWd1nBkePdtIr9nSYAfWyHifqWCNa8ahT0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3127480/84020992857f7d38456c6ef6aef50aec722664f7/capsule_231x87.jpg?t=1792328820"
-  },
-  {
    "id": "rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
    "title": "Fallalypse  Disconnect",
    "store": "Steam",
@@ -1293,17 +1280,30 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   },
   {
-   "id": "gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
-   "title": "BloodLight",
-   "store": "Steam",
-   "price": 4.99,
-   "regular": 9.99,
-   "savings": 50,
+   "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "title": "Recovery Search and Rescue Simulation",
+   "store": "Fanatical",
+   "price": 3.73,
+   "regular": 4.99,
+   "savings": 25,
    "hl": false,
    "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=gR5A4J%2BbpiJWRo06eyh0n6ThodevHSoROTTM2uem348%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2950190/1ce2a7ce2295329e67f96b279b76f1f92f55e8d7/capsule_231x87.jpg?t=1792328928"
+   "release": "2014-01-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
+  },
+  {
+   "id": "9bQOfjelohXDJyJaMFB4uYXBruZ%2B%2Bn9dpxBrOg9vrb8%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=9bQOfjelohXDJyJaMFB4uYXBruZ%2B%2Bn9dpxBrOg9vrb8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

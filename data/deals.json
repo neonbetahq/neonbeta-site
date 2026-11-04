@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:37:29+00:00",
+ "updated": "2026-11-04T06:55:08+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1301,7 +1301,7 @@
    "savings": 30,
    "hl": false,
    "low": null,
-   "release": null,
+   "release": "2026-11-02",
    "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
   }

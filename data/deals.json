@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:55:08+00:00",
+ "updated": "2026-11-04T12:46:12+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -920,7 +920,7 @@
    "regular": 17.99,
    "savings": 2,
    "hl": false,
-   "low": 1.09,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
    "thumb": "https://cdn.humblebundle.com/misc/files/hashed/3a8462e44dd2caf0626ccd41d9c6e967ab761089.jpg"
@@ -1202,32 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
-   "id": "ADMVMaZQOBS17%2F82FOrrR44nuqUKxZBHB3N5PoE8HOA%3D",
-   "title": "War Trains",
-   "store": "Steam",
-   "price": 4.0,
-   "regular": 80.0,
-   "savings": 95,
-   "hl": false,
-   "low": null,
-   "release": "2024-02-19",
-   "url": "https://www.cheapshark.com/redirect?dealID=ADMVMaZQOBS17%2F82FOrrR44nuqUKxZBHB3N5PoE8HOA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173340/capsule_231x87.jpg?t=1709417576"
-  },
-  {
-   "id": "rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
-   "title": "Fallalypse  Disconnect",
-   "store": "Steam",
-   "price": 1.5,
-   "regular": 30.0,
-   "savings": 95,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978610/capsule_231x87.jpg?t=1709416236"
-  },
-  {
    "id": "UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
    "title": "Prison Tycoon Alcatraz",
    "store": "Fanatical",
@@ -1304,6 +1278,32 @@
    "release": "2026-11-02",
    "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
+  },
+  {
+   "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
+   "title": "Chinese Empire",
+   "store": "Steam",
+   "price": 3.39,
+   "regular": 16.99,
+   "savings": 80,
+   "hl": false,
+   "low": null,
+   "release": "2024-03-11",
+   "url": "https://www.cheapshark.com/redirect?dealID=GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449550/capsule_231x87.jpg?t=1715250064"
+  },
+  {
+   "id": "p1ebpRxvF8Q4yL4U71HESSl22FSgk2glM5vS%2Fb7KY9A%3D",
+   "title": "Night City",
+   "store": "Steam",
+   "price": 0.74,
+   "regular": 4.99,
+   "savings": 85,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=p1ebpRxvF8Q4yL4U71HESSl22FSgk2glM5vS%2Fb7KY9A%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747610/capsule_231x87.jpg?t=1714121686"
   }
  ]
 }

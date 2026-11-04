@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:39:30+00:00",
+ "updated": "2026-11-04T00:37:29+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1215,19 +1215,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1173340/capsule_231x87.jpg?t=1709417576"
   },
   {
-   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "title": "Crime Podcast: Welcome to the Neighborhood",
-   "store": "Steam",
-   "price": 4.89,
-   "regular": 6.99,
-   "savings": 30,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
-  },
-  {
    "id": "rwUWsy7aJwrwxmhvXIJACvQOla%2BGNW2He1Y9s4ks8ok%3D",
    "title": "Fallalypse  Disconnect",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=9bQOfjelohXDJyJaMFB4uYXBruZ%2B%2Bn9dpxBrOg9vrb8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
+   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
+   "title": "Crime Podcast: Welcome to the Neighborhood",
+   "store": "Steam",
+   "price": 4.89,
+   "regular": 6.99,
+   "savings": 30,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
   }
  ]
 }

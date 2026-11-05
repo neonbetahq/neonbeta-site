@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T18:45:55+00:00",
+ "updated": "2026-11-05T00:43:17+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -923,7 +923,7 @@
    "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/3a8462e44dd2caf0626ccd41d9c6e967ab761089.jpg"
+   "thumb": "https://images.gog-statics.com/676a646aacdbbb862d2c15f225ea4390c02a4691c9027572a5d7389f84e84df2_product_tile_117h.webp"
   },
   {
    "id": "PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
@@ -1096,19 +1096,6 @@
    "release": "2014-02-11",
    "url": "https://www.cheapshark.com/redirect?dealID=gdW%2BtEbJ7BskDdo67k9K%2F%2Feng5ov%2FK5zTJ5UaVo1IKg%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273770/capsule_231x87.jpg?t=1693943634"
-  },
-  {
-   "id": "QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
-   "title": "World Basketball Tycoon",
-   "store": "Fanatical",
-   "price": 2.23,
-   "regular": 2.99,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=QXPTRGlYICogwiuGg0KQUWto8SrjRJOF6GoK8GifR4k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/260510/capsule_231x87.jpg?t=1775396127"
   },
   {
    "id": "3osEXBFlwDrELLYjEr3QJzt7EG3wNyWtqjPqLHAyzM8%3D",
@@ -1304,6 +1291,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=p1ebpRxvF8Q4yL4U71HESSl22FSgk2glM5vS%2Fb7KY9A%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747610/capsule_231x87.jpg?t=1714121686"
+  },
+  {
+   "id": "JMnwpFz8Ai5lVxjy%2BG9k5h6LitHC%2BXiJ%2Fz5HNLIKqtM%3D",
+   "title": "Mystery Of Rivenhallows",
+   "store": "Fanatical",
+   "price": 2.29,
+   "regular": 2.99,
+   "savings": 23,
+   "hl": false,
+   "low": null,
+   "release": "2016-07-27",
+   "url": "https://www.cheapshark.com/redirect?dealID=JMnwpFz8Ai5lVxjy%2BG9k5h6LitHC%2BXiJ%2Fz5HNLIKqtM%3D",
+   "thumb": "https://images.greenmangaming.com/a8eae86bca8b4210be7c4a05d1180f0d/2bc60f649358426583c5d1da32e42911.jpg"
   }
  ]
 }

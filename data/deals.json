@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:56:46+00:00",
+ "updated": "2026-11-06T12:47:49+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -952,19 +952,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441680/capsule_231x87.jpg?t=1667177107"
   },
   {
-   "id": "O5%2BHB%2B2PHBEhPYXHG0NaY5SqM7feHg6qSV4UccfYSr0%3D",
-   "title": "Sanctum 2",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2013-05-15",
-   "url": "https://www.cheapshark.com/redirect?dealID=O5%2BHB%2B2PHBEhPYXHG0NaY5SqM7feHg6qSV4UccfYSr0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/210770/capsule_231x87.jpg?t=1774270979"
-  },
-  {
    "id": "K8qdwCNGRfX2ajPlPFulcDsj5jpN%2Bg9sXbcw%2FqAftvY%3D",
    "title": "Fenix Rage",
    "store": "Fanatical",
@@ -1041,6 +1028,19 @@
    "release": "2016-08-01",
    "url": "https://www.cheapshark.com/redirect?dealID=51Tem6pI6rIm9zS0wSgggGSxHbsm2rTX8Vag%2BIkeNII%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407780/capsule_231x87.jpg?t=1573500166"
+  },
+  {
+   "id": "EWJd%2Fpd5iW40p4Xm0PEPggpaTzayTTew%2Bq3jZcOYgqY%3D",
+   "title": "Edna and Harvey - The Breakout",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2011-01-03",
+   "url": "https://www.cheapshark.com/redirect?dealID=EWJd%2Fpd5iW40p4Xm0PEPggpaTzayTTew%2Bq3jZcOYgqY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/255320/capsule_231x87.jpg?t=1789474320"
   }
  ],
  "new": [],

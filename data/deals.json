@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:42:25+00:00",
+ "updated": "2026-11-06T00:42:52+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1046,19 +1046,6 @@
  "new": [],
  "popular": [
   {
-   "id": "7S6gznf22645p8GysXKX3ZM%2BIoquz9dP4hM4OSSIXBY%3D",
-   "title": "Spacebase DF-9",
-   "store": "Steam",
-   "price": 1.49,
-   "regular": 9.99,
-   "savings": 85,
-   "hl": false,
-   "low": null,
-   "release": "2014-10-27",
-   "url": "https://www.cheapshark.com/redirect?dealID=7S6gznf22645p8GysXKX3ZM%2BIoquz9dP4hM4OSSIXBY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246090/capsule_231x87.jpg?t=1793102322"
-  },
-  {
    "id": "KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
    "title": "Construction Machines 2014",
    "store": "Steam",
@@ -1293,17 +1280,30 @@
    "thumb": "https://cdn1.epicgames.com/spt-assets/e490758bbef24171a3edb4e09a096657/mountain-racing-tni94.jpg"
   },
   {
-   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "title": "Crime Podcast: Welcome to the Neighborhood",
-   "store": "Steam",
-   "price": 4.89,
-   "regular": 6.99,
-   "savings": 30,
+   "id": "HhGnAz%2Bw5SiphskhGHnR61E%2Fr4dKmAdeZAftcaZvYTQ%3D",
+   "title": "Abermore",
+   "store": "Green Man Gaming",
+   "price": 1.26,
+   "regular": 15.99,
+   "savings": 92,
    "hl": false,
    "low": null,
-   "release": "2026-11-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
+   "release": "2022-03-29",
+   "url": "https://www.cheapshark.com/redirect?dealID=HhGnAz%2Bw5SiphskhGHnR61E%2Fr4dKmAdeZAftcaZvYTQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
+  },
+  {
+   "id": "5RKAssi25PRBzW7QVs1wHwhiRf0BbPWwFlRgLtrGzAc%3D",
+   "title": "Abermore",
+   "store": "Fanatical",
+   "price": 12.47,
+   "regular": 15.99,
+   "savings": 22,
+   "hl": false,
+   "low": null,
+   "release": "2022-03-29",
+   "url": "https://www.cheapshark.com/redirect?dealID=5RKAssi25PRBzW7QVs1wHwhiRf0BbPWwFlRgLtrGzAc%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
   }
  ]
 }

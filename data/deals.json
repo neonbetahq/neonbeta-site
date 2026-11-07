@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T12:35:12+00:00",
+ "updated": "2026-11-07T18:29:20+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1098,19 +1098,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
-   "id": "D1GatC93fWZQpWS1e8lUFrFT1hRYQpBIyend4sfz550%3D",
-   "title": "Lords of the Black Sun",
-   "store": "Fanatical",
-   "price": 21.13,
-   "regular": 24.99,
-   "savings": 15,
-   "hl": false,
-   "low": null,
-   "release": "2014-09-12",
-   "url": "https://www.cheapshark.com/redirect?dealID=D1GatC93fWZQpWS1e8lUFrFT1hRYQpBIyend4sfz550%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246940/capsule_231x87.jpg?t=1772805684"
-  },
-  {
    "id": "EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Fanatical",
@@ -1135,19 +1122,6 @@
    "release": "2014-06-03",
    "url": "https://www.cheapshark.com/redirect?dealID=%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
-  },
-  {
-   "id": "UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
-   "title": "Prison Tycoon Alcatraz",
-   "store": "Fanatical",
-   "price": 7.48,
-   "regular": 9.99,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": "2010-09-10",
-   "url": "https://www.cheapshark.com/redirect?dealID=UB9y2p8XByzJaDGkCfOFQ%2B0GPDoRi1AXFqQBIploVR8%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/354820/capsule_231x87.jpg?t=1591335290"
   },
   {
    "id": "4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
@@ -1228,19 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747610/capsule_231x87.jpg?t=1714121686"
   },
   {
-   "id": "JMnwpFz8Ai5lVxjy%2BG9k5h6LitHC%2BXiJ%2Fz5HNLIKqtM%3D",
-   "title": "Mystery Of Rivenhallows",
-   "store": "Fanatical",
-   "price": 2.29,
-   "regular": 2.99,
-   "savings": 23,
-   "hl": false,
-   "low": null,
-   "release": "2016-07-27",
-   "url": "https://www.cheapshark.com/redirect?dealID=JMnwpFz8Ai5lVxjy%2BG9k5h6LitHC%2BXiJ%2Fz5HNLIKqtM%3D",
-   "thumb": "https://images.greenmangaming.com/a8eae86bca8b4210be7c4a05d1180f0d/2bc60f649358426583c5d1da32e42911.jpg"
-  },
-  {
    "id": "f99R4tH2SJOhkDH33FZGxG31a5iHp5BlPqcydRYWrvY%3D",
    "title": "Mountain Racing",
    "store": "Epic",
@@ -1293,17 +1254,56 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3315230/363f1d81b3e12a671411cf66bab7da603f1cc265/capsule_231x87.jpg?t=1748590039"
   },
   {
-   "id": "Dz3wV6EVmlznY1iM31AzNVUbqD92q2E98orme%2Bn7Fq0%3D",
-   "title": "Crazy Machines: Golden Gears",
-   "store": "Fanatical",
-   "price": 7.89,
-   "regular": 9.99,
-   "savings": 21,
+   "id": "XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
+   "title": "Aurye Clicker",
+   "store": "Steam",
+   "price": 1.2,
+   "regular": 19.98,
+   "savings": 94,
    "hl": false,
    "low": null,
-   "release": "2014-03-27",
-   "url": "https://www.cheapshark.com/redirect?dealID=Dz3wV6EVmlznY1iM31AzNVUbqD92q2E98orme%2Bn7Fq0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/265240/capsule_231x87.jpg?t=1450301940"
+   "release": "2024-07-26",
+   "url": "https://www.cheapshark.com/redirect?dealID=XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092750/capsule_231x87.jpg?t=1741708346"
+  },
+  {
+   "id": "l761pZgqT8pJPJ4ZJFu0He5ZsBNPNgdVAnwiIIU%2FPoI%3D",
+   "title": "Bounty Battle",
+   "store": "Fanatical",
+   "price": 17.99,
+   "regular": 19.99,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2020-09-10",
+   "url": "https://www.cheapshark.com/redirect?dealID=l761pZgqT8pJPJ4ZJFu0He5ZsBNPNgdVAnwiIIU%2FPoI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/860900/capsule_231x87.jpg?t=1628508063"
+  },
+  {
+   "id": "sV05XQLCBArRAiuqesyPKEYuWLkwo9Adz%2FujpMF4A4c%3D",
+   "title": "Pizza Shop Simulator",
+   "store": "Steam",
+   "price": 0.74,
+   "regular": 2.99,
+   "savings": 75,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=sV05XQLCBArRAiuqesyPKEYuWLkwo9Adz%2FujpMF4A4c%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720070/d55c96872ac6d80cdebb7d2ae270c8cb5690f153/capsule_231x87.jpg?t=1790854141"
+  },
+  {
+   "id": "IMtUTZMBUcDGUeYze1VIlaIM9%2FZBVwg927CfXxVWq%2F4%3D",
+   "title": "European Truck Manager",
+   "store": "Epic",
+   "price": 15.99,
+   "regular": 19.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": "2026-11-01",
+   "url": "https://www.cheapshark.com/redirect?dealID=IMtUTZMBUcDGUeYze1VIlaIM9%2FZBVwg927CfXxVWq%2F4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1793635353"
   }
  ]
 }

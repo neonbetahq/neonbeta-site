@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T18:29:20+00:00",
+ "updated": "2026-11-08T00:37:54+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -27,19 +27,6 @@
    "release": "2023-09-06",
    "url": "https://www.cheapshark.com/redirect?dealID=9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2555440/capsule_231x87.jpg?t=1710414767"
-  },
-  {
-   "id": "tBA3TpAO6qJgOP1Kk8x5MkKquQAfzhzLHOX8dMchbEU%3D",
-   "title": "Extraordinary Ball",
-   "store": "Steam",
-   "price": 0.49,
-   "regular": 0.99,
-   "savings": 51,
-   "hl": false,
-   "low": null,
-   "release": "2025-05-14",
-   "url": "https://www.cheapshark.com/redirect?dealID=tBA3TpAO6qJgOP1Kk8x5MkKquQAfzhzLHOX8dMchbEU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3703970/052fd67f11be0339ba3e4d6dccb227fd2db44d7e/capsule_231x87.jpg?t=1747289746"
   },
   {
    "id": "OLALEpEP1K%2BohVeMF2i2CfFaHyPj7nqwnb%2B89ULWhpc%3D",
@@ -79,19 +66,6 @@
    "release": "2025-07-18",
    "url": "https://www.cheapshark.com/redirect?dealID=yfFw10sVQugkyX2bOZSANzOT5iqGbXG2W6Olu5SQQks%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3854200/4d29466ecbb7a6780b215d0e155d1bbf0b13d281/capsule_231x87.jpg?t=1754555505"
-  },
-  {
-   "id": "VVeE2vs%2B2MAFcdnJA8OCDDGXkAg81O6GsElkiuR15C0%3D",
-   "title": "Wheelborne",
-   "store": "Steam",
-   "price": 0.49,
-   "regular": 0.99,
-   "savings": 51,
-   "hl": false,
-   "low": null,
-   "release": "2025-07-30",
-   "url": "https://www.cheapshark.com/redirect?dealID=VVeE2vs%2B2MAFcdnJA8OCDDGXkAg81O6GsElkiuR15C0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3862760/1d21e627c1f9da899c37e33d750d4e00a55d0e18/capsule_231x87.jpg?t=1753864104"
   },
   {
    "id": "YEExAd0bR%2FYa%2F%2BHKPOgj55QG7%2BVTnSASSTMQexTgiMU%3D",
@@ -157,6 +131,32 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=xhEy1wyHy8dHl33cYZVCTnocHaBDmjYCfF1C4DzN9aY%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/9a238385-99af-40ad-bf78-1436f654806d.jpeg"
+  },
+  {
+   "id": "ausdOhBQDVGUBcEV9qUiZcdy5IkTPlMXj2j7nDb8Pdo%3D",
+   "title": "RPG Maker MZ - Heroine Character Generator 2 for MZ",
+   "store": "Fanatical",
+   "price": 12.89,
+   "regular": 14.99,
+   "savings": 14,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=ausdOhBQDVGUBcEV9qUiZcdy5IkTPlMXj2j7nDb8Pdo%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/4abf59d1-d3f4-4818-93f4-456b655ea71b.jpeg"
+  },
+  {
+   "id": "ymS8xjm66aheeRs5o5TjCX2zx2o0Tc2CZJ6fD54vdP4%3D",
+   "title": "RPG Maker MZ - POP! Horror City Character Pack 1",
+   "store": "Fanatical",
+   "price": 6.01,
+   "regular": 6.99,
+   "savings": 14,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=ymS8xjm66aheeRs5o5TjCX2zx2o0Tc2CZJ6fD54vdP4%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/a06cc5e7-2459-4826-b2df-e46318bf287c.jpeg"
   },
   {
    "id": "fDEez1BBVP8UaD9CKUl2Km3XLFJ4jrbXy0548Z9Vf9Y%3D",

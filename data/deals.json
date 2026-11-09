@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:28:48+00:00",
+ "updated": "2026-11-09T00:40:53+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1189,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2747610/capsule_231x87.jpg?t=1714121686"
   },
   {
-   "id": "f99R4tH2SJOhkDH33FZGxG31a5iHp5BlPqcydRYWrvY%3D",
-   "title": "Mountain Racing",
-   "store": "Epic",
-   "price": 0.0,
-   "regular": 4.99,
-   "savings": 100,
-   "hl": false,
-   "low": null,
-   "release": "2018-05-15",
-   "url": "https://www.cheapshark.com/redirect?dealID=f99R4tH2SJOhkDH33FZGxG31a5iHp5BlPqcydRYWrvY%3D",
-   "thumb": "https://cdn1.epicgames.com/spt-assets/e490758bbef24171a3edb4e09a096657/mountain-racing-tni94.jpg"
-  },
-  {
    "id": "5RKAssi25PRBzW7QVs1wHwhiRf0BbPWwFlRgLtrGzAc%3D",
    "title": "Abermore",
    "store": "Fanatical",
@@ -1304,6 +1291,19 @@
    "release": "2026-11-01",
    "url": "https://www.cheapshark.com/redirect?dealID=74zVZToshjvM8OkbAuGncuA%2Feb4yYZfzOkdoRcd2hVw%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1793635353"
+  },
+  {
+   "id": "ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",
+   "title": "Callparin 2",
+   "store": "Steam",
+   "price": 19.48,
+   "regular": 25.98,
+   "savings": 25,
+   "hl": false,
+   "low": null,
+   "release": "2020-12-03",
+   "url": "https://www.cheapshark.com/redirect?dealID=ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1464320/capsule_231x87.jpg?t=1733048412"
   }
  ]
 }

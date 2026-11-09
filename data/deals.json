@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:40:53+00:00",
+ "updated": "2026-11-09T07:06:54+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1202,19 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
   },
   {
-   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "title": "Crime Podcast: Welcome to the Neighborhood",
-   "store": "Steam",
-   "price": 4.89,
-   "regular": 6.99,
-   "savings": 30,
-   "hl": false,
-   "low": null,
-   "release": "2026-11-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
-  },
-  {
    "id": "%2Fsl3RVETqcVA42G%2FG8F2vgp1Miam%2FCpQ1URtDg%2BSaFw%3D",
    "title": "Rocket Squad: Infinity",
    "store": "Steam",
@@ -1239,6 +1226,19 @@
    "release": "2024-07-26",
    "url": "https://www.cheapshark.com/redirect?dealID=XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092750/capsule_231x87.jpg?t=1741708346"
+  },
+  {
+   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
+   "title": "Crime Podcast: Welcome to the Neighborhood",
+   "store": "Steam",
+   "price": 4.89,
+   "regular": 6.99,
+   "savings": 30,
+   "hl": false,
+   "low": null,
+   "release": "2026-11-02",
+   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
   },
   {
    "id": "l761pZgqT8pJPJ4ZJFu0He5ZsBNPNgdVAnwiIIU%2FPoI%3D",
@@ -1277,7 +1277,7 @@
    "low": null,
    "release": "2026-11-01",
    "url": "https://www.cheapshark.com/redirect?dealID=IMtUTZMBUcDGUeYze1VIlaIM9%2FZBVwg927CfXxVWq%2F4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1793635353"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1794196082"
   },
   {
    "id": "74zVZToshjvM8OkbAuGncuA%2Feb4yYZfzOkdoRcd2hVw%3D",
@@ -1290,7 +1290,7 @@
    "low": null,
    "release": "2026-11-01",
    "url": "https://www.cheapshark.com/redirect?dealID=74zVZToshjvM8OkbAuGncuA%2Feb4yYZfzOkdoRcd2hVw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1793635353"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5323350/c5ff4cf8dd62a5e200b2d8af9df47ca3f436418b/capsule_231x87.jpg?t=1794196082"
   },
   {
    "id": "ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",

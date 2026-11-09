@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:06:54+00:00",
+ "updated": "2026-11-09T12:53:35+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -523,6 +523,32 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
+   "id": "usLVN2rl2qvgkYC7g3eBCzyL11aFMCkCK5qLXwA%2Bo48%3D",
+   "title": "Homeworld: Deserts of Kharak",
+   "store": "Fanatical",
+   "price": 49.24,
+   "regular": 49.99,
+   "savings": 2,
+   "hl": false,
+   "low": 3.57,
+   "release": "2016-01-20",
+   "url": "https://www.cheapshark.com/redirect?dealID=usLVN2rl2qvgkYC7g3eBCzyL11aFMCkCK5qLXwA%2Bo48%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
+  },
+  {
+   "id": "H4oQPLbDB3jq%2BSH%2FimGRORL9KNsyizEi6HkS9KQdl8Q%3D",
+   "title": "Bulletstorm: Full Clip Edition",
+   "store": "Fanatical",
+   "price": 39.39,
+   "regular": 39.99,
+   "savings": 2,
+   "hl": false,
+   "low": 3.39,
+   "release": "2017-04-07",
+   "url": "https://www.cheapshark.com/redirect?dealID=H4oQPLbDB3jq%2BSH%2FimGRORL9KNsyizEi6HkS9KQdl8Q%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/501590/capsule_231x87.jpg?t=1782157737"
+  },
+  {
    "id": "2EBZFMKJmX5oxhV0IW8SuCOpGbCOQLBpaHRPlE%2FIpG8%3D",
    "title": "Heads Up! Phones Down Edition!",
    "store": "Fanatical",
@@ -549,6 +575,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300120/2d3fd1096153816c18349faff897271e93eb1840/capsule_231x87.jpg?t=1790864733"
   },
   {
+   "id": "O6yw6NogE3rNV24vLUuXm7KFeRNpMhTUNZobCWAd%2FnQ%3D",
+   "title": "Penn and Teller VR: Frankly Unfair, Unkind, Unnecessary, and Underhanded",
+   "store": "Fanatical",
+   "price": 19.69,
+   "regular": 19.99,
+   "savings": 2,
+   "hl": false,
+   "low": 1.6,
+   "release": "2019-06-27",
+   "url": "https://www.cheapshark.com/redirect?dealID=O6yw6NogE3rNV24vLUuXm7KFeRNpMhTUNZobCWAd%2FnQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/677610/capsule_231x87.jpg?t=1573062026"
+  },
+  {
    "id": "uavUlpe4JgaTElMjDlcD8Gzv4TgKV5KTju19u39TQRg%3D",
    "title": "King Arthur II",
    "store": "Fanatical",
@@ -560,6 +599,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=uavUlpe4JgaTElMjDlcD8Gzv4TgKV5KTju19u39TQRg%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/8755a35f-40f1-4921-977e-a6ab0befcc49.jpeg"
+  },
+  {
+   "id": "fmddwl8BS76iUN29lenVQwYiU3XHcZlSXf67qgRu0%2FI%3D",
+   "title": "Bulletstorm: Full Clip Edition Duke Nukem Bundle",
+   "store": "Fanatical",
+   "price": 38.98,
+   "regular": 39.58,
+   "savings": 2,
+   "hl": false,
+   "low": 3.3,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=fmddwl8BS76iUN29lenVQwYiU3XHcZlSXf67qgRu0%2FI%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/bulletstorm-full-clip-edition-duke-nukem-bundle/cover-180-6bc4ce.jpg"
   },
   {
    "id": "IS4Q36wHpskHedM65xS4wtQrFph%2Bvim3R7waXua6Nrs%3D",
@@ -868,7 +920,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 0.99,
+   "low": null,
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
@@ -881,7 +933,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 1.59,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=4cOaYoSogLMQxJCabT5USN01my2mrWp9AAMDJgRTJjI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029890/6d442a0a112da942a1016eb6655ee4710feb78c3/capsule_231x87.jpg?t=1771007594"
@@ -894,7 +946,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 2.59,
+   "low": null,
    "release": "2016-09-15",
    "url": "https://www.cheapshark.com/redirect?dealID=43akyT5kxzpgRf02UsWS4A8D1PHAvmPXy%2BQ0o%2By%2F%2BhQ%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/409720/capsule_231x87.jpg?t=1740443705"
@@ -907,7 +959,7 @@
    "regular": 18.99,
    "savings": 2,
    "hl": false,
-   "low": 2.46,
+   "low": null,
    "release": "2014-11-24",
    "url": "https://www.cheapshark.com/redirect?dealID=MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248390/capsule_231x87.jpg?t=1782400980"
@@ -989,58 +1041,6 @@
    "release": "2015-03-09",
    "url": "https://www.cheapshark.com/redirect?dealID=YBwVKUhQoOMfhYNG6vPQPNiyzzZpSxEaKCEiFT0Xi8s%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275100/capsule_231x87.jpg?t=1762857307"
-  },
-  {
-   "id": "8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
-   "title": "Lost Horizon 2",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2015-10-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395560/capsule_231x87.jpg?t=1792652674"
-  },
-  {
-   "id": "241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
-   "title": "On Rusty Trails",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-06-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277700/capsule_231x87.jpg?t=1769974227"
-  },
-  {
-   "id": "fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "title": "Fortified",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-02-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/334210/capsule_231x87.jpg?t=1622741821"
-  },
-  {
-   "id": "51Tem6pI6rIm9zS0wSgggGSxHbsm2rTX8Vag%2BIkeNII%3D",
-   "title": "Lethe - Episode One",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-08-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=51Tem6pI6rIm9zS0wSgggGSxHbsm2rTX8Vag%2BIkeNII%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407780/capsule_231x87.jpg?t=1573500166"
   }
  ],
  "new": [],

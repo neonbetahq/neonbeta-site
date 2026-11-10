@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:37:51+00:00",
+ "updated": "2026-11-10T06:51:00+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1098,19 +1098,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
-   "title": "Legends of Persia",
-   "store": "Fanatical",
-   "price": 1.69,
-   "regular": 19.99,
-   "savings": 92,
-   "hl": false,
-   "low": null,
-   "release": "2014-06-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
-  },
-  {
    "id": "4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
    "title": "House Builder VR",
    "store": "Steam",
@@ -1215,19 +1202,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092750/capsule_231x87.jpg?t=1741708346"
   },
   {
-   "id": "uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "title": "Crime Podcast: Welcome to the Neighborhood",
-   "store": "Steam",
-   "price": 4.89,
-   "regular": 6.99,
-   "savings": 30,
-   "hl": false,
-   "low": null,
-   "release": "2026-11-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=uIcu2EffdG7pZ5ISFcAiC%2BQ0SfVx0IuSz1W7HyO3zOA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4442840/480197b62efe422ece2c49ef91f9413fa26c1382/capsule_231x87.jpg?t=1793650506"
-  },
-  {
    "id": "l761pZgqT8pJPJ4ZJFu0He5ZsBNPNgdVAnwiIIU%2FPoI%3D",
    "title": "Bounty Battle",
    "store": "Fanatical",
@@ -1304,6 +1278,32 @@
    "release": "2024-10-02",
    "url": "https://www.cheapshark.com/redirect?dealID=qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3189010/a1a02eb2d11957331a54c70fccb7427da875fdc5/capsule_231x87.jpg?t=1788432628"
+  },
+  {
+   "id": "EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "title": "Airline Tycoon 2: GOLD",
+   "store": "Fanatical",
+   "price": 3.59,
+   "regular": 19.99,
+   "savings": 82,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
+  },
+  {
+   "id": "pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
+   "title": "Airline Tycoon 2",
+   "store": "Fanatical",
+   "price": 1.79,
+   "regular": 9.99,
+   "savings": 82,
+   "hl": false,
+   "low": null,
+   "release": "2011-10-11",
+   "url": "https://www.cheapshark.com/redirect?dealID=pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
   }
  ]
 }

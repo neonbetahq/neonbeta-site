@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T18:44:19+00:00",
+ "updated": "2026-11-10T00:37:51+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1059,19 +1059,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252050/capsule_231x87.jpg?t=1558092198"
   },
   {
-   "id": "gdW%2BtEbJ7BskDdo67k9K%2F%2Feng5ov%2FK5zTJ5UaVo1IKg%3D",
-   "title": "Game Tycoon 1.5",
-   "store": "Steam",
-   "price": 0.49,
-   "regular": 0.99,
-   "savings": 51,
-   "hl": false,
-   "low": null,
-   "release": "2014-02-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=gdW%2BtEbJ7BskDdo67k9K%2F%2Feng5ov%2FK5zTJ5UaVo1IKg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273770/capsule_231x87.jpg?t=1693943634"
-  },
-  {
    "id": "qxr8HnuXt%2B6Ixr6M1oT%2FzTlfYGYbU2PlFSlizv4kN3w%3D",
    "title": "World Ship Simulator",
    "store": "Fanatical",
@@ -1166,9 +1153,9 @@
    "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
    "title": "Chinese Empire",
    "store": "Steam",
-   "price": 3.39,
-   "regular": 16.99,
-   "savings": 80,
+   "price": 16.54,
+   "regular": 30.98,
+   "savings": 47,
    "hl": false,
    "low": null,
    "release": "2024-03-11",
@@ -1202,17 +1189,17 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
   },
   {
-   "id": "%2Fsl3RVETqcVA42G%2FG8F2vgp1Miam%2FCpQ1URtDg%2BSaFw%3D",
-   "title": "Rocket Squad: Infinity",
+   "id": "4nyExF0HOvffresggFtQ6d3gfVpA12yTz5oaueU7evY%3D",
+   "title": "Horse Racing 2016",
    "store": "Steam",
    "price": 1.49,
-   "regular": 14.99,
-   "savings": 90,
+   "regular": 9.99,
+   "savings": 85,
    "hl": false,
    "low": null,
-   "release": "2025-05-30",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2Fsl3RVETqcVA42G%2FG8F2vgp1Miam%2FCpQ1URtDg%2BSaFw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3315230/363f1d81b3e12a671411cf66bab7da603f1cc265/capsule_231x87.jpg?t=1748590039"
+   "release": "2017-05-31",
+   "url": "https://www.cheapshark.com/redirect?dealID=4nyExF0HOvffresggFtQ6d3gfVpA12yTz5oaueU7evY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/655610/capsule_231x87.jpg?t=1521695436"
   },
   {
    "id": "XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
@@ -1304,6 +1291,19 @@
    "release": "2020-12-03",
    "url": "https://www.cheapshark.com/redirect?dealID=ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1464320/capsule_231x87.jpg?t=1733048412"
+  },
+  {
+   "id": "qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
+   "title": "The Mansion of the Macabre",
+   "store": "GOG",
+   "price": 5.95,
+   "regular": 19.85,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": "2024-10-02",
+   "url": "https://www.cheapshark.com/redirect?dealID=qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3189010/a1a02eb2d11957331a54c70fccb7427da875fdc5/capsule_231x87.jpg?t=1788432628"
   }
  ]
 }

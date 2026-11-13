@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:41:59+00:00",
+ "updated": "2026-11-13T00:45:50+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1150,6 +1150,19 @@
    "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   },
   {
+   "id": "DF63jrqHwsVvywSaZshoT%2BTJ4W1m48WzRi7oXslFcL8%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=DF63jrqHwsVvywSaZshoT%2BTJ4W1m48WzRi7oXslFcL8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
    "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
    "title": "Chinese Empire",
    "store": "Steam",
@@ -1291,19 +1304,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
-  },
-  {
-   "id": "pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
-   "title": "Airline Tycoon 2",
-   "store": "Fanatical",
-   "price": 1.79,
-   "regular": 9.99,
-   "savings": 82,
-   "hl": false,
-   "low": null,
-   "release": "2011-10-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
   }
  ]
 }

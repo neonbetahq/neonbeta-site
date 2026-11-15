@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:29:14+00:00",
+ "updated": "2026-11-15T00:40:09+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1046,19 +1046,6 @@
  "new": [],
  "popular": [
   {
-   "id": "KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
-   "title": "Construction Machines 2014",
-   "store": "Steam",
-   "price": 0.83,
-   "regular": 6.99,
-   "savings": 88,
-   "hl": false,
-   "low": null,
-   "release": "2014-03-28",
-   "url": "https://www.cheapshark.com/redirect?dealID=KRGTIA3SF0v5x49iGqCWZ2Ec2mZbjbCbNRCYGTO1nr4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252050/capsule_231x87.jpg?t=1558092198"
-  },
-  {
    "id": "qxr8HnuXt%2B6Ixr6M1oT%2FzTlfYGYbU2PlFSlizv4kN3w%3D",
    "title": "World Ship Simulator",
    "store": "Fanatical",
@@ -1111,19 +1098,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
-   "id": "4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
-   "title": "House Builder VR",
-   "store": "Steam",
-   "price": 9.7,
-   "regular": 17.98,
-   "savings": 46,
-   "hl": false,
-   "low": null,
-   "release": "2023-03-06",
-   "url": "https://www.cheapshark.com/redirect?dealID=4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052760/capsule_231x87.jpg?t=1791744402"
-  },
-  {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
    "store": "Fanatical",
@@ -1174,6 +1148,19 @@
    "release": "2024-03-11",
    "url": "https://www.cheapshark.com/redirect?dealID=GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449550/capsule_231x87.jpg?t=1715250064"
+  },
+  {
+   "id": "r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
+   "title": "Streamer Simulator",
+   "store": "Steam",
+   "price": 0.79,
+   "regular": 0.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": "2022-12-12",
+   "url": "https://www.cheapshark.com/redirect?dealID=r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519180/capsule_231x87.jpg?t=1503048665"
   },
   {
    "id": "5RKAssi25PRBzW7QVs1wHwhiRf0BbPWwFlRgLtrGzAc%3D",
@@ -1304,6 +1291,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
+  },
+  {
+   "id": "pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
+   "title": "Airline Tycoon 2",
+   "store": "Fanatical",
+   "price": 1.79,
+   "regular": 9.99,
+   "savings": 82,
+   "hl": false,
+   "low": null,
+   "release": "2011-10-11",
+   "url": "https://www.cheapshark.com/redirect?dealID=pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
   }
  ]
 }

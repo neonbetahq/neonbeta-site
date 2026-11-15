@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:35:03+00:00",
+ "updated": "2026-11-15T18:31:07+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1098,19 +1098,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
-   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
-   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
-   "store": "Fanatical",
-   "price": 0.74,
-   "regular": 4.99,
-   "savings": 85,
-   "hl": false,
-   "low": null,
-   "release": "2011-06-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
-  },
-  {
    "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
    "title": "Recovery Search and Rescue Simulation",
    "store": "Fanatical",
@@ -1135,6 +1122,19 @@
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=DF63jrqHwsVvywSaZshoT%2BTJ4W1m48WzRi7oXslFcL8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
+   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
+   "store": "Fanatical",
+   "price": 0.74,
+   "regular": 4.99,
+   "savings": 85,
+   "hl": false,
+   "low": null,
+   "release": "2011-06-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   },
   {
    "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",

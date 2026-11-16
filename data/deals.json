@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:09:29+00:00",
+ "updated": "2026-11-16T14:47:56+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -27,45 +27,6 @@
    "release": "2023-09-06",
    "url": "https://www.cheapshark.com/redirect?dealID=9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2555440/capsule_231x87.jpg?t=1710414767"
-  },
-  {
-   "id": "bxhwlCzFJJGMKA2AvCkc7gzoPgycXsSK12ojRJr59EE%3D",
-   "title": "BobasQuest",
-   "store": "Steam",
-   "price": 5.6,
-   "regular": 34.96,
-   "savings": 84,
-   "hl": false,
-   "low": null,
-   "release": "2024-04-28",
-   "url": "https://www.cheapshark.com/redirect?dealID=bxhwlCzFJJGMKA2AvCkc7gzoPgycXsSK12ojRJr59EE%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2898750/capsule_231x87.jpg?t=1744483352"
-  },
-  {
-   "id": "10TMDkJWpsp89mPJfd7i2C%2B%2BG9peYZQLUA897FTlQnc%3D",
-   "title": "Amnesia: Memories",
-   "store": "GOG",
-   "price": 4.99,
-   "regular": 9.99,
-   "savings": 50,
-   "hl": false,
-   "low": null,
-   "release": "2015-08-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=10TMDkJWpsp89mPJfd7i2C%2B%2BG9peYZQLUA897FTlQnc%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359390/662575dc1cb63d652332e145575a53568c3bb0ee/capsule_231x87.jpg?t=1779388485"
-  },
-  {
-   "id": "j%2FDT3BY0Bkuhcngna3bB1Hx0Liy9xS2q7Tb%2BMcojlPU%3D",
-   "title": "RPG Maker MV - House of Horror Music Vol.1",
-   "store": "Humble",
-   "price": 13.99,
-   "regular": 19.99,
-   "savings": 30,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=j%2FDT3BY0Bkuhcngna3bB1Hx0Liy9xS2q7Tb%2BMcojlPU%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/3ecac9161f796a72d507ddb3f95fe8bcdf0601dd.jpeg"
   },
   {
    "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
@@ -484,17 +445,17 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/e3a5b679-aa5b-4be2-9945-6d8911385d93.jpeg"
   },
   {
-   "id": "VniO%2F97tallZzzMxPnlgfmSRQZOs7rUX%2FYLOY%2F5w6Dw%3D",
-   "title": "XCOM 2",
+   "id": "EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "title": "Airline Tycoon 2: GOLD",
    "store": "Fanatical",
-   "price": 18.59,
+   "price": 18.99,
    "regular": 19.99,
-   "savings": 7,
+   "savings": 5,
    "hl": false,
    "low": null,
-   "release": "2016-02-04",
-   "url": "https://www.cheapshark.com/redirect?dealID=VniO%2F97tallZzzMxPnlgfmSRQZOs7rUX%2FYLOY%2F5w6Dw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/268500/capsule_231x87.jpg?t=1772813016"
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
   },
   {
    "id": "3XDsag5tJG4RhKkz9k8dTR670qrEsDxEuL7iKMhlZLI%3D",
@@ -508,6 +469,45 @@
    "release": "2010-11-30",
    "url": "https://www.cheapshark.com/redirect?dealID=3XDsag5tJG4RhKkz9k8dTR670qrEsDxEuL7iKMhlZLI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40380/capsule_231x87.jpg?t=1570019041"
+  },
+  {
+   "id": "JeEHGxdkqz6ereSqAk5VWDPuAn4AnITDCLTiEBnN%2Faw%3D",
+   "title": "RPG Maker MZ - Essentials Set",
+   "store": "Fanatical",
+   "price": 9.49,
+   "regular": 9.99,
+   "savings": 5,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=JeEHGxdkqz6ereSqAk5VWDPuAn4AnITDCLTiEBnN%2Faw%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/6f9e5e52-c601-400b-ab2b-9abedbcb7dd3.jpeg"
+  },
+  {
+   "id": "NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
+   "title": "Airline Tycoon 2 Falcon Airlines",
+   "store": "Fanatical",
+   "price": 5.69,
+   "regular": 5.99,
+   "savings": 5,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-falcon-airlines-dlc/cover-180-f9a85a.jpg"
+  },
+  {
+   "id": "i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
+   "title": "Airline Tycoon 2 Honey Airlines",
+   "store": "Fanatical",
+   "price": 5.69,
+   "regular": 5.99,
+   "savings": 5,
+   "hl": false,
+   "low": null,
+   "release": "2012-04-19",
+   "url": "https://www.cheapshark.com/redirect?dealID=i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-honey-airlines-dlc/cover-180-ec562d.jpg"
   },
   {
    "id": "RLvbhHaMktvde0Lw5FAG8Ir4XFCi1ypH5yW8NSlN1%2FU%3D",
@@ -666,6 +666,32 @@
    "thumb": "https://sttc.gamersgate.com/images/product/europa-universalis-iv-starter-edition/cover-180-47b02e.jpg"
   },
   {
+   "id": "mZzor6UmjzNwSZRKbvIN5Jot9VhK7QXqPtj%2Bv9fLOcg%3D",
+   "title": "Mortal Kombat 1: Definitive Edition Upgrade",
+   "store": "Fanatical",
+   "price": 58.79,
+   "regular": 59.99,
+   "savings": 2,
+   "hl": false,
+   "low": 9.84,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=mZzor6UmjzNwSZRKbvIN5Jot9VhK7QXqPtj%2Bv9fLOcg%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/mortal-kombattm-1-definitive-edition-upgrade/cover-180-da7c1b.jpg"
+  },
+  {
+   "id": "qEDuvbpe0pbPUQN45Vvod5pfUwbCU9WWod5VBS59drU%3D",
+   "title": "LEGO Batman Trilogy",
+   "store": "Fanatical",
+   "price": 48.99,
+   "regular": 49.99,
+   "savings": 2,
+   "hl": false,
+   "low": 3.96,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=qEDuvbpe0pbPUQN45Vvod5pfUwbCU9WWod5VBS59drU%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/53403/capsule_231x87.jpg?t=1775492998"
+  },
+  {
    "id": "vCmRkxdLeyoDA5T35127OLHTcER%2FhcVWrdpZ6HtpI5Y%3D",
    "title": "Shelter Complete Edition",
    "store": "Fanatical",
@@ -729,6 +755,19 @@
    "release": "2017-02-14",
    "url": "https://www.cheapshark.com/redirect?dealID=eEM%2FrUK9%2Fk7qrBwyiacaVZwaobAu5mLpJ2bmuNKTL0Q%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/532690/capsule_231x87.jpg?t=1634718292"
+  },
+  {
+   "id": "7l1HX7AiOX5D2DdSiF8J5utQfu%2BF%2B0agbXX2e0rad8I%3D",
+   "title": "11-11 Memories Retold",
+   "store": "Fanatical",
+   "price": 29.39,
+   "regular": 29.99,
+   "savings": 2,
+   "hl": false,
+   "low": 2.99,
+   "release": "2018-11-08",
+   "url": "https://www.cheapshark.com/redirect?dealID=7l1HX7AiOX5D2DdSiF8J5utQfu%2BF%2B0agbXX2e0rad8I%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/735580/capsule_231x87.jpg?t=1754333248"
   },
   {
    "id": "O8AhmDQ23pdfZBrckByyH7z5U0FIkxc8cFy5BX%2FjU1Y%3D",
@@ -874,6 +913,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1321220/capsule_231x87.jpg?t=1751544247"
   },
   {
+   "id": "D4PMl1iBuUxTMhBF%2FUlQZwLWDhLtho6tTOt3Ww6wwC8%3D",
+   "title": "ENSLAVED: Odyssey to the West Premium Edition",
+   "store": "Fanatical",
+   "price": 19.59,
+   "regular": 19.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=D4PMl1iBuUxTMhBF%2FUlQZwLWDhLtho6tTOt3Ww6wwC8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/capsule_231x87.jpg?t=1580374672"
+  },
+  {
    "id": "%2FOF%2B%2F6P%2ByOamnvdvo0eRICcmZMcI5R9zDP%2FZpLK%2BFC8%3D",
    "title": "Knights of Pen and Paper 1 Deluxier Edition",
    "store": "Fanatical",
@@ -881,7 +933,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 4.11,
+   "low": null,
    "release": "2013-06-18",
    "url": "https://www.cheapshark.com/redirect?dealID=%2FOF%2B%2F6P%2ByOamnvdvo0eRICcmZMcI5R9zDP%2FZpLK%2BFC8%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/knights-of-pen-paper-1-deluxier-edition/cover-180-373669.jpg"
@@ -894,7 +946,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 1.59,
+   "low": null,
    "release": "2024-09-23",
    "url": "https://www.cheapshark.com/redirect?dealID=9t8rTLCBQVTKmlTT1JYqwv4qmkRucq4o4uCK2PZkLBQ%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1855580/13ce07e4ea508a13b1c2b55b6351174cd63c9da0/capsule_231x87.jpg?t=1791981886"
@@ -907,7 +959,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 0.99,
+   "low": null,
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
@@ -989,58 +1041,6 @@
    "release": "2016-04-01",
    "url": "https://www.cheapshark.com/redirect?dealID=QeU7G5z9dGU%2Frjd9RhMvF77UXHjDijYvpWwfUHa%2FGEw%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400360/capsule_231x87.jpg?t=1751535103"
-  },
-  {
-   "id": "PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
-   "title": "Mad Games Tycoon",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2014-11-25",
-   "url": "https://www.cheapshark.com/redirect?dealID=PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341000/capsule_231x87.jpg?t=1740737867"
-  },
-  {
-   "id": "B6Ci%2BPOAVHrclzI9Q26%2FXHkC1S07T2OBhmxOC6RV4ws%3D",
-   "title": "Obscuritas",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-03-17",
-   "url": "https://www.cheapshark.com/redirect?dealID=B6Ci%2BPOAVHrclzI9Q26%2FXHkC1S07T2OBhmxOC6RV4ws%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441680/capsule_231x87.jpg?t=1667177107"
-  },
-  {
-   "id": "O5%2BHB%2B2PHBEhPYXHG0NaY5SqM7feHg6qSV4UccfYSr0%3D",
-   "title": "Sanctum 2",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2013-05-15",
-   "url": "https://www.cheapshark.com/redirect?dealID=O5%2BHB%2B2PHBEhPYXHG0NaY5SqM7feHg6qSV4UccfYSr0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/210770/capsule_231x87.jpg?t=1774270979"
-  },
-  {
-   "id": "KfUJgtNKLlK1YjKIMtwTCOceIXtYOlyG%2FVzzX%2FBul1U%3D",
-   "title": "Enola",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2014-09-18",
-   "url": "https://www.cheapshark.com/redirect?dealID=KfUJgtNKLlK1YjKIMtwTCOceIXtYOlyG%2FVzzX%2FBul1U%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/263520/capsule_231x87.jpg?t=1781884608"
   }
  ],
  "new": [],
@@ -1083,6 +1083,19 @@
    "release": "2014-09-18",
    "url": "https://www.cheapshark.com/redirect?dealID=EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
+  },
+  {
+   "id": "IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
+   "title": "Legends of Persia",
+   "store": "Green Man Gaming",
+   "price": 2.0,
+   "regular": 19.99,
+   "savings": 90,
+   "hl": false,
+   "low": null,
+   "release": "2014-06-03",
+   "url": "https://www.cheapshark.com/redirect?dealID=IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
    "id": "%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
@@ -1267,19 +1280,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1464320/capsule_231x87.jpg?t=1733048412"
   },
   {
-   "id": "qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
-   "title": "The Mansion of the Macabre",
-   "store": "GOG",
-   "price": 5.95,
-   "regular": 19.85,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2024-10-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3189010/a1a02eb2d11957331a54c70fccb7427da875fdc5/capsule_231x87.jpg?t=1788432628"
-  },
-  {
    "id": "v871jcnVT8tm7Zm05yZEdbci%2BmPI58gx7dnBSIFte5o%3D",
    "title": "Crossroads: Escaping the Dark Collectors Edition",
    "store": "Steam",
@@ -1293,17 +1293,17 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2201340/capsule_231x87.jpg?t=1764597409"
   },
   {
-   "id": "V7epYPnAeoq3t4pOJu7M3spEU6gOuHD1fjRKiCtsX%2Bo%3D",
-   "title": "Mining Industry Simulator",
+   "id": "EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "title": "Airline Tycoon 2: GOLD",
    "store": "Fanatical",
-   "price": 9.79,
-   "regular": 9.99,
-   "savings": 2,
+   "price": 18.99,
+   "regular": 19.99,
+   "savings": 5,
    "hl": false,
    "low": null,
-   "release": "2014-11-28",
-   "url": "https://www.cheapshark.com/redirect?dealID=V7epYPnAeoq3t4pOJu7M3spEU6gOuHD1fjRKiCtsX%2Bo%3D",
-   "thumb": "https://cdn.fanatical.com/production/product/400x225/7656ac74-2e60-471a-a483-af9e8574b4b0.jpg"
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
   }
  ]
 }

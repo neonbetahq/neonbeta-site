@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:59:13+00:00",
+ "updated": "2026-11-17T12:50:47+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -183,6 +183,19 @@
    "release": "2024-08-30",
    "url": "https://www.cheapshark.com/redirect?dealID=CASPXElwf5Z33LU6UEFb%2BkS6XDGqSirS3m1HKzAXBe4%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1025410/c5ac6e42c3f1f904fa5c2a57097125070e222f86/capsule_231x87.jpg?t=1790876677"
+  },
+  {
+   "id": "jgj957i6m4OoZVj10BJjil9%2FMT77RyhmFfsSzo6ONuM%3D",
+   "title": "Drug Dealer Simulator 2",
+   "store": "Fanatical",
+   "price": 22.24,
+   "regular": 24.99,
+   "savings": 11,
+   "hl": false,
+   "low": null,
+   "release": "2024-06-20",
+   "url": "https://www.cheapshark.com/redirect?dealID=jgj957i6m4OoZVj10BJjil9%2FMT77RyhmFfsSzo6ONuM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1708850/69aec8914782f554806a73578ccd8c46d4a1c341/capsule_231x87.jpg?t=1789988016"
   },
   {
    "id": "a9%2BM85xj6wZ11rq26b3UTkFPT43t2rqi9yQzv3LCb%2F4%3D",
@@ -497,19 +510,6 @@
    "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-falcon-airlines-dlc/cover-180-f9a85a.jpg"
   },
   {
-   "id": "i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
-   "title": "Airline Tycoon 2 Honey Airlines",
-   "store": "Fanatical",
-   "price": 5.69,
-   "regular": 5.99,
-   "savings": 5,
-   "hl": false,
-   "low": null,
-   "release": "2012-04-19",
-   "url": "https://www.cheapshark.com/redirect?dealID=i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-honey-airlines-dlc/cover-180-ec562d.jpg"
-  },
-  {
    "id": "RLvbhHaMktvde0Lw5FAG8Ir4XFCi1ypH5yW8NSlN1%2FU%3D",
    "title": "Sid Meiers Civilization VI",
    "store": "Fanatical",
@@ -809,6 +809,19 @@
    "thumb": "https://cdn.humblebundle.com/misc/files/hashed/47ff6809173aee0ad7763dfd066b83d52c17355e.jpg"
   },
   {
+   "id": "6PS0JOPZpkCjCJOFBrU5JpMFQrMvrPZHDF3CHzW2a7U%3D",
+   "title": "Chivalry: Medieval Warfare",
+   "store": "Fanatical",
+   "price": 24.49,
+   "regular": 24.99,
+   "savings": 2,
+   "hl": false,
+   "low": 2.25,
+   "release": "2012-10-16",
+   "url": "https://www.cheapshark.com/redirect?dealID=6PS0JOPZpkCjCJOFBrU5JpMFQrMvrPZHDF3CHzW2a7U%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219640/capsule_231x87.jpg?t=1710276094"
+  },
+  {
    "id": "KNZObPL6bHNEqN7%2FoSaLt7MUbanY861EIc8SvJdccEI%3D",
    "title": "Edge of Space Special Edition",
    "store": "Fanatical",
@@ -820,6 +833,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=KNZObPL6bHNEqN7%2FoSaLt7MUbanY861EIc8SvJdccEI%3D",
    "thumb": "https://images.greenmangaming.com/828604b5cd78474d82f348ec8fabafdd/53d83c2cfe1e42b6a1b7ef627f75a0da.jpg"
+  },
+  {
+   "id": "eVjyHOkekWXO7vs6h8tdEsdI3yOfMngJcE19H2TlpS0%3D",
+   "title": "Green Hell",
+   "store": "Fanatical",
+   "price": 24.49,
+   "regular": 24.99,
+   "savings": 2,
+   "hl": false,
+   "low": 2.06,
+   "release": "2019-09-05",
+   "url": "https://www.cheapshark.com/redirect?dealID=eVjyHOkekWXO7vs6h8tdEsdI3yOfMngJcE19H2TlpS0%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/815370/11b2c1dd531149d24a276ea0abae5f05b966f781/capsule_231x87.jpg?t=1783077147"
   },
   {
    "id": "PMVChXXwCoL44rWjUfunaHpC%2B7ScXePwI55L5mtab%2BQ%3D",
@@ -855,7 +881,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 6.99,
+   "low": null,
    "release": "2018-05-03",
    "url": "https://www.cheapshark.com/redirect?dealID=L97mbM4b54JkMxFBGXBxqD%2B4BtkjCwdQ9PL9Q3T0BSM%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/455980/01eaf3b2ad11a9a313b8f689fa386068faa37f7b/capsule_231x87.jpg?t=1769435272"
@@ -868,7 +894,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 1.99,
+   "low": null,
    "release": "2011-02-03",
    "url": "https://www.cheapshark.com/redirect?dealID=dvjRFohvMotXehFEOi1Yq53sbL58RLMHnQ2rGhXrLiU%3D",
    "thumb": "https://images.greenmangaming.com/1b925b9937c542f69259f0599f833861/7120a34217db47ea88b3d8d405fceec5.jpg"
@@ -881,10 +907,23 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 1.99,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=3zH6OPTsuxNK3EcpdB9%2F4hDTu0XmnwZyvWGWPo707XQ%3D",
    "thumb": "https://cdn.humblebundle.com/misc/files/hashed/ebff92611f30b33fb258fe540f3676f84a35e0d4.jpg"
+  },
+  {
+   "id": "AMGUdw9JOJlm8XhA4N2Q1IChDpXYGfZSwPA25p5ouTs%3D",
+   "title": "GUILTY GEAR 2 -OVERTURE-",
+   "store": "Fanatical",
+   "price": 19.59,
+   "regular": 19.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2016-03-31",
+   "url": "https://www.cheapshark.com/redirect?dealID=AMGUdw9JOJlm8XhA4N2Q1IChDpXYGfZSwPA25p5ouTs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437000/capsule_231x87.jpg?t=1774234331"
   },
   {
    "id": "wprD21J9klyaMd5goLzKF8o21hjFK%2Bu6nIipjDxhEgI%3D",
@@ -894,7 +933,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 2.99,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=wprD21J9klyaMd5goLzKF8o21hjFK%2Bu6nIipjDxhEgI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707350/capsule_231x87.jpg?t=1671433131"
@@ -907,7 +946,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 1.49,
+   "low": null,
    "release": "2021-06-24",
    "url": "https://www.cheapshark.com/redirect?dealID=cNCrfmNaFZWH8WbWnKIbb%2FZGT7usYEG8LpUQm8JAUKE%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1321220/capsule_231x87.jpg?t=1751544247"
@@ -965,82 +1004,43 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
   },
   {
-   "id": "u%2FidopVbFok%2FLb9WqOKuKGBWOf1266O2C9HE4E8JpSw%3D",
-   "title": "Hourglass",
+   "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
+   "title": "The Daedalic Comedy Selection",
    "store": "Fanatical",
-   "price": 19.59,
-   "regular": 19.99,
-   "savings": 2,
+   "price": 29.84,
+   "regular": 29.99,
+   "savings": 1,
    "hl": false,
-   "low": null,
-   "release": "2021-10-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=u%2FidopVbFok%2FLb9WqOKuKGBWOf1266O2C9HE4E8JpSw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1212410/capsule_231x87.jpg?t=1726819312"
-  },
-  {
-   "id": "4cOaYoSogLMQxJCabT5USN01my2mrWp9AAMDJgRTJjI%3D",
-   "title": "Layers of Fear 2 (2019)",
-   "store": "Fanatical",
-   "price": 19.59,
-   "regular": 19.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
+   "low": 2.4,
    "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=4cOaYoSogLMQxJCabT5USN01my2mrWp9AAMDJgRTJjI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029890/6d442a0a112da942a1016eb6655ee4710feb78c3/capsule_231x87.jpg?t=1771007594"
+   "url": "https://www.cheapshark.com/redirect?dealID=MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
+   "thumb": "https://images.greenmangaming.com/c407300847b14e2695a3186b47449ded/492e5b1ae8da46c8a3d7cec8c5e443e4.jpg"
   },
   {
-   "id": "43akyT5kxzpgRf02UsWS4A8D1PHAvmPXy%2BQ0o%2By%2F%2BhQ%3D",
-   "title": "BioShock 2 Remastered",
+   "id": "W%2B5JWOBkfRYI7AQncC0zlyGokTuweCOZH0m1XwatHqM%3D",
+   "title": "XCOM 2: War of the Chosen - Tactical Legacy Pack",
    "store": "Fanatical",
-   "price": 19.59,
-   "regular": 19.99,
-   "savings": 2,
+   "price": 7.95,
+   "regular": 7.99,
+   "savings": 1,
    "hl": false,
-   "low": null,
-   "release": "2016-09-15",
-   "url": "https://www.cheapshark.com/redirect?dealID=43akyT5kxzpgRf02UsWS4A8D1PHAvmPXy%2BQ0o%2By%2F%2BhQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/409720/capsule_231x87.jpg?t=1740443705"
+   "low": 0.63,
+   "release": "2018-10-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=W%2B5JWOBkfRYI7AQncC0zlyGokTuweCOZH0m1XwatHqM%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/xcom-2-war-of-the-chosen-tactical-legacy-pack/cover-180-aba2f6.jpg"
   },
   {
-   "id": "MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
-   "title": "Craft The World",
+   "id": "G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
+   "title": "Animation Arts Collection",
    "store": "Fanatical",
-   "price": 18.61,
-   "regular": 18.99,
-   "savings": 2,
+   "price": 39.59,
+   "regular": 39.99,
+   "savings": 1,
    "hl": false,
-   "low": null,
-   "release": "2014-11-24",
-   "url": "https://www.cheapshark.com/redirect?dealID=MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248390/capsule_231x87.jpg?t=1782400980"
-  },
-  {
-   "id": "S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
-   "title": "Paws: Pitter Patter Edition",
-   "store": "Fanatical",
-   "price": 17.63,
-   "regular": 17.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
+   "low": 3.99,
    "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
-   "thumb": "https://images.gog-statics.com/676a646aacdbbb862d2c15f225ea4390c02a4691c9027572a5d7389f84e84df2_product_tile_117h.webp"
-  },
-  {
-   "id": "QeU7G5z9dGU%2Frjd9RhMvF77UXHjDijYvpWwfUHa%2FGEw%3D",
-   "title": "Adam's Venture: Origins",
-   "store": "Fanatical",
-   "price": 17.63,
-   "regular": 17.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-04-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=QeU7G5z9dGU%2Frjd9RhMvF77UXHjDijYvpWwfUHa%2FGEw%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400360/capsule_231x87.jpg?t=1751535103"
+   "url": "https://www.cheapshark.com/redirect?dealID=G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
+   "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
   }
  ],
  "new": [],
@@ -1057,6 +1057,19 @@
    "release": "2015-11-17",
    "url": "https://www.cheapshark.com/redirect?dealID=qxr8HnuXt%2B6Ixr6M1oT%2FzTlfYGYbU2PlFSlizv4kN3w%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403980/capsule_231x87.jpg?t=1726150481"
+  },
+  {
+   "id": "iRQlnKqHPq1MMxQKvTSVm2elex9kcah%2BawPsPgfI9wo%3D",
+   "title": "Art of Murder - The Secret Files",
+   "store": "Fanatical",
+   "price": 4.64,
+   "regular": 4.99,
+   "savings": 7,
+   "hl": false,
+   "low": null,
+   "release": "2011-02-15",
+   "url": "https://www.cheapshark.com/redirect?dealID=iRQlnKqHPq1MMxQKvTSVm2elex9kcah%2BawPsPgfI9wo%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
    "id": "EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
@@ -1135,6 +1148,19 @@
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=DF63jrqHwsVvywSaZshoT%2BTJ4W1m48WzRi7oXslFcL8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
+   "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
+   "store": "Fanatical",
+   "price": 4.64,
+   "regular": 4.99,
+   "savings": 7,
+   "hl": false,
+   "low": null,
+   "release": "2011-06-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   },
   {
    "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
@@ -1278,32 +1304,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
-  },
-  {
-   "id": "pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
-   "title": "Airline Tycoon 2",
-   "store": "Fanatical",
-   "price": 9.49,
-   "regular": 9.99,
-   "savings": 5,
-   "hl": false,
-   "low": null,
-   "release": "2011-10-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=pGSVIbrj6RXwAxPGMuJ%2Bf1KFHLKYm6OtJfMG8dAV8EA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
-  },
-  {
-   "id": "wIBG7WopsqlvcEly%2FYDSokvL4jy8X7LQ5CvLfPRft8s%3D",
-   "title": "Filmmaker Tycoon",
-   "store": "Steam",
-   "price": 1.49,
-   "regular": 14.99,
-   "savings": 90,
-   "hl": false,
-   "low": null,
-   "release": "2020-11-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=wIBG7WopsqlvcEly%2FYDSokvL4jy8X7LQ5CvLfPRft8s%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/778010/capsule_231x87.jpg?t=1723905789"
   }
  ]
 }

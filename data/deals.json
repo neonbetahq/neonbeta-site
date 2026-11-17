@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:50:47+00:00",
+ "updated": "2026-11-17T18:48:33+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1254,6 +1254,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1464320/capsule_231x87.jpg?t=1733048412"
   },
   {
+   "id": "qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
+   "title": "The Mansion of the Macabre",
+   "store": "GOG",
+   "price": 5.95,
+   "regular": 19.85,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": "2024-10-02",
+   "url": "https://www.cheapshark.com/redirect?dealID=qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3189010/a1a02eb2d11957331a54c70fccb7427da875fdc5/capsule_231x87.jpg?t=1788432628"
+  },
+  {
    "id": "v871jcnVT8tm7Zm05yZEdbci%2BmPI58gx7dnBSIFte5o%3D",
    "title": "Crossroads: Escaping the Dark Collectors Edition",
    "store": "Steam",
@@ -1290,19 +1303,6 @@
    "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=05sLG6iKtfPRhTxs%2Bw233208m2H8tZRUKr9by5F7nCQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
-  },
-  {
-   "id": "EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
-   "title": "Airline Tycoon 2: GOLD",
-   "store": "Fanatical",
-   "price": 18.99,
-   "regular": 19.99,
-   "savings": 5,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=EyD%2Fe%2FhHojUovPXXIBOYh1vgZQ1WeGJQxQ0LMdLS574%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
   }
  ]

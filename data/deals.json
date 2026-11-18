@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:48:33+00:00",
+ "updated": "2026-11-18T00:52:02+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -27,6 +27,19 @@
    "release": "2023-09-06",
    "url": "https://www.cheapshark.com/redirect?dealID=9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2555440/capsule_231x87.jpg?t=1710414767"
+  },
+  {
+   "id": "TOuBodFzSBpNV1IInxH1P51epeNs3pqDPYc1LYGiFoA%3D",
+   "title": "Pixel Game Maker Series ISEKAI QUARTET Adventure Action Game",
+   "store": "Steam",
+   "price": 9.89,
+   "regular": 14.99,
+   "savings": 34,
+   "hl": false,
+   "low": null,
+   "release": "2021-06-23",
+   "url": "https://www.cheapshark.com/redirect?dealID=TOuBodFzSBpNV1IInxH1P51epeNs3pqDPYc1LYGiFoA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574540/capsule_231x87.jpg?t=1725245032"
   },
   {
    "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
@@ -495,19 +508,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=JeEHGxdkqz6ereSqAk5VWDPuAn4AnITDCLTiEBnN%2Faw%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/6f9e5e52-c601-400b-ab2b-9abedbcb7dd3.jpeg"
-  },
-  {
-   "id": "NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
-   "title": "Airline Tycoon 2 Falcon Airlines",
-   "store": "Fanatical",
-   "price": 5.69,
-   "regular": 5.99,
-   "savings": 5,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-falcon-airlines-dlc/cover-180-f9a85a.jpg"
   },
   {
    "id": "RLvbhHaMktvde0Lw5FAG8Ir4XFCi1ypH5yW8NSlN1%2FU%3D",

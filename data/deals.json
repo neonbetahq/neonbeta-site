@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:58:46+00:00",
+ "updated": "2026-11-19T12:58:41+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1150,6 +1150,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   },
   {
+   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "title": "AI Lab Tycoon",
+   "store": "Steam",
+   "price": 19.99,
+   "regular": 24.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
+  },
+  {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
    "store": "Fanatical",
@@ -1213,19 +1226,6 @@
    "release": "2022-03-29",
    "url": "https://www.cheapshark.com/redirect?dealID=5RKAssi25PRBzW7QVs1wHwhiRf0BbPWwFlRgLtrGzAc%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
-  },
-  {
-   "id": "XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
-   "title": "Aurye Clicker",
-   "store": "Steam",
-   "price": 1.2,
-   "regular": 19.98,
-   "savings": 94,
-   "hl": false,
-   "low": null,
-   "release": "2024-07-26",
-   "url": "https://www.cheapshark.com/redirect?dealID=XDpXfQvj8MIPHzy%2B7Zd619AEsP4wTPkXVSbfLTD4PbM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092750/capsule_231x87.jpg?t=1741708346"
   },
   {
    "id": "wgjp9YefeH2sfjSIJruUtRTX6X1A7tKt%2BYVCH%2FL8W4o%3D",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T18:44:30+00:00",
+ "updated": "2026-11-19T00:53:14+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1176,6 +1176,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449550/capsule_231x87.jpg?t=1715250064"
   },
   {
+   "id": "MdHV0NbJ9ZUonCoVlKXd5wMf3W5iK%2BWVNa3B3RZqXMA%3D",
+   "title": "Computer Physics Simulator 2020",
+   "store": "Steam",
+   "price": 0.74,
+   "regular": 2.99,
+   "savings": 75,
+   "hl": false,
+   "low": null,
+   "release": "2020-03-31",
+   "url": "https://www.cheapshark.com/redirect?dealID=MdHV0NbJ9ZUonCoVlKXd5wMf3W5iK%2BWVNa3B3RZqXMA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1265410/capsule_231x87.jpg?t=1746971857"
+  },
+  {
    "id": "r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
    "title": "Streamer Simulator",
    "store": "Steam",
@@ -1291,19 +1304,6 @@
    "release": "2011-10-11",
    "url": "https://www.cheapshark.com/redirect?dealID=vHVQzmF08pw1Gg%2FXIFTFi1bAcUUULFwgmN4g3DgqI9U%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
-  },
-  {
-   "id": "05sLG6iKtfPRhTxs%2Bw233208m2H8tZRUKr9by5F7nCQ%3D",
-   "title": "Airline Tycoon 2: GOLD",
-   "store": "Steam",
-   "price": 3.99,
-   "regular": 19.99,
-   "savings": 80,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=05sLG6iKtfPRhTxs%2Bw233208m2H8tZRUKr9by5F7nCQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/18524/capsule_231x87.jpg?t=1447449789"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:45:11+00:00",
+ "updated": "2026-11-20T06:58:03+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -53,19 +53,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/d01febb4-15e9-4ca6-b848-05928a5d9077.jpeg"
-  },
-  {
-   "id": "B3J2KKxbx6K3GYCG0If552sEY4%2FE%2FjUWSVLO%2FpQJRnM%3D",
-   "title": "XCOM: Ultimate Collection",
-   "store": "Fanatical",
-   "price": 49.12,
-   "regular": 57.12,
-   "savings": 14,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=B3J2KKxbx6K3GYCG0If552sEY4%2FE%2FjUWSVLO%2FpQJRnM%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/xcom-ultimate-collection/cover-180-beba12.jpg"
   },
   {
    "id": "YS0wmYxddaLm0x7Gc2lP%2FUEvH2q%2BAqemXRkAooVUgcM%3D",
@@ -131,19 +118,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=fDEez1BBVP8UaD9CKUl2Km3XLFJ4jrbXy0548Z9Vf9Y%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/7f82bdc9-4d47-4ec5-ba28-5c8cfeda485a.jpeg"
-  },
-  {
-   "id": "ncDdj6VQYusEhxMByuoAY9m%2FebOzL2aOgbA127lnxTE%3D",
-   "title": "XCOM 2 Collection",
-   "store": "Fanatical",
-   "price": 35.09,
-   "regular": 39.99,
-   "savings": 12,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=ncDdj6VQYusEhxMByuoAY9m%2FebOzL2aOgbA127lnxTE%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/xcom-2-collection/cover-180-904855.jpg"
   },
   {
    "id": "uDjymE1FkvSRQ06nSCzn0NV2DDNti4vFBCUb1XuSsXI%3D",
@@ -510,43 +484,30 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/6f9e5e52-c601-400b-ab2b-9abedbcb7dd3.jpeg"
   },
   {
-   "id": "RLvbhHaMktvde0Lw5FAG8Ir4XFCi1ypH5yW8NSlN1%2FU%3D",
-   "title": "Sid Meiers Civilization VI",
+   "id": "NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
+   "title": "Airline Tycoon 2 Falcon Airlines",
    "store": "Fanatical",
-   "price": 59.09,
-   "regular": 59.99,
-   "savings": 2,
+   "price": 5.69,
+   "regular": 5.99,
+   "savings": 5,
    "hl": false,
-   "low": 2.36,
-   "release": "2016-10-20",
-   "url": "https://www.cheapshark.com/redirect?dealID=RLvbhHaMktvde0Lw5FAG8Ir4XFCi1ypH5yW8NSlN1%2FU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=NIJ795r6kyHqRkk9V2Vmv2rlm%2BzG89iYJN%2FyFtybKJ4%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-falcon-airlines-dlc/cover-180-f9a85a.jpg"
   },
   {
-   "id": "usLVN2rl2qvgkYC7g3eBCzyL11aFMCkCK5qLXwA%2Bo48%3D",
-   "title": "Homeworld: Deserts of Kharak",
+   "id": "i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
+   "title": "Airline Tycoon 2 Honey Airlines",
    "store": "Fanatical",
-   "price": 49.24,
-   "regular": 49.99,
-   "savings": 2,
+   "price": 5.69,
+   "regular": 5.99,
+   "savings": 5,
    "hl": false,
-   "low": 3.57,
-   "release": "2016-01-20",
-   "url": "https://www.cheapshark.com/redirect?dealID=usLVN2rl2qvgkYC7g3eBCzyL11aFMCkCK5qLXwA%2Bo48%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
-  },
-  {
-   "id": "H4oQPLbDB3jq%2BSH%2FimGRORL9KNsyizEi6HkS9KQdl8Q%3D",
-   "title": "Bulletstorm: Full Clip Edition",
-   "store": "Fanatical",
-   "price": 39.39,
-   "regular": 39.99,
-   "savings": 2,
-   "hl": false,
-   "low": 3.39,
-   "release": "2017-04-07",
-   "url": "https://www.cheapshark.com/redirect?dealID=H4oQPLbDB3jq%2BSH%2FimGRORL9KNsyizEi6HkS9KQdl8Q%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/501590/capsule_231x87.jpg?t=1782157737"
+   "low": null,
+   "release": "2012-04-19",
+   "url": "https://www.cheapshark.com/redirect?dealID=i9MV6MaO1VgkHl6CBchtRNLGU3xbYE67WG9HvAHaYsc%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/airline-tycoon-2-honey-airlines-dlc/cover-180-ec562d.jpg"
   },
   {
    "id": "2EBZFMKJmX5oxhV0IW8SuCOpGbCOQLBpaHRPlE%2FIpG8%3D",
@@ -562,32 +523,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2533370/capsule_231x87.jpg?t=1699552797"
   },
   {
-   "id": "8JT0zjm07tiL6%2Bt1hK6WY65ecCor1ZpQfT7t1taVKx0%3D",
-   "title": "Painkiller",
-   "store": "Fanatical",
-   "price": 39.39,
-   "regular": 39.99,
-   "savings": 2,
-   "hl": false,
-   "low": 7.19,
-   "release": "2025-10-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=8JT0zjm07tiL6%2Bt1hK6WY65ecCor1ZpQfT7t1taVKx0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300120/2d3fd1096153816c18349faff897271e93eb1840/capsule_231x87.jpg?t=1790864733"
-  },
-  {
-   "id": "O6yw6NogE3rNV24vLUuXm7KFeRNpMhTUNZobCWAd%2FnQ%3D",
-   "title": "Penn and Teller VR: Frankly Unfair, Unkind, Unnecessary, and Underhanded",
-   "store": "Fanatical",
-   "price": 19.69,
-   "regular": 19.99,
-   "savings": 2,
-   "hl": false,
-   "low": 1.6,
-   "release": "2019-06-27",
-   "url": "https://www.cheapshark.com/redirect?dealID=O6yw6NogE3rNV24vLUuXm7KFeRNpMhTUNZobCWAd%2FnQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/677610/capsule_231x87.jpg?t=1573062026"
-  },
-  {
    "id": "uavUlpe4JgaTElMjDlcD8Gzv4TgKV5KTju19u39TQRg%3D",
    "title": "King Arthur II",
    "store": "Fanatical",
@@ -599,19 +534,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=uavUlpe4JgaTElMjDlcD8Gzv4TgKV5KTju19u39TQRg%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/8755a35f-40f1-4921-977e-a6ab0befcc49.jpeg"
-  },
-  {
-   "id": "fmddwl8BS76iUN29lenVQwYiU3XHcZlSXf67qgRu0%2FI%3D",
-   "title": "Bulletstorm: Full Clip Edition Duke Nukem Bundle",
-   "store": "Fanatical",
-   "price": 38.98,
-   "regular": 39.58,
-   "savings": 2,
-   "hl": false,
-   "low": 3.3,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=fmddwl8BS76iUN29lenVQwYiU3XHcZlSXf67qgRu0%2FI%3D",
-   "thumb": "https://sttc.gamersgate.com/images/product/bulletstorm-full-clip-edition-duke-nukem-bundle/cover-180-6bc4ce.jpg"
   },
   {
    "id": "IS4Q36wHpskHedM65xS4wtQrFph%2Bvim3R7waXua6Nrs%3D",
@@ -881,7 +803,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 6.99,
    "release": "2018-05-03",
    "url": "https://www.cheapshark.com/redirect?dealID=L97mbM4b54JkMxFBGXBxqD%2B4BtkjCwdQ9PL9Q3T0BSM%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/455980/01eaf3b2ad11a9a313b8f689fa386068faa37f7b/capsule_231x87.jpg?t=1769435272"
@@ -894,7 +816,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 1.99,
    "release": "2011-02-03",
    "url": "https://www.cheapshark.com/redirect?dealID=dvjRFohvMotXehFEOi1Yq53sbL58RLMHnQ2rGhXrLiU%3D",
    "thumb": "https://images.greenmangaming.com/1b925b9937c542f69259f0599f833861/7120a34217db47ea88b3d8d405fceec5.jpg"
@@ -907,7 +829,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 1.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=3zH6OPTsuxNK3EcpdB9%2F4hDTu0XmnwZyvWGWPo707XQ%3D",
    "thumb": "https://cdn.humblebundle.com/misc/files/hashed/ebff92611f30b33fb258fe540f3676f84a35e0d4.jpg"
@@ -920,7 +842,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 1.79,
    "release": "2016-03-31",
    "url": "https://www.cheapshark.com/redirect?dealID=AMGUdw9JOJlm8XhA4N2Q1IChDpXYGfZSwPA25p5ouTs%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/437000/capsule_231x87.jpg?t=1774234331"
@@ -933,23 +855,10 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 2.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=wprD21J9klyaMd5goLzKF8o21hjFK%2Bu6nIipjDxhEgI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707350/capsule_231x87.jpg?t=1671433131"
-  },
-  {
-   "id": "cNCrfmNaFZWH8WbWnKIbb%2FZGT7usYEG8LpUQm8JAUKE%3D",
-   "title": "Real Farm  Gold Edition",
-   "store": "Fanatical",
-   "price": 19.59,
-   "regular": 19.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2021-06-24",
-   "url": "https://www.cheapshark.com/redirect?dealID=cNCrfmNaFZWH8WbWnKIbb%2FZGT7usYEG8LpUQm8JAUKE%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1321220/capsule_231x87.jpg?t=1751544247"
   },
   {
    "id": "D4PMl1iBuUxTMhBF%2FUlQZwLWDhLtho6tTOt3Ww6wwC8%3D",
@@ -959,7 +868,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 2.37,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=D4PMl1iBuUxTMhBF%2FUlQZwLWDhLtho6tTOt3Ww6wwC8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/capsule_231x87.jpg?t=1580374672"
@@ -1002,6 +911,97 @@
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
+  },
+  {
+   "id": "MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
+   "title": "Craft The World",
+   "store": "Fanatical",
+   "price": 18.61,
+   "regular": 18.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2014-11-24",
+   "url": "https://www.cheapshark.com/redirect?dealID=MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248390/capsule_231x87.jpg?t=1782400980"
+  },
+  {
+   "id": "S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
+   "title": "Paws: Pitter Patter Edition",
+   "store": "Fanatical",
+   "price": 17.63,
+   "regular": 17.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
+   "thumb": "https://images.gog-statics.com/676a646aacdbbb862d2c15f225ea4390c02a4691c9027572a5d7389f84e84df2_product_tile_117h.webp"
+  },
+  {
+   "id": "PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
+   "title": "Mad Games Tycoon",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2014-11-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/341000/capsule_231x87.jpg?t=1740737867"
+  },
+  {
+   "id": "B6Ci%2BPOAVHrclzI9Q26%2FXHkC1S07T2OBhmxOC6RV4ws%3D",
+   "title": "Obscuritas",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2016-03-17",
+   "url": "https://www.cheapshark.com/redirect?dealID=B6Ci%2BPOAVHrclzI9Q26%2FXHkC1S07T2OBhmxOC6RV4ws%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/441680/capsule_231x87.jpg?t=1667177107"
+  },
+  {
+   "id": "K8qdwCNGRfX2ajPlPFulcDsj5jpN%2Bg9sXbcw%2FqAftvY%3D",
+   "title": "Fenix Rage",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2014-09-24",
+   "url": "https://www.cheapshark.com/redirect?dealID=K8qdwCNGRfX2ajPlPFulcDsj5jpN%2Bg9sXbcw%2FqAftvY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294460/capsule_231x87.jpg?t=1666992844"
+  },
+  {
+   "id": "YBwVKUhQoOMfhYNG6vPQPNiyzzZpSxEaKCEiFT0Xi8s%3D",
+   "title": "Shelter 2",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2015-03-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=YBwVKUhQoOMfhYNG6vPQPNiyzzZpSxEaKCEiFT0Xi8s%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275100/capsule_231x87.jpg?t=1762857307"
+  },
+  {
+   "id": "8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
+   "title": "Lost Horizon 2",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2015-10-01",
+   "url": "https://www.cheapshark.com/redirect?dealID=8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395560/capsule_231x87.jpg?t=1792652674"
   },
   {
    "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
@@ -1153,9 +1153,9 @@
    "id": "%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
    "title": "Legends of Persia",
    "store": "Fanatical",
-   "price": 19.19,
+   "price": 1.59,
    "regular": 19.99,
-   "savings": 4,
+   "savings": 92,
    "hl": false,
    "low": null,
    "release": "2014-06-03",
@@ -1171,7 +1171,7 @@
    "savings": 20,
    "hl": false,
    "low": null,
-   "release": null,
+   "release": "2026-11-18",
    "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
   },

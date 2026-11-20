@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:49:53+00:00",
+ "updated": "2026-11-20T00:45:11+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1046,6 +1046,32 @@
  "new": [],
  "popular": [
   {
+   "id": "iJ5XpmOY7eAFYjqlnmE7s3AYCk8pWg56apCLwAmt51k%3D",
+   "title": "Overlord: Fellowship of Evil",
+   "store": "Steam",
+   "price": 3.99,
+   "regular": 9.99,
+   "savings": 60,
+   "hl": false,
+   "low": null,
+   "release": "2015-10-19",
+   "url": "https://www.cheapshark.com/redirect?dealID=iJ5XpmOY7eAFYjqlnmE7s3AYCk8pWg56apCLwAmt51k%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306670/capsule_231x87.jpg?t=1625582601"
+  },
+  {
+   "id": "%2Bc4t%2B15qJmnMyC6dhj%2FmMbEOIWkdfZFF4ih6S1lCCv0%3D",
+   "title": "World Ship Simulator",
+   "store": "Steam",
+   "price": 3.99,
+   "regular": 19.99,
+   "savings": 80,
+   "hl": false,
+   "low": null,
+   "release": "2015-11-17",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Bc4t%2B15qJmnMyC6dhj%2FmMbEOIWkdfZFF4ih6S1lCCv0%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403980/capsule_231x87.jpg?t=1726150481"
+  },
+  {
    "id": "qxr8HnuXt%2B6Ixr6M1oT%2FzTlfYGYbU2PlFSlizv4kN3w%3D",
    "title": "World Ship Simulator",
    "store": "Fanatical",
@@ -1072,16 +1098,42 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
+   "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
+   "title": "Pro Rugby Manager 2015",
+   "store": "Steam",
+   "price": 0.99,
+   "regular": 9.99,
+   "savings": 90,
+   "hl": false,
+   "low": null,
+   "release": "2014-09-18",
+   "url": "https://www.cheapshark.com/redirect?dealID=G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
+  },
+  {
    "id": "EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Fanatical",
-   "price": 9.19,
+   "price": 0.79,
    "regular": 9.99,
-   "savings": 8,
+   "savings": 92,
    "hl": false,
    "low": null,
    "release": "2014-09-18",
    "url": "https://www.cheapshark.com/redirect?dealID=EPpvjPL3F%2FAsaoHsVXc%2FuEIqvYClfJr50%2BwQ%2BJjvr7E%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
+  },
+  {
+   "id": "MIhFXLCzLvyXSVyKmh%2BcJc6subv6dbhtHeaNLzJuwcA%3D",
+   "title": "Pro Rugby Manager 2015",
+   "store": "Green Man Gaming",
+   "price": 1.0,
+   "regular": 9.99,
+   "savings": 90,
+   "hl": false,
+   "low": null,
+   "release": "2014-09-18",
+   "url": "https://www.cheapshark.com/redirect?dealID=MIhFXLCzLvyXSVyKmh%2BcJc6subv6dbhtHeaNLzJuwcA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
@@ -1109,6 +1161,19 @@
    "release": "2014-06-03",
    "url": "https://www.cheapshark.com/redirect?dealID=%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
+  },
+  {
+   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "title": "AI Lab Tycoon",
+   "store": "Steam",
+   "price": 19.99,
+   "regular": 24.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
   },
   {
    "id": "sjeA4bKimM%2BetDFxaBKwVd8cH8QeHuIjwmlWVs1dBLY%3D",
@@ -1148,19 +1213,6 @@
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=DF63jrqHwsVvywSaZshoT%2BTJ4W1m48WzRi7oXslFcL8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
-  },
-  {
-   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "title": "AI Lab Tycoon",
-   "store": "Steam",
-   "price": 19.99,
-   "regular": 24.99,
-   "savings": 20,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
   },
   {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
@@ -1252,58 +1304,6 @@
    "release": "2020-09-10",
    "url": "https://www.cheapshark.com/redirect?dealID=l761pZgqT8pJPJ4ZJFu0He5ZsBNPNgdVAnwiIIU%2FPoI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/860900/capsule_231x87.jpg?t=1628508063"
-  },
-  {
-   "id": "ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",
-   "title": "Callparin 2",
-   "store": "Steam",
-   "price": 19.48,
-   "regular": 25.98,
-   "savings": 25,
-   "hl": false,
-   "low": null,
-   "release": "2020-12-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZlfGCB1%2Fe7ol%2FZpg0Pnkl7QW6sGwod9YRDVQpbOd9PI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1464320/capsule_231x87.jpg?t=1733048412"
-  },
-  {
-   "id": "qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
-   "title": "The Mansion of the Macabre",
-   "store": "GOG",
-   "price": 5.95,
-   "regular": 19.85,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2024-10-02",
-   "url": "https://www.cheapshark.com/redirect?dealID=qz7s5Ah%2BkDtlOPH5KgxazTgRcel9nBcdNj9B1y3QZGk%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3189010/a1a02eb2d11957331a54c70fccb7427da875fdc5/capsule_231x87.jpg?t=1788432628"
-  },
-  {
-   "id": "v871jcnVT8tm7Zm05yZEdbci%2BmPI58gx7dnBSIFte5o%3D",
-   "title": "Crossroads: Escaping the Dark Collectors Edition",
-   "store": "Steam",
-   "price": 6.99,
-   "regular": 19.99,
-   "savings": 65,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=v871jcnVT8tm7Zm05yZEdbci%2BmPI58gx7dnBSIFte5o%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2201340/capsule_231x87.jpg?t=1764597409"
-  },
-  {
-   "id": "vHVQzmF08pw1Gg%2FXIFTFi1bAcUUULFwgmN4g3DgqI9U%3D",
-   "title": "Airline Tycoon 2",
-   "store": "Steam",
-   "price": 3.99,
-   "regular": 19.99,
-   "savings": 80,
-   "hl": false,
-   "low": null,
-   "release": "2011-10-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=vHVQzmF08pw1Gg%2FXIFTFi1bAcUUULFwgmN4g3DgqI9U%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201490/capsule_231x87.jpg?t=1730279688"
   }
  ]
 }

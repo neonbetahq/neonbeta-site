@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:48:14+00:00",
+ "updated": "2026-11-21T06:54:30+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -91,7 +91,20 @@
    "low": null,
    "release": "2024-03-29",
    "url": "https://www.cheapshark.com/redirect?dealID=KpCYBX4Jk4oZif6HYlYO3jW9zjhhbCPjUVugamIhTMg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1430760/capsule_231x87.jpg?t=1791741052"
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1430760/capsule_231x87.jpg?t=1795208840"
+  },
+  {
+   "id": "BWfQuXQExCFew2oNi%2FZE6KjvKJS3uRl7f0q1P%2BrEnns%3D",
+   "title": "RPG Maker MV - NEONPIXEL - Anime Expedition Tileset I",
+   "store": "Fanatical",
+   "price": 11.99,
+   "regular": 14.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=BWfQuXQExCFew2oNi%2FZE6KjvKJS3uRl7f0q1P%2BrEnns%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/b81ea010-58a0-41e6-8f6b-4215d678c6b8.jpeg"
   },
   {
    "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
@@ -495,19 +508,6 @@
    "release": "2010-11-30",
    "url": "https://www.cheapshark.com/redirect?dealID=3XDsag5tJG4RhKkz9k8dTR670qrEsDxEuL7iKMhlZLI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40380/capsule_231x87.jpg?t=1570019041"
-  },
-  {
-   "id": "JeEHGxdkqz6ereSqAk5VWDPuAn4AnITDCLTiEBnN%2Faw%3D",
-   "title": "RPG Maker MZ - Essentials Set",
-   "store": "Fanatical",
-   "price": 9.49,
-   "regular": 9.99,
-   "savings": 5,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=JeEHGxdkqz6ereSqAk5VWDPuAn4AnITDCLTiEBnN%2Faw%3D",
-   "thumb": "https://cdn.fanatical.com/production/product/400x225/6f9e5e52-c601-400b-ab2b-9abedbcb7dd3.jpeg"
   },
   {
    "id": "uavUlpe4JgaTElMjDlcD8Gzv4TgKV5KTju19u39TQRg%3D",

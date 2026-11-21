@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:54:30+00:00",
+ "updated": "2026-11-21T12:41:38+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -744,6 +744,19 @@
    "thumb": "https://images.greenmangaming.com/828604b5cd78474d82f348ec8fabafdd/53d83c2cfe1e42b6a1b7ef627f75a0da.jpg"
   },
   {
+   "id": "ThkGi551kIlleqwnV5OlndRWfuHresamy4AlD6f0pGE%3D",
+   "title": "Panzer Dragoon: Remake",
+   "store": "Fanatical",
+   "price": 24.49,
+   "regular": 24.99,
+   "savings": 2,
+   "hl": false,
+   "low": 1.99,
+   "release": "2020-09-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=ThkGi551kIlleqwnV5OlndRWfuHresamy4AlD6f0pGE%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1178880/capsule_231x87.jpg?t=1777286000"
+  },
+  {
    "id": "PMVChXXwCoL44rWjUfunaHpC%2B7ScXePwI55L5mtab%2BQ%3D",
    "title": "Battle vs. Chess",
    "store": "Fanatical",
@@ -868,10 +881,23 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 0.99,
+   "low": null,
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
+  },
+  {
+   "id": "4cOaYoSogLMQxJCabT5USN01my2mrWp9AAMDJgRTJjI%3D",
+   "title": "Layers of Fear 2 (2019)",
+   "store": "Fanatical",
+   "price": 19.59,
+   "regular": 19.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=4cOaYoSogLMQxJCabT5USN01my2mrWp9AAMDJgRTJjI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1029890/6d442a0a112da942a1016eb6655ee4710feb78c3/capsule_231x87.jpg?t=1771007594"
   },
   {
    "id": "MdvLz5pgr07m0VtpKgP6CI8fxLwUWjaAKJWNldlcCtk%3D",
@@ -976,32 +1002,6 @@
    "release": "2016-06-13",
    "url": "https://www.cheapshark.com/redirect?dealID=241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277700/capsule_231x87.jpg?t=1769974227"
-  },
-  {
-   "id": "fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "title": "Fortified",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-02-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/334210/capsule_231x87.jpg?t=1622741821"
-  },
-  {
-   "id": "51Tem6pI6rIm9zS0wSgggGSxHbsm2rTX8Vag%2BIkeNII%3D",
-   "title": "Lethe - Episode One",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-08-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=51Tem6pI6rIm9zS0wSgggGSxHbsm2rTX8Vag%2BIkeNII%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/407780/capsule_231x87.jpg?t=1573500166"
   },
   {
    "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:41:38+00:00",
+ "updated": "2026-11-21T18:33:19+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1254,6 +1254,19 @@
    "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   },
   {
+   "id": "aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
    "id": "cQSdWuadv%2BaCGuGZa5gLO7NlL0mwjgKWNrGArFogPQ8%3D",
    "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
    "store": "Steam",
@@ -1291,19 +1304,6 @@
    "release": "2020-03-31",
    "url": "https://www.cheapshark.com/redirect?dealID=MdHV0NbJ9ZUonCoVlKXd5wMf3W5iK%2BWVNa3B3RZqXMA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1265410/capsule_231x87.jpg?t=1746971857"
-  },
-  {
-   "id": "r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
-   "title": "Streamer Simulator",
-   "store": "Steam",
-   "price": 0.79,
-   "regular": 0.99,
-   "savings": 20,
-   "hl": false,
-   "low": null,
-   "release": "2022-12-12",
-   "url": "https://www.cheapshark.com/redirect?dealID=r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519180/capsule_231x87.jpg?t=1503048665"
   }
  ]
 }

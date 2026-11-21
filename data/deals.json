@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:50:36+00:00",
+ "updated": "2026-11-21T00:48:14+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1124,6 +1124,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/403980/capsule_231x87.jpg?t=1726150481"
   },
   {
+   "id": "S7rs3aNIvTh4cGOi4FAdgs37OK733Fh0%2B2Tr4qVG8SE%3D",
+   "title": "Art of Murder - The Secret Files",
+   "store": "Steam",
+   "price": 0.99,
+   "regular": 4.99,
+   "savings": 80,
+   "hl": false,
+   "low": null,
+   "release": "2011-02-15",
+   "url": "https://www.cheapshark.com/redirect?dealID=S7rs3aNIvTh4cGOi4FAdgs37OK733Fh0%2B2Tr4qVG8SE%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
+  },
+  {
    "id": "iRQlnKqHPq1MMxQKvTSVm2elex9kcah%2BawPsPgfI9wo%3D",
    "title": "Art of Murder - The Secret Files",
    "store": "Fanatical",
@@ -1241,6 +1254,19 @@
    "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   },
   {
+   "id": "cQSdWuadv%2BaCGuGZa5gLO7NlL0mwjgKWNrGArFogPQ8%3D",
+   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
+   "store": "Steam",
+   "price": 0.99,
+   "regular": 4.99,
+   "savings": 80,
+   "hl": false,
+   "low": null,
+   "release": "2011-06-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=cQSdWuadv%2BaCGuGZa5gLO7NlL0mwjgKWNrGArFogPQ8%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
+  },
+  {
    "id": "l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
    "store": "Fanatical",
@@ -1252,19 +1278,6 @@
    "release": "2011-06-21",
    "url": "https://www.cheapshark.com/redirect?dealID=l29yYOn365zrMU%2FyCOG4VC37Y%2BKUx87ovp%2Fn0SgKUmI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
-  },
-  {
-   "id": "GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
-   "title": "Chinese Empire",
-   "store": "Steam",
-   "price": 16.54,
-   "regular": 30.98,
-   "savings": 47,
-   "hl": false,
-   "low": null,
-   "release": "2024-03-11",
-   "url": "https://www.cheapshark.com/redirect?dealID=GS8Poz7AmVjG3AoqKcEy4BMy6scci7F8Td81n%2FsZMis%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449550/capsule_231x87.jpg?t=1715250064"
   },
   {
    "id": "MdHV0NbJ9ZUonCoVlKXd5wMf3W5iK%2BWVNa3B3RZqXMA%3D",
@@ -1291,19 +1304,6 @@
    "release": "2022-12-12",
    "url": "https://www.cheapshark.com/redirect?dealID=r3Zi%2FXQ%2FjArB0Bi4TLy%2Bsfqkk56%2BpfmPJd0rW2%2BvW%2F4%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/519180/capsule_231x87.jpg?t=1503048665"
-  },
-  {
-   "id": "HhGnAz%2Bw5SiphskhGHnR61E%2Fr4dKmAdeZAftcaZvYTQ%3D",
-   "title": "Abermore",
-   "store": "Green Man Gaming",
-   "price": 1.6,
-   "regular": 15.99,
-   "savings": 90,
-   "hl": false,
-   "low": null,
-   "release": "2022-03-29",
-   "url": "https://www.cheapshark.com/redirect?dealID=HhGnAz%2Bw5SiphskhGHnR61E%2Fr4dKmAdeZAftcaZvYTQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1569220/capsule_231x87.jpg?t=1748436871"
   }
  ]
 }

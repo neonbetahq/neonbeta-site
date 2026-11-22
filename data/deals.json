@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:40:24+00:00",
+ "updated": "2026-11-22T06:53:50+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -523,19 +523,6 @@
    "thumb": "https://cdn.fanatical.com/production/product/400x225/8755a35f-40f1-4921-977e-a6ab0befcc49.jpeg"
   },
   {
-   "id": "IS4Q36wHpskHedM65xS4wtQrFph%2Bvim3R7waXua6Nrs%3D",
-   "title": "Miner's Mettle",
-   "store": "Fanatical",
-   "price": 24.61,
-   "regular": 24.99,
-   "savings": 2,
-   "hl": false,
-   "low": 1.24,
-   "release": "2021-11-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=IS4Q36wHpskHedM65xS4wtQrFph%2Bvim3R7waXua6Nrs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1058800/capsule_231x87.jpg?t=1721234837"
-  },
-  {
    "id": "5GaeTL%2BnEje6UobUWt0LiXCEEeC4bQGXD80vVNYlIsI%3D",
    "title": "Project Remedium",
    "store": "Fanatical",
@@ -881,7 +868,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": null,
+   "low": 0.99,
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
@@ -1002,6 +989,19 @@
    "release": "2016-06-13",
    "url": "https://www.cheapshark.com/redirect?dealID=241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277700/capsule_231x87.jpg?t=1769974227"
+  },
+  {
+   "id": "fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
+   "title": "Fortified",
+   "store": "Fanatical",
+   "price": 14.69,
+   "regular": 14.99,
+   "savings": 2,
+   "hl": false,
+   "low": null,
+   "release": "2016-02-03",
+   "url": "https://www.cheapshark.com/redirect?dealID=fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/334210/capsule_231x87.jpg?t=1622741821"
   },
   {
    "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
@@ -1215,19 +1215,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
-   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "title": "AI Lab Tycoon",
-   "store": "Steam",
-   "price": 19.99,
-   "regular": 24.99,
-   "savings": 20,
-   "hl": false,
-   "low": null,
-   "release": "2026-11-18",
-   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
-  },
-  {
    "id": "sjeA4bKimM%2BetDFxaBKwVd8cH8QeHuIjwmlWVs1dBLY%3D",
    "title": "Grim Facade: Mystery of Venice Collectors Edition",
    "store": "Steam",
@@ -1252,6 +1239,19 @@
    "release": "2023-03-06",
    "url": "https://www.cheapshark.com/redirect?dealID=4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2052760/capsule_231x87.jpg?t=1791744402"
+  },
+  {
+   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "title": "AI Lab Tycoon",
+   "store": "Steam",
+   "price": 19.99,
+   "regular": 24.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": "2026-11-18",
+   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
   },
   {
    "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",

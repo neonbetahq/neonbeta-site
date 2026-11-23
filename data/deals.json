@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:34:34+00:00",
+ "updated": "2026-11-23T00:46:25+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1189,19 +1189,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
   },
   {
-   "id": "EPiYwTqngdXZufJt1%2FLCzM36CnIejdvLoET9gtVybRg%3D",
-   "title": "Rally Panic with the BRO!",
-   "store": "Steam",
-   "price": 2.69,
-   "regular": 2.99,
-   "savings": 10,
-   "hl": false,
-   "low": null,
-   "release": "2026-11-20",
-   "url": "https://www.cheapshark.com/redirect?dealID=EPiYwTqngdXZufJt1%2FLCzM36CnIejdvLoET9gtVybRg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111930/642cd5691fbaa49058529ebc90e6375a81e2b359/capsule_231x87.jpg?t=1795288769"
-  },
-  {
    "id": "IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
    "title": "Legends of Persia",
    "store": "Green Man Gaming",
@@ -1241,6 +1228,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/555820/capsule_231x87.jpg?t=1764601485"
   },
   {
+   "id": "EPiYwTqngdXZufJt1%2FLCzM36CnIejdvLoET9gtVybRg%3D",
+   "title": "Rally Panic with the BRO!",
+   "store": "Steam",
+   "price": 2.69,
+   "regular": 2.99,
+   "savings": 10,
+   "hl": false,
+   "low": null,
+   "release": "2026-11-20",
+   "url": "https://www.cheapshark.com/redirect?dealID=EPiYwTqngdXZufJt1%2FLCzM36CnIejdvLoET9gtVybRg%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5111930/642cd5691fbaa49058529ebc90e6375a81e2b359/capsule_231x87.jpg?t=1795288769"
+  },
+  {
    "id": "4jdRy2Bs8NWTTZc3ZtJYR5eIUpNy%2F1fyhXM0LIG9NPA%3D",
    "title": "House Builder VR",
    "store": "Steam",
@@ -1267,6 +1267,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
   },
   {
+   "id": "nANkFZmqbg3SNZowZHFM1TJo2lgwy602pZwrFXQ78HQ%3D",
+   "title": "FEAR background",
+   "store": "Steam",
+   "price": 0.99,
+   "regular": 9.99,
+   "savings": 90,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=nANkFZmqbg3SNZowZHFM1TJo2lgwy602pZwrFXQ78HQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1673140/capsule_231x87.jpg?t=1642767973"
+  },
+  {
    "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
    "title": "Recovery Search and Rescue Simulation",
    "store": "Fanatical",
@@ -1291,19 +1304,6 @@
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
-  },
-  {
-   "id": "cQSdWuadv%2BaCGuGZa5gLO7NlL0mwjgKWNrGArFogPQ8%3D",
-   "title": "Chronicles of Mystery - Secret of the Lost Kingdom",
-   "store": "Steam",
-   "price": 0.99,
-   "regular": 4.99,
-   "savings": 80,
-   "hl": false,
-   "low": null,
-   "release": "2011-06-21",
-   "url": "https://www.cheapshark.com/redirect?dealID=cQSdWuadv%2BaCGuGZa5gLO7NlL0mwjgKWNrGArFogPQ8%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837110/capsule_231x87.jpg?t=1587033324"
   }
  ]
 }

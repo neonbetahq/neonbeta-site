@@ -1,20 +1,7 @@
 {
- "updated": "2026-11-23T07:13:32+00:00",
+ "updated": "2026-11-23T12:58:37+00:00",
  "source": "CheapShark",
  "deals": [
-  {
-   "id": "u0y0Mu26FV%2BLjprNW0l3yyoiqtsGs4ZY%2FJI7HQrpuL8%3D",
-   "title": "NeverSynth",
-   "store": "Humble",
-   "price": 0.71,
-   "regular": 11.99,
-   "savings": 94,
-   "hl": false,
-   "low": null,
-   "release": "2022-09-15",
-   "url": "https://www.cheapshark.com/redirect?dealID=u0y0Mu26FV%2BLjprNW0l3yyoiqtsGs4ZY%2FJI7HQrpuL8%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2131200/28ed00cfb4c2ccbfa5ea2ede530c682deff22c2f/capsule_231x87.jpg?t=1727876707"
-  },
   {
    "id": "9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
    "title": "The Mythical City",
@@ -55,6 +42,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1825850/capsule_231x87.jpg?t=1725000115"
   },
   {
+   "id": "o%2F4IRnaRjhynQ4VOpGBSBO7tRzUjoTAocUMlvBO6peQ%3D",
+   "title": "Mashiroiro Symphony HD -Love is Pure White-",
+   "store": "Steam",
+   "price": 23.99,
+   "regular": 39.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2024-05-01",
+   "url": "https://www.cheapshark.com/redirect?dealID=o%2F4IRnaRjhynQ4VOpGBSBO7tRzUjoTAocUMlvBO6peQ%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737970/capsule_231x87.jpg?t=1782462825"
+  },
+  {
    "id": "TOuBodFzSBpNV1IInxH1P51epeNs3pqDPYc1LYGiFoA%3D",
    "title": "Pixel Game Maker Series ISEKAI QUARTET Adventure Action Game",
    "store": "Steam",
@@ -66,19 +66,6 @@
    "release": "2021-06-23",
    "url": "https://www.cheapshark.com/redirect?dealID=TOuBodFzSBpNV1IInxH1P51epeNs3pqDPYc1LYGiFoA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1574540/capsule_231x87.jpg?t=1725245032"
-  },
-  {
-   "id": "j%2FDT3BY0Bkuhcngna3bB1Hx0Liy9xS2q7Tb%2BMcojlPU%3D",
-   "title": "RPG Maker MV - House of Horror Music Vol.1",
-   "store": "Humble",
-   "price": 13.99,
-   "regular": 19.99,
-   "savings": 30,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=j%2FDT3BY0Bkuhcngna3bB1Hx0Liy9xS2q7Tb%2BMcojlPU%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/3ecac9161f796a72d507ddb3f95fe8bcdf0601dd.jpeg"
   },
   {
    "id": "o6oGMPFwwS8tKIBrvtf93G%2FbYYx1bReyPhzR1gZOBGE%3D",
@@ -105,6 +92,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=BWfQuXQExCFew2oNi%2FZE6KjvKJS3uRl7f0q1P%2BrEnns%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/b81ea010-58a0-41e6-8f6b-4215d678c6b8.jpeg"
+  },
+  {
+   "id": "iXjHvfN1IPzGDUDK7QJSEtEoLrs%2B%2FdU9bGqJzee%2Bwko%3D",
+   "title": "NATHUHARUCA Door Tilesets 3 for RPG MAKER UNITE",
+   "store": "Epic",
+   "price": 7.19,
+   "regular": 8.99,
+   "savings": 20,
+   "hl": false,
+   "low": null,
+   "release": null,
+   "url": "https://www.cheapshark.com/redirect?dealID=iXjHvfN1IPzGDUDK7QJSEtEoLrs%2B%2FdU9bGqJzee%2Bwko%3D",
+   "thumb": "https://cdn1.epicgames.com/spt-assets/6bbb1f28256f4487861ade0140405ef3/rpg-maker-unite-1eqrr.png"
   },
   {
    "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
@@ -598,7 +598,7 @@
    "low": 2.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=vCmRkxdLeyoDA5T35127OLHTcER%2FhcVWrdpZ6HtpI5Y%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/254981a3a1caccd5b6ce52a9ae35fd64610ad8c4.jpg"
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/f0f6f299-1755-4c9f-bb61-8838b375e54f.jpg"
   },
   {
    "id": "BKPqjaaT3zcgdLs8%2Bm5M2E1HzqhjRjNmrHL%2F84tiH6U%3D",
@@ -702,7 +702,7 @@
    "low": 2.49,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=pwQcdFqGg19rPrVehE%2BtmYe8aC7csiwEpffxu1K2GUg%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/47ff6809173aee0ad7763dfd066b83d52c17355e.jpg"
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/7ef41e4c-f6ca-45c5-9cd2-0036cecaea63.jpg"
   },
   {
    "id": "6PS0JOPZpkCjCJOFBrU5JpMFQrMvrPZHDF3CHzW2a7U%3D",
@@ -806,7 +806,7 @@
    "low": 1.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=3zH6OPTsuxNK3EcpdB9%2F4hDTu0XmnwZyvWGWPo707XQ%3D",
-   "thumb": "https://cdn.humblebundle.com/misc/files/hashed/ebff92611f30b33fb258fe540f3676f84a35e0d4.jpg"
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/4fcaafd2-a9cd-426d-b0dc-f050f3dd7459.jpg"
   },
   {
    "id": "AMGUdw9JOJlm8XhA4N2Q1IChDpXYGfZSwPA25p5ouTs%3D",
@@ -1037,7 +1037,7 @@
    "regular": 39.99,
    "savings": 1,
    "hl": false,
-   "low": 3.99,
+   "low": 5.99,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"

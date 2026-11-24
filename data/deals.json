@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:58:42+00:00",
+ "updated": "2026-11-24T18:48:19+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1150,19 +1150,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
-   "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "title": "Prop Hunt",
-   "store": "Steam",
-   "price": 2.99,
-   "regular": 9.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2021-01-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1509230/capsule_231x87.jpg?t=1667496810"
-  },
-  {
    "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Steam",
@@ -1303,6 +1290,19 @@
    "low": null,
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
+   "id": "aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]

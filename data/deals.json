@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:49:06+00:00",
+ "updated": "2026-11-24T06:58:05+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1150,19 +1150,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
-   "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "title": "Prop Hunt",
-   "store": "Steam",
-   "price": 2.99,
-   "regular": 9.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2021-01-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1509230/capsule_231x87.jpg?t=1667496810"
-  },
-  {
    "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=nANkFZmqbg3SNZowZHFM1TJo2lgwy602pZwrFXQ78HQ%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1673140/capsule_231x87.jpg?t=1642767973"
+  },
+  {
+   "id": "ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "title": "Recovery Search and Rescue Simulation",
+   "store": "Fanatical",
+   "price": 4.79,
+   "regular": 4.99,
+   "savings": 4,
+   "hl": false,
+   "low": null,
+   "release": "2014-01-09",
+   "url": "https://www.cheapshark.com/redirect?dealID=ME74nENLiuU2wEQYCO6MFaDlYUj7HnJQdBq3cGtSq%2Bw%3D",
+   "thumb": "https://sttc.gamersgate.com/images/product/recovery-search-rescue-simulation/cover-180-fc579d.jpg"
   }
  ]
 }

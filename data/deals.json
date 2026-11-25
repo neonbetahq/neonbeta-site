@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:48:24+00:00",
+ "updated": "2026-11-25T20:59:54+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -855,7 +855,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 4.11,
+   "low": null,
    "release": "2013-06-18",
    "url": "https://www.cheapshark.com/redirect?dealID=%2FOF%2B%2F6P%2ByOamnvdvo0eRICcmZMcI5R9zDP%2FZpLK%2BFC8%3D",
    "thumb": "https://sttc.gamersgate.com/images/product/knights-of-pen-paper-1-deluxier-edition/cover-180-373669.jpg"
@@ -868,7 +868,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 0.99,
+   "low": null,
    "release": "2021-06-16",
    "url": "https://www.cheapshark.com/redirect?dealID=Zb0NRQ5amdSu6uyEKtX0Rp9C9m6nzM%2Br0xKEdWrymwU%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1502710/capsule_231x87.jpg?t=1775184848"
@@ -910,7 +910,7 @@
    "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
-   "thumb": "https://images.gog-statics.com/676a646aacdbbb862d2c15f225ea4390c02a4691c9027572a5d7389f84e84df2_product_tile_117h.webp"
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/4e6d4809-1f92-48c6-839a-affeebba2018.jpg"
   },
   {
    "id": "PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
@@ -978,32 +978,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395560/capsule_231x87.jpg?t=1792652674"
   },
   {
-   "id": "241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
-   "title": "On Rusty Trails",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-06-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=241u7XghbcNXP8oiH92M%2BSGKC4tNSPT4aQ27hDYrSS0%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/277700/capsule_231x87.jpg?t=1769974227"
-  },
-  {
-   "id": "fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "title": "Fortified",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2016-02-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=fWGVAdSFCgVLZiPH1n7DDxQfiqSS5fHAoiPvH0D5l%2Bg%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/334210/capsule_231x87.jpg?t=1622741821"
-  },
-  {
    "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
    "title": "The Daedalic Comedy Selection",
    "store": "Fanatical",
@@ -1041,6 +1015,32 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=G9XAa2vdFj%2FHsSxQxOCXAq%2BIKUp3ZAS7VQ%2F5FiSBsZo%3D",
    "thumb": "https://images.gog-statics.com/f98cdeaea1aadd28a179101d57519d04330275e9778f6fb939abb3eeca108ef9_product_tile_117h.webp"
+  },
+  {
+   "id": "l60wq4wDef05g%2FpItCKLbjbb9Gmss0nZcSkUhvFqlyM%3D",
+   "title": "Melty Blood Actress Again Current Code",
+   "store": "Fanatical",
+   "price": 24.74,
+   "regular": 24.99,
+   "savings": 1,
+   "hl": false,
+   "low": 2.49,
+   "release": "2016-04-19",
+   "url": "https://www.cheapshark.com/redirect?dealID=l60wq4wDef05g%2FpItCKLbjbb9Gmss0nZcSkUhvFqlyM%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/411370/capsule_231x87.jpg?t=1671010910"
+  },
+  {
+   "id": "nQhpDZ%2FKNLQnH8S1hN76Jmu6tvrel5pLBOJCiZ9MjgM%3D",
+   "title": "Zombieland: Headshot Fever",
+   "store": "Fanatical",
+   "price": 19.79,
+   "regular": 19.99,
+   "savings": 1,
+   "hl": false,
+   "low": 1.79,
+   "release": "2021-03-25",
+   "url": "https://www.cheapshark.com/redirect?dealID=nQhpDZ%2FKNLQnH8S1hN76Jmu6tvrel5pLBOJCiZ9MjgM%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/23d43230-a929-4e88-a8e3-2453f6889ad2.jpeg"
   }
  ],
  "new": [],
@@ -1056,6 +1056,19 @@
    "low": null,
    "release": "2022-10-07",
    "url": "https://www.cheapshark.com/redirect?dealID=KOMGDRkJU8dGe94zXMEMgdXv6Q67omWwjJxIwV2WdPo%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563130/capsule_231x87.jpg?t=1725014617"
+  },
+  {
+   "id": "uT15MjD7NfjPa1VlXkWeZC8THb2LS04yQmX5eHL0LtI%3D",
+   "title": "SuperPower 3",
+   "store": "GOG",
+   "price": 7.49,
+   "regular": 29.99,
+   "savings": 75,
+   "hl": false,
+   "low": null,
+   "release": "2022-10-07",
+   "url": "https://www.cheapshark.com/redirect?dealID=uT15MjD7NfjPa1VlXkWeZC8THb2LS04yQmX5eHL0LtI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1563130/capsule_231x87.jpg?t=1725014617"
   },
   {
@@ -1291,19 +1304,6 @@
    "release": "2026-11-18",
    "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
-  },
-  {
-   "id": "nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
-   "title": "Construction Simulator 4 - Pocket Edition",
-   "store": "Steam",
-   "price": 4.49,
-   "regular": 14.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2025-11-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

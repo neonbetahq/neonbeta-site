@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:48:19+00:00",
+ "updated": "2026-11-25T06:48:24+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -27,6 +27,19 @@
    "release": "2024-04-28",
    "url": "https://www.cheapshark.com/redirect?dealID=bxhwlCzFJJGMKA2AvCkc7gzoPgycXsSK12ojRJr59EE%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2898750/capsule_231x87.jpg?t=1744483352"
+  },
+  {
+   "id": "oB9Yv%2Fh3IlaBVJ62nQMR2HWLeLC9rJg7zZlE5oLxVcE%3D",
+   "title": "RPG Maker MZ",
+   "store": "Fanatical",
+   "price": 35.99,
+   "regular": 79.99,
+   "savings": 55,
+   "hl": false,
+   "low": null,
+   "release": "2020-08-20",
+   "url": "https://www.cheapshark.com/redirect?dealID=oB9Yv%2Fh3IlaBVJ62nQMR2HWLeLC9rJg7zZlE5oLxVcE%3D",
+   "thumb": "https://cdn.fanatical.com/production/product/400x225/aa66ffe3-98a8-42d6-9f37-c77504f5fcd0.jpeg"
   },
   {
    "id": "gc6mMOoX36HHEP8Ear1ZRcOcFn5dz1KXTvWOA0sVD2E%3D",
@@ -92,19 +105,6 @@
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=BWfQuXQExCFew2oNi%2FZE6KjvKJS3uRl7f0q1P%2BrEnns%3D",
    "thumb": "https://cdn.fanatical.com/production/product/400x225/b81ea010-58a0-41e6-8f6b-4215d678c6b8.jpeg"
-  },
-  {
-   "id": "iXjHvfN1IPzGDUDK7QJSEtEoLrs%2B%2FdU9bGqJzee%2Bwko%3D",
-   "title": "NATHUHARUCA Door Tilesets 3 for RPG MAKER UNITE",
-   "store": "Epic",
-   "price": 7.19,
-   "regular": 8.99,
-   "savings": 20,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=iXjHvfN1IPzGDUDK7QJSEtEoLrs%2B%2FdU9bGqJzee%2Bwko%3D",
-   "thumb": "https://cdn1.epicgames.com/spt-assets/6bbb1f28256f4487861ade0140405ef3/rpg-maker-unite-1eqrr.png"
   },
   {
    "id": "dhIFMSH8cd5YWq%2BlCIl3cEzKu%2FknN%2FlfP5MReKSPPAs%3D",
@@ -1150,6 +1150,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
+   "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
+   "title": "Prop Hunt",
+   "store": "Steam",
+   "price": 2.99,
+   "regular": 9.99,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": "2021-01-22",
+   "url": "https://www.cheapshark.com/redirect?dealID=l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1509230/capsule_231x87.jpg?t=1667496810"
+  },
+  {
    "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Steam",
@@ -1290,19 +1303,6 @@
    "low": null,
    "release": "2025-11-13",
    "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
-  },
-  {
-   "id": "aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
-   "title": "Construction Simulator 4 - Pocket Edition",
-   "store": "GOG",
-   "price": 8.99,
-   "regular": 14.99,
-   "savings": 40,
-   "hl": false,
-   "low": null,
-   "release": "2025-11-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]

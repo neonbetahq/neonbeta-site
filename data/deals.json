@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:59:54+00:00",
+ "updated": "2026-11-26T06:39:52+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1254,19 +1254,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
-   "id": "sjeA4bKimM%2BetDFxaBKwVd8cH8QeHuIjwmlWVs1dBLY%3D",
-   "title": "Grim Facade: Mystery of Venice Collectors Edition",
-   "store": "Steam",
-   "price": 3.49,
-   "regular": 9.99,
-   "savings": 65,
-   "hl": false,
-   "low": null,
-   "release": null,
-   "url": "https://www.cheapshark.com/redirect?dealID=sjeA4bKimM%2BetDFxaBKwVd8cH8QeHuIjwmlWVs1dBLY%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/555820/capsule_231x87.jpg?t=1764601485"
-  },
-  {
    "id": "wjsmZEFws2p2K471oBQ2GW7goczxG%2Bxs1J268z9DPLQ%3D",
    "title": "Prison Tycoon Alcatraz",
    "store": "Steam",
@@ -1293,17 +1280,30 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082410/capsule_231x87.jpg?t=1724958244"
   },
   {
-   "id": "4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "title": "AI Lab Tycoon",
+   "id": "nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
    "store": "Steam",
-   "price": 19.99,
-   "regular": 24.99,
-   "savings": 20,
+   "price": 4.49,
+   "regular": 14.99,
+   "savings": 70,
    "hl": false,
    "low": null,
-   "release": "2026-11-18",
-   "url": "https://www.cheapshark.com/redirect?dealID=4ph7f2PQe7jEe89l%2FTTPfl3GXXc%2BDcsHBZEizKo0zCs%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5015590/80767f5a160f5c3464319c1b33f8328f141d2ce1/capsule_231x87.jpg?t=1795012512"
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
+  },
+  {
+   "id": "aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "GOG",
+   "price": 8.99,
+   "regular": 14.99,
+   "savings": 40,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

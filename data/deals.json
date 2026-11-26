@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-26T06:39:52+00:00",
+ "updated": "2026-11-26T20:53:06+00:00",
  "source": "CheapShark",
  "deals": [
+  {
+   "id": "ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
+   "title": "Hidden Tavern Top-Down 3D",
+   "store": "Steam",
+   "price": 9.99,
+   "regular": 199.99,
+   "savings": 95,
+   "hl": false,
+   "low": null,
+   "release": "2022-02-11",
+   "url": "https://www.cheapshark.com/redirect?dealID=ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1891230/capsule_231x87.jpg?t=1709425848"
+  },
   {
    "id": "9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
    "title": "The Mythical City",
@@ -27,19 +40,6 @@
    "release": "2024-04-28",
    "url": "https://www.cheapshark.com/redirect?dealID=bxhwlCzFJJGMKA2AvCkc7gzoPgycXsSK12ojRJr59EE%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2898750/capsule_231x87.jpg?t=1744483352"
-  },
-  {
-   "id": "oB9Yv%2Fh3IlaBVJ62nQMR2HWLeLC9rJg7zZlE5oLxVcE%3D",
-   "title": "RPG Maker MZ",
-   "store": "Fanatical",
-   "price": 35.99,
-   "regular": 79.99,
-   "savings": 55,
-   "hl": false,
-   "low": null,
-   "release": "2020-08-20",
-   "url": "https://www.cheapshark.com/redirect?dealID=oB9Yv%2Fh3IlaBVJ62nQMR2HWLeLC9rJg7zZlE5oLxVcE%3D",
-   "thumb": "https://cdn.fanatical.com/production/product/400x225/aa66ffe3-98a8-42d6-9f37-c77504f5fcd0.jpeg"
   },
   {
    "id": "gc6mMOoX36HHEP8Ear1ZRcOcFn5dz1KXTvWOA0sVD2E%3D",
@@ -910,7 +910,7 @@
    "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=S7ZA0yVR177prmNpg8lS0yKXsi%2FW9TTAMZ3x9%2FGkwsw%3D",
-   "thumb": "https://cdn.fanatical.com/production/product/400x225/4e6d4809-1f92-48c6-839a-affeebba2018.jpg"
+   "thumb": "https://images.gog-statics.com/676a646aacdbbb862d2c15f225ea4390c02a4691c9027572a5d7389f84e84df2_product_tile_117h.webp"
   },
   {
    "id": "PzvXOxTkzML9%2Be1MiQWvW1wDD43gaRWF1FCfRFBfX9E%3D",
@@ -1163,6 +1163,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/836860/capsule_231x87.jpg?t=1587033159"
   },
   {
+   "id": "nxbNfDUu5fP9n1ekb7dktw4SF5dInxGXXSPLZI4ZhwI%3D",
+   "title": "Lords of the Black Sun",
+   "store": "Steam",
+   "price": 2.49,
+   "regular": 24.99,
+   "savings": 90,
+   "hl": false,
+   "low": null,
+   "release": "2014-09-12",
+   "url": "https://www.cheapshark.com/redirect?dealID=nxbNfDUu5fP9n1ekb7dktw4SF5dInxGXXSPLZI4ZhwI%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246940/capsule_231x87.jpg?t=1772805684"
+  },
+  {
    "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
    "title": "Prop Hunt",
    "store": "Steam",
@@ -1213,6 +1226,19 @@
    "release": "2014-09-18",
    "url": "https://www.cheapshark.com/redirect?dealID=MIhFXLCzLvyXSVyKmh%2BcJc6subv6dbhtHeaNLzJuwcA%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/273030/capsule_231x87.jpg?t=1447360077"
+  },
+  {
+   "id": "5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
+   "title": "Hidden Flowers",
+   "store": "Steam",
+   "price": 9.99,
+   "regular": 199.99,
+   "savings": 95,
+   "hl": false,
+   "low": null,
+   "release": "2021-09-23",
+   "url": "https://www.cheapshark.com/redirect?dealID=5QQDF2Rb6ZcCJGEJyvAYR%2BYOuwV7LZ5X%2FhYluborUDs%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1752830/capsule_231x87.jpg?t=1741907588"
   },
   {
    "id": "IVdOtxwUCqafCNsQQjvUlz75FvNfXvWXkJs6rEhz5tc%3D",
@@ -1278,32 +1304,6 @@
    "release": "2024-05-22",
    "url": "https://www.cheapshark.com/redirect?dealID=ofC7jCnsGWAwZDo2BJ6Lm%2FF6%2BcXPry3Zrlmqhm1AnE8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082410/capsule_231x87.jpg?t=1724958244"
-  },
-  {
-   "id": "nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
-   "title": "Construction Simulator 4 - Pocket Edition",
-   "store": "Steam",
-   "price": 4.49,
-   "regular": 14.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2025-11-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
-  },
-  {
-   "id": "aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
-   "title": "Construction Simulator 4 - Pocket Edition",
-   "store": "GOG",
-   "price": 8.99,
-   "regular": 14.99,
-   "savings": 40,
-   "hl": false,
-   "low": null,
-   "release": "2025-11-13",
-   "url": "https://www.cheapshark.com/redirect?dealID=aCY8QxQWxS4UQ36jWou5cbsCEMUu7EIe06yuxyKncRI%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

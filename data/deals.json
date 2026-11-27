@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:30:10+00:00",
+ "updated": "2026-11-27T20:38:30+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -588,6 +588,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/53403/capsule_231x87.jpg?t=1775492998"
   },
   {
+   "id": "fOPHmC2uOObU30JVLDUwu8OTWksf23tkm5UFhQcnO98%3D",
+   "title": "SNK HEROINES Tag Team Frenzy",
+   "store": "Fanatical",
+   "price": 48.99,
+   "regular": 49.99,
+   "savings": 2,
+   "hl": false,
+   "low": 4.93,
+   "release": "2019-02-21",
+   "url": "https://www.cheapshark.com/redirect?dealID=fOPHmC2uOObU30JVLDUwu8OTWksf23tkm5UFhQcnO98%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/794580/capsule_231x87.jpg?t=1572597745"
+  },
+  {
    "id": "vCmRkxdLeyoDA5T35127OLHTcER%2FhcVWrdpZ6HtpI5Y%3D",
    "title": "Shelter Complete Edition",
    "store": "Fanatical",
@@ -664,6 +677,19 @@
    "release": "2018-11-08",
    "url": "https://www.cheapshark.com/redirect?dealID=7l1HX7AiOX5D2DdSiF8J5utQfu%2BF%2B0agbXX2e0rad8I%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/735580/capsule_231x87.jpg?t=1754333248"
+  },
+  {
+   "id": "oVSBJI0XmwByjPO2hFpXFj38Ft7g66M5I8JS0QOiGpY%3D",
+   "title": "SNK 40th ANNIVERSARY COLLECTION",
+   "store": "Fanatical",
+   "price": 29.39,
+   "regular": 29.99,
+   "savings": 2,
+   "hl": false,
+   "low": 2.93,
+   "release": "2019-06-07",
+   "url": "https://www.cheapshark.com/redirect?dealID=oVSBJI0XmwByjPO2hFpXFj38Ft7g66M5I8JS0QOiGpY%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/865940/capsule_231x87.jpg?t=1718093041"
   },
   {
    "id": "O8AhmDQ23pdfZBrckByyH7z5U0FIkxc8cFy5BX%2FjU1Y%3D",
@@ -829,7 +855,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 2.99,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=wprD21J9klyaMd5goLzKF8o21hjFK%2Bu6nIipjDxhEgI%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707350/capsule_231x87.jpg?t=1671433131"
@@ -842,7 +868,7 @@
    "regular": 19.99,
    "savings": 2,
    "hl": false,
-   "low": 2.37,
+   "low": null,
    "release": null,
    "url": "https://www.cheapshark.com/redirect?dealID=D4PMl1iBuUxTMhBF%2FUlQZwLWDhLtho6tTOt3Ww6wwC8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245280/capsule_231x87.jpg?t=1580374672"
@@ -950,32 +976,6 @@
    "release": "2014-09-24",
    "url": "https://www.cheapshark.com/redirect?dealID=K8qdwCNGRfX2ajPlPFulcDsj5jpN%2Bg9sXbcw%2FqAftvY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294460/capsule_231x87.jpg?t=1666992844"
-  },
-  {
-   "id": "YBwVKUhQoOMfhYNG6vPQPNiyzzZpSxEaKCEiFT0Xi8s%3D",
-   "title": "Shelter 2",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2015-03-09",
-   "url": "https://www.cheapshark.com/redirect?dealID=YBwVKUhQoOMfhYNG6vPQPNiyzzZpSxEaKCEiFT0Xi8s%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275100/capsule_231x87.jpg?t=1762857307"
-  },
-  {
-   "id": "8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
-   "title": "Lost Horizon 2",
-   "store": "Fanatical",
-   "price": 14.69,
-   "regular": 14.99,
-   "savings": 2,
-   "hl": false,
-   "low": null,
-   "release": "2015-10-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=8bvv34egkrndaWrGeCx0Bu%2FqMiQuD7gYjK43wdUexnU%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/395560/capsule_231x87.jpg?t=1792652674"
   },
   {
    "id": "MxgrocWPHqgYHYL2SbwRZoL7ZSpMK1HI%2B6XTKTRW7iU%3D",
@@ -1176,19 +1176,6 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246940/capsule_231x87.jpg?t=1772805684"
   },
   {
-   "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "title": "Prop Hunt",
-   "store": "Steam",
-   "price": 2.99,
-   "regular": 9.99,
-   "savings": 70,
-   "hl": false,
-   "low": null,
-   "release": "2021-01-22",
-   "url": "https://www.cheapshark.com/redirect?dealID=l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1509230/capsule_231x87.jpg?t=1667496810"
-  },
-  {
    "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Steam",
@@ -1304,6 +1291,19 @@
    "release": "2024-05-22",
    "url": "https://www.cheapshark.com/redirect?dealID=ofC7jCnsGWAwZDo2BJ6Lm%2FF6%2BcXPry3Zrlmqhm1AnE8%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1082410/capsule_231x87.jpg?t=1724958244"
+  },
+  {
+   "id": "nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
+   "title": "Construction Simulator 4 - Pocket Edition",
+   "store": "Steam",
+   "price": 4.49,
+   "regular": 14.99,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": "2025-11-13",
+   "url": "https://www.cheapshark.com/redirect?dealID=nf3jQqQ4lCfGTVK%2F2jdfnS6BPfGA25AVf4b2t0%2FvY5k%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080810/e248169fbda366de71a1e2d3feb5e4ac4d7522a2/capsule_231x87.jpg?t=1770737518"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:53:06+00:00",
+ "updated": "2026-11-27T06:30:10+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -14,6 +14,19 @@
    "release": "2022-02-11",
    "url": "https://www.cheapshark.com/redirect?dealID=ASvtm6VWAP1JI77fHCW1n2Os5DwB%2BB4n1KhWcifNz2M%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1891230/capsule_231x87.jpg?t=1709425848"
+  },
+  {
+   "id": "IYFIxPCY9v9vA9s0rfADXfAXV1clw6rHNxMyoFrY4Cw%3D",
+   "title": "How Much Items - Vehicles",
+   "store": "Steam",
+   "price": 9.99,
+   "regular": 199.99,
+   "savings": 95,
+   "hl": false,
+   "low": null,
+   "release": "2025-03-12",
+   "url": "https://www.cheapshark.com/redirect?dealID=IYFIxPCY9v9vA9s0rfADXfAXV1clw6rHNxMyoFrY4Cw%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3525880/8520680d63e0a67c4ab6997a7588235712c4fe71/capsule_231x87.jpg?t=1741826676"
   },
   {
    "id": "9wK0yr%2B9dx5TdebOPUhoao%2BfO3G0uV59kw0Lq2yukT0%3D",
@@ -53,19 +66,6 @@
    "release": "2021-12-21",
    "url": "https://www.cheapshark.com/redirect?dealID=gc6mMOoX36HHEP8Ear1ZRcOcFn5dz1KXTvWOA0sVD2E%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1825850/capsule_231x87.jpg?t=1725000115"
-  },
-  {
-   "id": "o%2F4IRnaRjhynQ4VOpGBSBO7tRzUjoTAocUMlvBO6peQ%3D",
-   "title": "Mashiroiro Symphony HD -Love is Pure White-",
-   "store": "Steam",
-   "price": 23.99,
-   "regular": 39.99,
-   "savings": 40,
-   "hl": false,
-   "low": null,
-   "release": "2024-05-01",
-   "url": "https://www.cheapshark.com/redirect?dealID=o%2F4IRnaRjhynQ4VOpGBSBO7tRzUjoTAocUMlvBO6peQ%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2737970/capsule_231x87.jpg?t=1782462825"
   },
   {
    "id": "TOuBodFzSBpNV1IInxH1P51epeNs3pqDPYc1LYGiFoA%3D",

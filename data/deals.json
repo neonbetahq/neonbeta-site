@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:38:30+00:00",
+ "updated": "2026-11-28T06:05:02+00:00",
  "source": "CheapShark",
  "deals": [
   {
@@ -1176,6 +1176,19 @@
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/246940/capsule_231x87.jpg?t=1772805684"
   },
   {
+   "id": "l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
+   "title": "Prop Hunt",
+   "store": "Steam",
+   "price": 2.99,
+   "regular": 9.99,
+   "savings": 70,
+   "hl": false,
+   "low": null,
+   "release": "2021-01-22",
+   "url": "https://www.cheapshark.com/redirect?dealID=l9h4OPDbIEUpTqDB6WsvZoijDqqC%2FXk8Dv7ZP9EvbEA%3D",
+   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1509230/capsule_231x87.jpg?t=1667496810"
+  },
+  {
    "id": "G3y2T7IXIhwLcU6WQZuYKzWBaR0Oq%2B3nCmffCWGfg2w%3D",
    "title": "Pro Rugby Manager 2015",
    "store": "Steam",
@@ -1251,19 +1264,6 @@
    "low": null,
    "release": "2014-06-03",
    "url": "https://www.cheapshark.com/redirect?dealID=HP40Le6itveZkNh6BlFsgsVn5qhY6AzADHEXQ%2FMVjBM%3D",
-   "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
-  },
-  {
-   "id": "%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
-   "title": "Legends of Persia",
-   "store": "Fanatical",
-   "price": 1.59,
-   "regular": 19.99,
-   "savings": 92,
-   "hl": false,
-   "low": null,
-   "release": "2014-06-03",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FaAtc7DBKwQDpW2cX5dTDFqJdV%2BWKFFGuVdloNWotvY%3D",
    "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/301220/capsule_231x87.jpg?t=1781884626"
   },
   {
